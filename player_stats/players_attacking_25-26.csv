@@ -1,0 +1,606 @@
+player_name,matches_played,mins,goals,xg,goals_vs_xg,shots,sot,conv_percentage,xg_per_shot,player_id,club_name
+Erling Haaland,35,2958,27,25.39,1.61,126,59,21.43%,0.20,p223094,Man City
+Igor Thiago,38,3284,22,20.58,1.42,84,43,26.19%,0.25,p502500,Brentford
+Dominic Calvert-Lewin,35,2726,14,15.81,-1.81,74,34,18.92%,0.21,p177815,Leeds
+Ollie Watkins,37,2852,16,15.14,0.86,83,38,19.28%,0.18,p178301,Aston Villa
+João Pedro,35,2674,15,14.96,0.04,73,28,20.55%,0.20,p475168,Chelsea
+Jean-Philippe Mateta,32,2222,12,14.51,-2.51,63,32,19.05%,0.23,p231747,Crystal Palace
+Danny Welbeck,37,2263,13,12.44,0.56,56,28,23.21%,0.22,p50175,Brighton
+Viktor Gyökeres,36,2230,14,12.40,1.60,55,22,25.45%,0.23,p224117,Arsenal
+Bryan Mbeumo,33,2621,11,12.19,-1.19,73,32,15.07%,0.17,p446008,Man Utd
+Kevin Schade,35,2757,8,12.18,-4.18,57,24,14.04%,0.21,p513418,Brentford
+Raúl Jiménez,36,2199,9,11.50,-2.50,74,19,12.16%,0.16,p102057,Fulham
+Enzo Fernández,36,3121,10,11.29,-1.29,72,31,13.89%,0.16,p448047,Chelsea
+Antoine Semenyo,37,3200,17,11.09,5.91,83,41,20.48%,0.13,p437730,Man City
+Ismaïla Sarr,28,2176,9,10.91,-1.91,48,21,18.75%,0.23,p232185,Crystal Palace
+Morgan Gibbs-White,37,3110,15,10.84,4.16,83,32,18.07%,0.13,p222531,Nott'm Forest
+Bruno Fernandes,35,3066,9,10.83,-1.83,85,24,10.59%,0.13,p141746,Man Utd
+Evanilson,36,2759,6,10.59,-4.59,70,22,8.57%,0.15,p444102,Bournemouth
+Cole Palmer,26,1965,10,10.56,-0.56,64,25,15.62%,0.17,p244851,Chelsea
+Hugo Ekitiké,28,1810,11,9.87,1.13,65,19,16.92%,0.15,p510663,Liverpool
+Benjamin Sesko,30,1635,11,9.20,1.80,61,34,18.03%,0.15,p485711,Man Utd
+Marcus Tavernier,34,2738,7,9.06,-2.06,70,24,10.00%,0.13,p201658,Bournemouth
+Beto,37,1565,9,8.91,0.09,43,17,20.93%,0.21,p486385,Everton
+Anthony Gordon,26,1814,6,8.83,-2.83,48,20,12.50%,0.18,p232826,Newcastle
+Cody Gakpo,36,2747,7,8.46,-1.46,87,21,8.05%,0.10,p243298,Liverpool
+Junior Kroupi,33,1683,13,8.35,4.65,52,22,25.00%,0.16,p560262,Bournemouth
+Mohamed Salah,27,2148,7,8.16,-1.16,68,19,10.29%,0.12,p118748,Liverpool
+Thierno Barry,38,1915,8,8.15,-0.15,38,14,21.05%,0.21,p586309,Everton
+Richarlison,32,1957,11,8.09,2.91,61,26,18.03%,0.13,p212319,Spurs
+Zian Flemming,29,1776,11,7.87,3.13,53,21,20.75%,0.15,p431639,Burnley
+Dango Ouattara,32,2279,7,7.72,-0.72,56,20,12.50%,0.14,p533463,Brentford
+Callum Wilson,32,1243,7,7.66,-0.66,38,16,18.42%,0.20,p75115,West Ham
+Bukayo Saka,31,2225,7,7.55,-0.55,71,27,9.86%,0.11,p223340,Arsenal
+Jarrod Bowen,38,3405,9,7.26,1.74,79,28,11.39%,0.09,p178186,West Ham
+Lukas Nmecha,31,1073,6,7.23,-1.23,30,16,20.00%,0.24,p174594,Leeds
+Harvey Barnes,37,1961,7,7.07,-0.07,58,21,12.07%,0.12,p201666,Newcastle
+Matheus Cunha,33,2503,10,7.06,2.94,90,35,11.11%,0.08,p430871,Man Utd
+Florian Wirtz,33,2388,5,7.02,-2.02,51,18,9.80%,0.14,p494595,Liverpool
+Morgan Rogers,37,3285,10,6.78,3.22,84,32,11.90%,0.08,p244850,Aston Villa
+Iliman Ndiaye,32,2786,6,6.71,-0.71,43,22,13.95%,0.16,p440993,Everton
+Igor Jesus,37,2314,6,6.64,-0.64,70,21,8.57%,0.09,p482973,Nott'm Forest
+Nick Woltemade,33,1912,8,6.59,1.41,32,13,25.00%,0.21,p470313,Newcastle
+Diego Gómez,32,2136,5,6.29,-1.29,42,14,11.90%,0.15,p514254,Brighton
+Phil Foden,33,2084,7,6.15,0.85,55,19,12.73%,0.11,p209244,Man City
+Nico O'Reilly,34,2648,5,6.03,-1.03,41,15,12.20%,0.15,p472769,Man City
+Brian Brobbey,31,1931,7,5.94,1.06,36,18,19.44%,0.16,p441264,Sunderland
+Harry Wilson,36,2691,10,5.83,4.17,78,25,12.82%,0.07,p153682,Fulham
+David Brooks,31,1199,1,5.83,-4.83,48,13,2.08%,0.12,p111317,Bournemouth
+Valentín Castellanos,18,1395,6,5.80,0.20,50,22,12.00%,0.12,p247670,West Ham
+Tomás Soucek,35,2198,5,5.68,-0.68,26,14,19.23%,0.22,p215439,West Ham
+Bruno Guimarães,29,2455,9,5.60,3.40,42,23,21.43%,0.13,p208706,Newcastle
+Amad Diallo,32,2344,2,5.57,-3.57,53,23,3.77%,0.11,p493250,Man Utd
+Casemiro,34,2588,9,5.52,3.48,52,18,17.31%,0.11,p61256,Man Utd
+Leandro Trossard,31,2006,6,5.47,0.53,53,15,11.32%,0.10,p116216,Arsenal
+Tolu Arokodare,33,1407,3,5.46,-2.46,47,16,6.38%,0.12,p488213,Wolves
+Jørgen Strand Larsen,36,2316,4,5.32,-1.32,44,14,9.09%,0.12,p247412,Crystal Palace
+Noah Okafor,28,1568,8,5.26,2.74,35,15,22.86%,0.15,p435997,Leeds
+Crysencio Summerville,31,2480,5,5.17,-0.17,54,15,9.26%,0.10,p450070,West Ham
+Enzo Le Fée,36,2934,5,5.15,-0.15,36,12,13.89%,0.14,p484420,Sunderland
+Jaidon Anthony,37,2735,8,5.13,2.87,55,23,14.55%,0.09,p444180,Burnley
+Eberechi Eze,33,1900,7,5.05,1.95,63,20,11.11%,0.08,p232413,Arsenal
+Jack Hinshelwood,27,1750,4,4.92,-0.92,37,15,10.81%,0.13,p532529,Brighton
+Dominik Szoboszlai,36,3233,6,4.85,1.15,71,23,8.45%,0.07,p424876,Liverpool
+Emile Smith Rowe,37,1928,3,4.77,-1.77,36,11,8.33%,0.13,p209289,Fulham
+Jurriën Timber,30,2457,3,4.77,-1.77,25,7,12.00%,0.19,p445122,Arsenal
+Wilson Isidor,32,1158,6,4.75,1.25,43,17,13.95%,0.11,p437505,Sunderland
+Malick Thiaw,35,2964,4,4.72,-0.72,28,14,14.29%,0.17,p465642,Newcastle
+Pedro Neto,34,2643,5,4.62,0.38,46,13,10.87%,0.10,p247632,Chelsea
+Brenden Aaronson,37,2465,4,4.55,-0.55,47,17,8.51%,0.10,p427637,Leeds
+Yéremy Pino,34,2091,2,4.51,-2.51,45,11,4.44%,0.10,p488024,Crystal Palace
+Liam Delap,28,1102,1,4.47,-3.47,36,11,2.78%,0.12,p463034,Chelsea
+Tijjani Reijnders,28,1636,5,4.45,0.55,49,16,10.20%,0.09,p433036,Man City
+Kiernan Dewsbury-Hall,31,2635,8,4.31,3.69,39,15,20.51%,0.11,p215413,Everton
+William Osula,24,811,7,4.29,2.71,23,12,30.43%,0.19,p538207,Newcastle
+Chris Wood,15,906,3,4.25,-1.25,23,9,13.04%,0.18,p60689,Nott'm Forest
+Rayan Cherki,33,1786,4,4.13,-0.13,55,13,7.27%,0.08,p466052,Man City
+Marc Guéhi,35,3150,3,4.12,-1.12,32,9,9.38%,0.13,p209036,Man City
+Donyell Malen,21,645,4,4.07,-0.07,27,9,14.81%,0.15,p204646,Aston Villa
+Kaoru Mitoma,25,1721,3,4.06,-1.06,32,13,9.38%,0.13,p451340,Brighton
+Gabriel Martinelli,30,1073,1,3.99,-2.99,29,13,3.45%,0.14,p444145,Arsenal
+Alexis Mac Allister,37,2662,2,3.89,-1.89,52,12,3.85%,0.07,p243016,Liverpool
+Alex Scott,37,2859,3,3.81,-0.81,44,13,6.82%,0.09,p503139,Bournemouth
+Yankuba Minteh,34,2398,3,3.80,-0.80,41,11,7.32%,0.09,p592031,Brighton
+Virgil van Dijk,38,3420,6,3.77,2.23,30,14,20.00%,0.13,p97032,Liverpool
+Taiwo Awoniyi,17,481,4,3.58,0.42,15,8,26.67%,0.24,p210156,Nott'm Forest
+Alejandro Garnacho,24,1268,1,3.45,-2.45,33,7,3.03%,0.10,p493105,Chelsea
+Emiliano Buendía,36,1759,6,3.42,2.58,49,13,12.24%,0.07,p195546,Aston Villa
+Habib Diarra,20,1407,2,3.41,-1.41,26,8,7.69%,0.13,p547027,Sunderland
+Mikel Merino,22,1027,4,3.38,0.62,22,8,18.18%,0.15,p195384,Arsenal
+Riccardo Calafiori,26,1707,1,3.34,-2.34,32,8,3.12%,0.10,p466075,Arsenal
+Rodrigo Muniz,21,997,1,3.34,-2.34,32,5,3.12%,0.10,p244042,Fulham
+Kai Havertz,12,583,2,3.31,-1.31,18,4,11.11%,0.18,p219847,Arsenal
+Jan Paul van Hecke,36,3211,3,3.30,-0.30,23,10,13.04%,0.14,p469142,Brighton
+Lyle Foster,26,1372,3,3.25,-0.25,20,6,15.00%,0.16,p435973,Burnley
+Jhon Arias,23,1121,1,3.25,-2.25,16,3,6.25%,0.20,p230376,Wolves
+Declan Rice,36,3099,4,3.17,0.83,40,13,10.00%,0.08,p204480,Arsenal
+Jacob Murphy,33,1618,3,3.15,-0.15,42,13,7.14%,0.07,p114243,Newcastle
+Sepp van den Berg,32,2761,0,3.13,-3.13,23,7,0.00%,0.14,p444765,Brentford
+Yoane Wissa,19,521,1,3.12,-2.12,13,5,7.69%,0.24,p216646,Newcastle
+Xavi Simons,28,1757,2,3.08,-1.08,42,10,4.76%,0.07,p493362,Spurs
+Keane Lewis-Potter,36,1968,3,3.04,-0.04,31,9,9.68%,0.10,p249231,Brentford
+Georginio Rutter,32,1790,3,3.02,-0.02,42,14,7.14%,0.07,p463067,Brighton
+Pascal Struijk,34,2937,0,3.02,-3.02,31,5,0.00%,0.10,p222694,Leeds
+John McGinn,30,2157,5,2.96,2.04,28,12,17.86%,0.11,p122806,Aston Villa
+Joshua Zirkzee,24,608,2,2.95,-0.95,25,9,8.00%,0.12,p458249,Man Utd
+Gabriel Magalhães,32,2751,3,2.93,0.07,27,7,11.11%,0.11,p226597,Arsenal
+Anton Stach,29,2378,5,2.92,2.08,55,14,9.09%,0.05,p466525,Leeds
+Estêvão,22,845,2,2.92,-0.92,28,8,7.14%,0.10,p624773,Chelsea
+Rayan,15,1119,5,2.91,2.09,28,8,17.86%,0.10,p499604,Bournemouth
+James Tarkowski,37,3330,2,2.91,-0.91,21,10,9.52%,0.14,p17761,Everton
+Elliot Anderson,38,3334,4,2.90,1.10,44,10,9.09%,0.07,p215379,Nott'm Forest
+Martín Zubimendi,38,3001,5,2.85,2.15,27,9,18.52%,0.11,p481655,Arsenal
+Lucas Paquetá,18,1521,4,2.82,1.18,23,11,17.39%,0.12,p224024,West Ham
+Callum Hudson-Odoi,30,1844,3,2.80,0.20,30,10,10.00%,0.09,p209046,Nott'm Forest
+Curtis Jones,34,1929,1,2.77,-1.77,23,7,4.35%,0.12,p206915,Liverpool
+Adam Armstrong,14,1146,2,2.74,-0.74,18,6,11.11%,0.15,p155511,Wolves
+Jérémy Doku,30,1784,5,2.73,2.27,39,15,12.82%,0.07,p248875,Man City
+Omar Marmoush,21,699,3,2.72,0.28,30,9,10.00%,0.09,p438234,Man City
+Yasin Ayari,29,1924,3,2.71,0.29,41,10,7.32%,0.07,p509416,Brighton
+João Palhinha,33,2197,5,2.70,2.30,33,9,15.15%,0.08,p154296,Spurs
+Gabriel Jesus,14,421,3,2.69,0.31,19,12,15.79%,0.14,p205651,Arsenal
+Alexander Isak,14,703,3,2.65,0.35,17,6,17.65%,0.16,p219168,Liverpool
+Justin Devenny,21,788,1,2.62,-1.62,13,4,7.69%,0.20,p489706,Crystal Palace
+Mikkel Damsgaard,33,2057,4,2.62,1.38,29,11,13.79%,0.09,p440089,Brentford
+Amine Adli,31,1082,3,2.60,0.40,20,9,15.00%,0.13,p489888,Bournemouth
+Bernardo Silva,38,2886,2,2.56,-0.56,30,7,6.67%,0.09,p165809,Man City
+Konstantinos Mavropanos,31,2528,3,2.55,0.45,23,8,13.04%,0.11,p233963,West Ham
+Micky van de Ven,35,3043,4,2.53,1.47,16,6,25.00%,0.16,p491279,Spurs
+Yerson Mosquera,27,2142,0,2.52,-2.52,30,6,0.00%,0.08,p501837,Wolves
+Lesley Ugochukwu,35,2350,3,2.50,0.50,23,8,13.04%,0.11,p503714,Burnley
+Ethan Ampadu,35,3123,1,2.50,-1.50,26,6,3.85%,0.10,p199598,Leeds
+Josh King,32,1304,1,2.47,-1.47,26,11,3.85%,0.09,p577725,Fulham
+Dan Ballard,29,2148,2,2.46,-0.46,26,9,7.69%,0.09,p223827,Sunderland
+Daniel Muñoz,29,2403,4,2.44,1.56,27,13,14.81%,0.09,p247348,Crystal Palace
+Mathys Tel,31,1342,4,2.44,1.56,35,8,11.43%,0.07,p511499,Spurs
+Brennan Johnson,34,1722,2,2.43,-0.43,23,5,8.70%,0.11,p242898,Crystal Palace
+Dominic Solanke,15,1000,3,2.43,0.57,20,11,15.00%,0.12,p154566,Spurs
+Josko Gvardiol,18,1374,2,2.40,-0.40,17,6,11.76%,0.14,p477424,Man City
+Hwang Hee-Chan,26,1452,2,2.39,-0.39,19,6,10.53%,0.13,p184754,Wolves
+Joelinton,27,1953,2,2.39,-0.39,32,11,6.25%,0.07,p180974,Newcastle
+Maxence Lacroix,35,3087,1,2.38,-1.38,24,7,4.17%,0.10,p437499,Crystal Palace
+Chris Richards,33,2826,1,2.36,-1.36,15,2,6.67%,0.16,p427623,Crystal Palace
+Patrick Dorgu,26,1445,4,2.35,1.65,26,12,15.38%,0.09,p596777,Man Utd
+Marc Cucurella,34,2710,1,2.35,-1.35,20,6,5.00%,0.12,p179268,Chelsea
+Savinho,24,821,1,2.33,-1.33,20,11,5.00%,0.12,p510281,Man City
+Justin Kluivert,20,951,2,2.32,-0.32,17,4,11.76%,0.14,p222683,Bournemouth
+Santiago Bueno,29,2553,3,2.28,0.72,10,7,30.00%,0.23,p231480,Wolves
+Nathan Collins,35,2972,1,2.28,-1.28,20,6,5.00%,0.11,p432830,Brentford
+Mathias Jensen,36,2252,3,2.27,0.73,29,8,10.34%,0.08,p207283,Brentford
+Sasa Lukic,26,1734,1,2.26,-1.26,18,6,5.56%,0.13,p212314,Fulham
+Ladislav Krejcí,28,2361,2,2.22,-0.22,21,10,9.52%,0.11,p431248,Wolves
+Randal Kolo Muani,30,1670,1,2.18,-1.18,20,4,5.00%,0.11,p247693,Spurs
+Michael Keane,33,2590,3,2.16,0.84,26,7,11.54%,0.08,p106611,Everton
+Rodrigo Gomes,22,960,3,2.15,0.85,20,6,15.00%,0.11,p483081,Wolves
+Trai Hume,38,3037,2,2.15,-0.15,34,7,5.88%,0.06,p487676,Sunderland
+Armando Broja,24,849,1,2.15,-1.15,16,6,6.25%,0.13,p440323,Burnley
+Jack Grealish,20,1631,2,2.15,-0.15,26,8,7.69%,0.08,p114283,Everton
+Charalampos Kostoulas,21,353,2,2.14,-0.14,21,8,9.52%,0.10,p647850,Brighton
+Eliezer Mayenda,20,756,2,2.14,-0.14,13,6,15.38%,0.16,p564406,Sunderland
+Chemsdine Talbi,28,1561,4,2.13,1.87,25,10,16.00%,0.09,p549912,Sunderland
+Jayden Bogle,34,2802,1,2.11,-1.11,18,4,5.56%,0.12,p226182,Leeds
+Samuel Chukwueze,23,1075,3,2.07,0.93,25,7,12.00%,0.08,p218328,Fulham
+Tammy Abraham,12,279,2,2.04,-0.04,9,3,22.22%,0.23,p173879,Aston Villa
+Ferdi Kadioglu,37,3134,1,2.03,-1.03,28,13,3.57%,0.07,p231416,Brighton
+James Garner,38,3414,2,2.03,-0.03,45,14,4.44%,0.05,p232928,Everton
+Mateus Mané,27,1790,3,2.01,0.99,42,17,7.14%,0.05,p647671,Wolves
+Enes Ünal,23,214,1,2.00,-1.00,15,3,6.67%,0.13,p168636,Bournemouth
+Andrey Santos,27,1255,1,2.00,-1.00,11,2,9.09%,0.18,p532605,Chelsea
+Mateus Fernandes,36,3024,3,2.00,1.00,28,8,10.71%,0.07,p551226,West Ham
+Diogo Dalot,34,2616,1,2.00,-1.00,24,6,4.17%,0.08,p216051,Man Utd
+Idrissa Gueye,25,2101,2,2.00,0.00,29,7,6.90%,0.07,p80801,Everton
+Neco Williams,37,3206,2,1.97,0.03,46,19,4.35%,0.04,p215136,Nott'm Forest
+Wilson Odobert,24,980,0,1.96,-1.96,22,8,0.00%,0.09,p550839,Spurs
+Omari Hutchinson,31,1684,1,1.94,-0.94,25,11,4.00%,0.08,p503301,Nott'm Forest
+Mats Wieffer,26,1908,2,1.93,0.07,18,6,11.11%,0.11,p467779,Brighton
+Mohammed Kudus,19,1545,2,1.93,0.07,26,9,7.69%,0.07,p460842,Spurs
+Alex Iwobi,29,2434,4,1.92,2.08,39,15,10.26%,0.05,p153133,Fulham
+Ryan Christie,26,986,2,1.92,0.08,25,8,8.00%,0.08,p158499,Bournemouth
+Ryan Gravenberch,36,2996,5,1.90,3.10,38,13,13.16%,0.05,p441266,Liverpool
+Nordi Mukiele,32,2787,3,1.88,1.12,26,4,11.54%,0.07,p200834,Sunderland
+Maxim De Cuyper,30,1414,2,1.82,0.18,13,6,15.38%,0.14,p465730,Brighton
+Jefferson Lerma,31,1724,0,1.82,-1.82,19,7,0.00%,0.10,p152551,Crystal Palace
+Eddie Nketiah,12,416,2,1.77,0.23,15,6,13.33%,0.12,p205533,Crystal Palace
+Sven Botman,25,1838,1,1.74,-0.74,15,4,6.67%,0.12,p220237,Newcastle
+Jake O'Brien,37,3124,1,1.74,-0.74,13,6,7.69%,0.13,p512462,Everton
+Sandro Tonali,35,2543,0,1.74,-1.74,37,8,0.00%,0.05,p432422,Newcastle
+Calvin Bassey,30,2532,1,1.72,-0.72,13,2,7.69%,0.13,p232892,Fulham
+Pape Matar Sarr,26,1391,2,1.72,0.28,17,6,11.76%,0.10,p482442,Spurs
+Brajan Gruda,18,715,1,1.72,-0.72,16,6,6.25%,0.11,p513433,Brighton
+Lewis Dunk,33,2837,1,1.71,-0.71,24,3,4.17%,0.07,p83299,Brighton
+Amadou Onana,25,1764,2,1.71,0.29,19,7,10.53%,0.09,p449871,Aston Villa
+Anthony Elanga,32,1313,0,1.67,-1.67,17,4,0.00%,0.10,p449434,Newcastle
+James Justin,29,1896,2,1.67,0.33,24,6,8.33%,0.07,p220627,Leeds
+Daichi Kamada,28,1908,0,1.65,-1.65,19,4,0.00%,0.09,p209400,Crystal Palace
+Omar Alderete,33,2802,1,1.64,-0.64,24,9,4.17%,0.07,p201895,Sunderland
+Tyrick Mitchell,38,3253,1,1.61,-0.61,19,7,5.26%,0.08,p244723,Crystal Palace
+Ryan Sessegnon,27,1822,3,1.61,1.39,16,4,18.75%,0.10,p184349,Fulham
+Ao Tanaka,28,1314,2,1.61,0.39,17,5,11.76%,0.09,p248056,Leeds
+Marshall Munetsi,13,873,1,1.61,-0.61,14,6,7.14%,0.11,p433312,Wolves
+Milos Kerkez,34,2260,2,1.59,0.41,9,2,22.22%,0.18,p544877,Liverpool
+Evann Guessand,21,916,1,1.56,-0.56,11,6,9.09%,0.14,p485337,Crystal Palace
+Malo Gusto,34,2267,2,1.56,0.44,12,6,16.67%,0.13,p482609,Chelsea
+Marc Guiu,10,266,0,1.55,-1.55,13,2,0.00%,0.12,p499309,Chelsea
+Sander Berge,35,2911,0,1.54,-1.54,15,3,0.00%,0.10,p207189,Fulham
+Adam Wharton,34,2562,1,1.52,-0.52,32,6,3.12%,0.05,p496221,Crystal Palace
+Marcos Senesi,37,3290,0,1.52,-1.52,17,5,0.00%,0.09,p221466,Bournemouth
+Ross Barkley,21,852,3,1.51,1.49,18,8,16.67%,0.08,p88894,Aston Villa
+Mason Mount,23,1018,3,1.50,1.50,19,5,15.79%,0.08,p184341,Man Utd
+Federico Chiesa,26,318,2,1.50,0.50,17,5,11.76%,0.09,p223541,Liverpool
+Marcus Edwards,23,1064,1,1.49,-0.49,23,6,4.35%,0.06,p174592,Burnley
+Jaydee Canvot,20,1334,0,1.48,-1.48,7,1,0.00%,0.21,p651426,Crystal Palace
+Oscar Bobb,23,1037,0,1.48,-1.48,12,3,0.00%,0.12,p477555,Fulham
+Archie Gray,24,1479,2,1.48,0.52,11,5,18.18%,0.13,p547701,Spurs
+Joachim Andersen,33,2877,0,1.48,-1.48,16,4,0.00%,0.09,p174874,Fulham
+Nicolás Domínguez,27,1175,1,1.47,-0.47,18,5,5.56%,0.08,p250199,Nott'm Forest
+Matthijs de Ligt,13,1170,1,1.46,-0.46,11,3,9.09%,0.13,p209365,Man Utd
+Pascal Groß,19,1636,1,1.45,-0.45,18,9,5.56%,0.08,p60307,Brighton
+Moisés Caicedo,33,2802,3,1.44,1.56,27,7,11.11%,0.05,p486672,Chelsea
+Trevoh Chalobah,34,2782,3,1.43,1.57,16,5,18.75%,0.09,p180736,Chelsea
+Timothy Castagne,30,1842,0,1.42,-1.42,14,6,0.00%,0.10,p166477,Fulham
+Noah Sadiki,33,2894,0,1.41,-1.41,18,5,0.00%,0.08,p577669,Sunderland
+Joe Rodon,35,2953,2,1.41,0.59,18,7,11.11%,0.08,p214225,Leeds
+Lucas Bergvall,23,966,1,1.40,-0.40,12,5,8.33%,0.12,p570526,Spurs
+Leny Yoro,32,1739,0,1.39,-1.39,9,3,0.00%,0.15,p550864,Man Utd
+Dwight McNeil,22,1168,0,1.39,-1.39,24,5,0.00%,0.06,p433154,Everton
+Jacob Bruun Larsen,28,1023,0,1.38,-1.38,17,4,0.00%,0.08,p179458,Burnley
+Tyrone Mings,17,1323,0,1.37,-1.37,9,1,0.00%,0.15,p149484,Aston Villa
+Adrien Truffert,38,3380,1,1.36,-0.36,16,6,6.25%,0.09,p494521,Bournemouth
+Lewis Miley,23,1493,1,1.34,-0.34,12,4,8.33%,0.11,p547719,Newcastle
+Nicolò Savona,14,1026,2,1.34,0.66,5,3,40.00%,0.27,p500151,Nott'm Forest
+Morato,21,1342,1,1.32,-0.32,5,2,20.00%,0.26,p485047,Nott'm Forest
+Rio Ngumoha,19,551,2,1.31,0.69,16,6,12.50%,0.08,p611922,Liverpool
+Cristian Romero,23,1872,4,1.31,2.69,17,6,23.53%,0.08,p221632,Spurs
+Ian Maatsen,30,1599,0,1.30,-1.30,20,5,0.00%,0.06,p441302,Aston Villa
+João Gomes,35,2833,1,1.28,-0.28,19,7,5.26%,0.07,p448089,Wolves
+Pau Torres,21,1676,0,1.27,-1.27,9,1,0.00%,0.14,p244954,Aston Villa
+Joe Willock,24,980,0,1.26,-1.26,17,6,0.00%,0.07,p200089,Newcastle
+Loum Tchaouna,29,1270,2,1.25,0.75,23,9,8.70%,0.05,p469272,Burnley
+Sean Longstaff,23,1006,2,1.25,0.75,16,4,12.50%,0.08,p180135,Leeds
+Ezri Konsa,34,3036,0,1.25,-1.25,11,2,0.00%,0.11,p199798,Aston Villa
+Charly Alcaraz,20,685,0,1.24,-1.24,20,5,0.00%,0.06,p502697,Everton
+Martin Ødegaard,24,1370,1,1.23,-0.23,22,8,4.55%,0.06,p184029,Arsenal
+Noni Madueke,26,1217,3,1.22,1.78,26,10,11.54%,0.05,p248857,Arsenal
+Tom Cairney,24,763,2,1.21,0.79,17,2,11.76%,0.07,p76357,Fulham
+Ibrahima Konaté,36,3100,1,1.21,-0.21,12,4,8.33%,0.10,p204716,Liverpool
+Matt O'Riley,6,203,1,1.20,-0.20,4,2,25.00%,0.30,p219249,Brighton
+Kevin,26,1037,1,1.20,-0.20,25,10,4.00%,0.05,p560552,Fulham
+Yehor Yarmoliuk,37,2665,1,1.20,-0.20,16,4,6.25%,0.08,p508395,Brentford
+Jacob Ramsey,28,1444,2,1.19,0.81,16,4,12.50%,0.07,p232653,Newcastle
+Matty Cash,35,3020,3,1.19,1.81,30,10,10.00%,0.04,p199796,Aston Villa
+Max Dowman,6,153,1,1.18,-0.18,6,1,16.67%,0.20,p616077,Arsenal
+Michael Kayode,37,3264,1,1.18,-0.18,9,3,11.11%,0.13,p607464,Brentford
+Youri Tielemans,25,1862,0,1.17,-1.17,24,7,0.00%,0.05,p166989,Aston Villa
+Ibrahim Sangaré,28,2080,2,1.15,0.85,16,5,12.50%,0.07,p210462,Nott'm Forest
+Lutsharel Geertruida,28,1685,0,1.15,-1.15,11,3,0.00%,0.10,p247955,Sunderland
+Kyle Walker-Peters,23,1380,1,1.13,-0.13,5,3,20.00%,0.23,p158534,West Ham
+Rodri,21,1513,1,1.13,-0.13,16,3,6.25%,0.07,p220566,Man City
+Álex Jiménez,31,2323,1,1.13,-0.13,21,4,4.76%,0.05,p551483,Bournemouth
+Harry Maguire,23,1655,1,1.11,-0.11,14,4,7.14%,0.08,p95658,Man Utd
+Joël Veltman,24,1050,1,1.11,-0.11,4,1,25.00%,0.28,p111478,Brighton
+Andy Robertson,24,1172,1,1.10,-0.10,10,3,10.00%,0.11,p122798,Liverpool
+Gabriel Gudmundsson,32,2637,0,1.10,-1.10,18,3,0.00%,0.06,p243526,Leeds
+Will Hughes,31,1568,0,1.09,-1.09,17,0,0.00%,0.06,p108413,Crystal Palace
+Antonee Robinson,22,1492,1,1.07,-0.07,6,1,16.67%,0.18,p169528,Fulham
+Conor Gallagher,16,1190,1,1.07,-0.07,11,4,9.09%,0.10,p232787,Spurs
+Dan Burn,29,2199,1,1.06,-0.06,10,3,10.00%,0.11,p78916,Newcastle
+Dan Ndoye,24,1176,1,1.06,-0.06,15,4,6.67%,0.07,p456512,Nott'm Forest
+Pedro Porro,34,2798,1,1.05,-0.05,32,8,3.12%,0.03,p441164,Spurs
+Pablo,14,826,0,1.05,-1.05,12,3,0.00%,0.09,p530335,West Ham
+Reece James,29,1961,2,1.04,0.96,22,7,9.09%,0.05,p225796,Chelsea
+James Milner,20,778,1,1.02,-0.02,8,2,12.50%,0.13,p15157,Brighton
+Granit Xhaka,34,2903,1,1.02,-0.02,21,5,4.76%,0.05,p84450,Sunderland
+Axel Disasi,14,1255,0,1.02,-1.02,5,3,0.00%,0.20,p220362,West Ham
+Lewis Hall,30,2179,1,1.01,-0.01,25,6,4.00%,0.04,p487838,Newcastle
+Jean-Ricner Bellegarde,26,1251,1,0.99,0.01,21,7,4.76%,0.05,p231057,Wolves
+Fabian Schär,16,1091,0,0.98,-0.98,17,4,0.00%,0.06,p119471,Newcastle
+Kenny Tete,22,1794,1,0.96,0.04,16,3,6.25%,0.06,p167074,Fulham
+Joël Piroe,16,246,0,0.96,-0.96,14,3,0.00%,0.07,p235826,Leeds
+Niclas Füllkrug,8,408,0,0.92,-0.92,9,3,0.00%,0.10,p91889,West Ham
+Vitaly Janelt,25,1437,1,0.91,0.09,12,3,8.33%,0.08,p204580,Brentford
+Daniel James,19,553,0,0.91,-0.91,14,3,0.00%,0.06,p200617,Leeds
+Djed Spence,30,2056,0,0.90,-0.90,13,8,0.00%,0.07,p232859,Spurs
+Josh Cullen,18,1519,2,0.90,1.10,11,6,18.18%,0.08,p172567,Burnley
+Hannibal Mejbri,27,1231,1,0.89,0.11,19,5,5.26%,0.05,p465527,Burnley
+James Hill,29,2104,0,0.89,-0.89,12,2,0.00%,0.07,p463981,Bournemouth
+Jaka Bijol,25,1893,1,0.88,0.12,15,6,6.67%,0.06,p434752,Leeds
+Hugo Bueno,35,2364,1,0.86,0.14,16,6,6.25%,0.05,p490721,Wolves
+William Saliba,31,2615,1,0.86,0.14,5,1,20.00%,0.17,p462424,Arsenal
+Romaine Mundle,14,400,0,0.86,-0.86,7,2,0.00%,0.12,p461199,Sunderland
+Josh Laurent,33,1759,1,0.85,0.15,14,4,7.14%,0.06,p167887,Burnley
+Nikola Milenkovic,38,3375,0,0.84,-0.84,16,1,0.00%,0.05,p227444,Nott'm Forest
+Chris Rigg,18,766,1,0.84,0.16,12,3,8.33%,0.07,p554197,Sunderland
+Jamie Gittens,16,490,0,0.82,-0.82,10,2,0.00%,0.08,p463936,Chelsea
+Issa Diop,13,814,1,0.80,0.20,2,1,50.00%,0.40,p219924,Fulham
+Harrison Armstrong,13,528,0,0.79,-0.79,5,2,0.00%,0.16,p609873,Everton
+Lorenzo Lucca,4,127,1,0.79,0.21,4,1,25.00%,0.20,p469130,Nott'm Forest
+Kristoffer Ajer,27,1807,0,0.78,-0.78,10,3,0.00%,0.08,p191866,Brentford
+Nilson Angulo,8,406,0,0.78,-0.78,7,3,0.00%,0.11,p536661,Sunderland
+Merlin Röhl,16,677,1,0.78,0.22,11,1,9.09%,0.07,p513466,Everton
+Carlos Baleba,31,1662,0,0.75,-0.75,20,2,0.00%,0.04,p535301,Brighton
+Rodrigo Bentancur,26,1892,1,0.74,0.26,13,3,7.69%,0.06,p202993,Spurs
+Murillo,25,2133,1,0.74,0.26,11,4,9.09%,0.07,p575476,Nott'm Forest
+Nathan Aké,18,688,0,0.72,-0.72,6,1,0.00%,0.12,p126184,Man City
+Lucas Digne,31,1852,0,0.72,-0.72,14,5,0.00%,0.05,p101188,Aston Villa
+Wesley Fofana,25,1726,0,0.72,-0.72,8,1,0.00%,0.09,p444463,Chelsea
+Maxime Estève,34,2937,0,0.72,-0.72,10,1,0.00%,0.07,p477717,Burnley
+Luke Shaw,38,3231,1,0.71,0.29,10,3,10.00%,0.07,p106760,Man Utd
+Manuel Ugarte,22,881,0,0.71,-0.71,13,1,0.00%,0.05,p232112,Man Utd
+Reiss Nelson,10,118,0,0.71,-0.71,5,1,0.00%,0.14,p200641,Brentford
+Nico González,25,1567,1,0.70,0.30,14,2,7.14%,0.05,p465694,Man City
+Fábio Carvalho,6,100,1,0.70,0.30,2,1,50.00%,0.35,p244858,Brentford
+Adama Traoré,24,377,0,0.69,-0.69,7,1,0.00%,0.10,p159533,West Ham
+Abdukodir Khusanov,21,1429,0,0.68,-0.68,7,1,0.00%,0.10,p578153,Man City
+Florentino,31,2112,0,0.66,-0.66,13,2,0.00%,0.05,p216055,Burnley
+Josh Acheampong,17,663,1,0.63,0.37,4,2,25.00%,0.16,p577016,Chelsea
+Tyrique George,15,353,0,0.63,-0.63,10,5,0.00%,0.06,p550615,Everton
+Axel Tuanzebe,14,1202,1,0.61,0.39,2,1,50.00%,0.30,p180804,Burnley
+Tyler Adams,25,1778,2,0.60,1.40,10,6,20.00%,0.06,p200785,Bournemouth
+Tim Iroegbunam,29,1485,0,0.60,-0.60,12,1,0.00%,0.05,p490094,Everton
+Rayan Aït-Nouri,17,976,0,0.59,-0.59,10,2,0.00%,0.06,p448514,Man City
+Kevin Danso,24,1491,0,0.59,-0.59,11,2,0.00%,0.05,p135720,Spurs
+Lucas Pires,20,1406,0,0.58,-0.58,16,4,0.00%,0.04,p549329,Burnley
+Jadon Sancho,23,873,0,0.58,-0.58,10,3,0.00%,0.06,p209243,Aston Villa
+Maximilian Kilman,21,1559,0,0.57,-0.57,7,1,0.00%,0.08,p214048,West Ham
+El Hadji Malick Diouf,32,2711,0,0.57,-0.57,18,4,0.00%,0.03,p613804,West Ham
+Rúben Dias,26,2140,2,0.56,1.44,10,4,20.00%,0.06,p171314,Man City
+Bertrand Traoré,12,638,1,0.56,0.44,13,6,7.69%,0.04,p110504,Sunderland
+Emmanuel Agbadou,14,1101,0,0.56,-0.56,10,3,0.00%,0.06,p516939,Wolves
+Dilane Bakwa,14,552,0,0.55,-0.55,9,3,0.00%,0.06,p476887,Nott'm Forest
+Oliver Sonne,7,165,1,0.55,0.45,3,1,33.33%,0.18,p519895,Burnley
+Toti Gomes,19,1427,0,0.53,-0.53,5,2,0.00%,0.11,p510362,Wolves
+Douglas Luiz,21,923,1,0.53,0.47,11,5,9.09%,0.05,p230046,Aston Villa
+André,35,2766,1,0.52,0.48,15,1,6.67%,0.03,p509291,Wolves
+Jeremie Frimpong,21,1039,0,0.51,-0.51,10,2,0.00%,0.05,p216094,Liverpool
+Ryan Yates,22,604,0,0.50,-0.50,9,2,0.00%,0.06,p204968,Nott'm Forest
+Leon Bailey,13,452,0,0.49,-0.49,8,1,0.00%,0.06,p215711,Aston Villa
+Christantus Uche,14,159,0,0.49,-0.49,6,2,0.00%,0.08,p660392,Crystal Palace
+Ben Davies,3,138,1,0.49,0.51,2,2,50.00%,0.25,p115556,Spurs
+Boubacar Kamara,18,1418,1,0.49,0.51,7,4,14.29%,0.07,p226944,Aston Villa
+Kobbie Mainoo,28,1653,1,0.48,0.52,13,3,7.69%,0.04,p516895,Man Utd
+Ilia Gruev,23,1322,0,0.47,-0.47,7,1,0.00%,0.07,p486520,Leeds
+Ben White,12,704,0,0.46,-0.46,5,1,0.00%,0.09,p198869,Arsenal
+Stefanos Tzimas,9,133,1,0.46,0.54,4,1,25.00%,0.12,p608181,Brighton
+Aaron Hickey,21,685,0,0.45,-0.45,6,1,0.00%,0.08,p472713,Brentford
+Soungoutou Magassa,22,979,1,0.44,0.56,7,2,14.29%,0.06,p564940,West Ham
+Mamadou Sarr,3,100,0,0.44,-0.44,1,0,0.00%,0.44,p574458,Chelsea
+Arnaud Kalimuendo,9,89,0,0.44,-0.44,4,1,0.00%,0.11,p465680,Nott'm Forest
+Nathaniel Clyne,10,596,0,0.43,-0.43,3,0,0.00%,0.14,p57328,Crystal Palace
+Bashir Humphreys,20,1578,0,0.42,-0.42,9,3,0.00%,0.05,p461188,Burnley
+Wilfried Gnonto,23,524,0,0.41,-0.41,10,0,0.00%,0.04,p492859,Leeds
+Ola Aina,18,1590,0,0.40,-0.40,12,1,0.00%,0.03,p159506,Nott'm Forest
+Trey Nyoni,6,21,0,0.37,-0.37,1,0,0.00%,0.37,p591386,Liverpool
+Piero Hincapié,25,1792,1,0.36,0.64,3,2,33.33%,0.12,p448104,Arsenal
+Yves Bissouma,11,605,0,0.36,-0.36,5,2,0.00%,0.07,p227127,Spurs
+Ayden Heaven,17,923,0,0.35,-0.35,3,0,0.00%,0.12,p606745,Man Utd
+Matheus Nunes,34,2865,1,0.35,0.65,7,2,14.29%,0.05,p465351,Man City
+Jarrad Branthwaite,10,681,1,0.35,0.65,6,2,16.67%,0.06,p480455,Everton
+Simon Adingra,14,658,1,0.35,0.65,6,2,16.67%,0.06,p535818,Sunderland
+Pedro Lima,9,259,0,0.34,-0.34,4,1,0.00%,0.09,p641221,Wolves
+Quilindschy Hartman,21,1830,0,0.34,-0.34,9,3,0.00%,0.04,p494960,Burnley
+Jackson Tchatchoua,31,1837,0,0.33,-0.33,2,1,0.00%,0.17,p523705,Wolves
+Chadi Riad,9,554,0,0.33,-0.33,4,2,0.00%,0.08,p515621,Crystal Palace
+Jordan Henderson,32,1922,1,0.33,0.67,6,1,16.67%,0.06,p56979,Brentford
+Radu Dragusin,10,515,0,0.32,-0.32,4,0,0.00%,0.08,p493125,Spurs
+Jorrel Hato,22,1142,0,0.31,-0.31,4,0,0.00%,0.08,p551210,Chelsea
+Jair Cunha,9,516,0,0.29,-0.29,3,1,0.00%,0.10,p575458,Nott'm Forest
+Vitalii Mykolenko,33,2960,0,0.29,-0.29,9,2,0.00%,0.03,p224967,Everton
+Harvey Elliott,5,110,0,0.29,-0.29,5,0,0.00%,0.06,p444884,Aston Villa
+Victor Lindelöf,17,944,0,0.28,-0.28,3,0,0.00%,0.09,p184667,Aston Villa
+Jack Harrison,11,263,0,0.28,-0.28,6,2,0.00%,0.05,p221399,Leeds
+Joe Gomez,21,599,0,0.27,-0.27,5,1,0.00%,0.05,p171287,Liverpool
+Hjalmar Ekdal,19,1539,0,0.26,-0.26,6,1,0.00%,0.04,p478969,Burnley
+Angel Gomes,12,464,0,0.26,-0.26,6,2,0.00%,0.04,p209041,Wolves
+Max Alleyne,2,135,0,0.26,-0.26,2,1,0.00%,0.13,p494307,Man City
+Ben Gannon-Doak,8,105,0,0.26,-0.26,3,1,0.00%,0.09,p496208,Bournemouth
+Ashley Barnes,7,40,0,0.25,-0.25,2,1,0.00%,0.12,p44699,Burnley
+Zeki Amdouni,4,69,0,0.24,-0.24,3,1,0.00%,0.08,p492831,Burnley
+Jean-Clair Todibo,23,1817,0,0.24,-0.24,2,0,0.00%,0.12,p462116,West Ham
+Conor Bradley,15,932,0,0.24,-0.24,6,0,0.00%,0.04,p492777,Liverpool
+Tom Edozie,3,12,1,0.23,0.77,2,1,50.00%,0.11,p596054,Wolves
+Ethan Nwaneri,6,165,0,0.23,-0.23,6,0,0.00%,0.04,p499175,Arsenal
+James Ward-Prowse,18,1096,0,0.22,-0.22,5,2,0.00%,0.04,p101178,Burnley
+James Maddison,3,34,0,0.21,-0.21,2,0,0.00%,0.11,p172780,Spurs
+Freddie Potts,22,1167,0,0.21,-0.21,3,1,0.00%,0.07,p490142,West Ham
+Tyler Dibling,14,350,0,0.20,-0.20,4,0,0.00%,0.05,p496661,Everton
+Sebastiaan Bornauw,12,432,0,0.20,-0.20,1,0,0.00%,0.20,p437738,Leeds
+Roméo Lavia,12,377,0,0.20,-0.20,3,0,0.00%,0.07,p514356,Chelsea
+Noussair Mazraoui,20,984,0,0.19,-0.19,5,0,0.00%,0.04,p230001,Man Utd
+Rico Lewis,11,402,0,0.19,-0.19,3,0,0.00%,0.06,p477064,Man City
+Destiny Udogie,20,1340,0,0.19,-0.19,4,1,0.00%,0.05,p487053,Spurs
+Reinildo Mandava,25,1969,0,0.18,-0.18,4,0,0.00%,0.04,p434399,Sunderland
+Ollie Scarles,13,659,0,0.18,-0.18,3,0,0.00%,0.06,p536109,West Ham
+Rico Henry,25,1328,0,0.18,-0.18,5,0,0.00%,0.04,p194010,Brentford
+James McAtee,14,289,0,0.17,-0.17,4,0,0.00%,0.04,p432714,Nott'm Forest
+Kyle Walker,36,3097,0,0.16,-0.16,4,0,0.00%,0.04,p58621,Burnley
+Mateo Kovacic,6,126,0,0.16,-0.16,2,0,0.00%,0.08,p91651,Man City
+Fer López,9,229,0,0.16,-0.16,5,1,0.00%,0.03,p643135,Wolves
+Lisandro Martínez,18,1231,0,0.15,-0.15,5,0,0.00%,0.03,p221820,Man Utd
+Luke O'Nien,12,564,0,0.15,-0.15,4,1,0.00%,0.04,p167512,Sunderland
+Veljko Milosavljevic,7,367,0,0.15,-0.15,1,0,0.00%,0.15,p620487,Bournemouth
+Tino Livramento,17,1328,0,0.14,-0.14,3,0,0.00%,0.05,p441191,Newcastle
+Harrison Reed,7,90,1,0.13,0.87,2,1,50.00%,0.06,p153366,Fulham
+Callum Marshall,2,58,0,0.13,-0.13,1,0,0.00%,0.13,p565431,West Ham
+David Møller Wolfe,22,1049,0,0.12,-0.12,3,0,0.00%,0.04,p497949,Wolves
+Ezra Mayers,6,113,0,0.12,-0.12,1,0,0.00%,0.12,p602903,West Ham
+Myles Lewis-Skelly,20,698,0,0.11,-0.11,2,0,0.00%,0.05,p499169,Arsenal
+Alex Tóth,9,137,0,0.11,-0.11,2,0,0.00%,0.05,p614574,Bournemouth
+Tosin Adarabioyo,16,789,0,0.11,-0.11,2,0,0.00%,0.05,p109646,Chelsea
+Shea Lacey,3,40,0,0.10,-0.10,4,1,0.00%,0.03,p576628,Man Utd
+Cristhian Mosquera,20,989,0,0.10,-0.10,1,0,0.00%,0.10,p500040,Arsenal
+Romelle Donovan,4,38,0,0.10,-0.10,3,1,0.00%,0.03,p606689,Brentford
+Jesse Derry,1,44,0,0.10,-0.10,2,1,0.00%,0.05,p619734,Chelsea
+Nayef Aguerd,2,180,0,0.10,-0.10,2,0,0.00%,0.05,p210494,West Ham
+Mohamadou Kanté,11,67,0,0.09,-0.09,2,0,0.00%,0.05,p630699,West Ham
+Matt Doherty,11,791,0,0.09,-0.09,3,0,0.00%,0.03,p87835,Wolves
+Christian Nørgaard,7,101,0,0.08,-0.08,2,1,0.00%,0.04,p128295,Arsenal
+Kieran Trippier,21,1592,0,0.08,-0.08,2,0,0.00%,0.04,p77794,Newcastle
+Josh Dasilva,2,2,0,0.08,-0.08,1,0,0.00%,0.08,p183656,Brentford
+Lewis Cook,18,872,0,0.08,-0.08,3,0,0.00%,0.03,p155408,Bournemouth
+Dennis Cirkin,8,320,0,0.08,-0.08,1,0,0.00%,0.08,p461195,Sunderland
+Joe Worrall,11,497,0,0.08,-0.08,1,0,0.00%,0.08,p208912,Burnley
+Oleksandr Zinchenko,5,353,0,0.08,-0.08,4,2,0.00%,0.02,p206325,Nott'm Forest
+Luis Guilherme,5,121,0,0.07,-0.07,1,0,0.00%,0.07,p577114,West Ham
+Arthur Masuaku,3,127,0,0.07,-0.07,1,0,0.00%,0.07,p105717,Sunderland
+Facundo Buonanotte,4,81,0,0.06,-0.06,2,0,0.00%,0.03,p536916,Leeds
+Jorge Cuenca,15,938,0,0.05,-0.05,1,0,0.00%,0.05,p246301,Fulham
+Alysson Edward,3,47,0,0.05,-0.05,1,0,0.00%,0.05,p653481,Aston Villa
+Solly March,4,38,0,0.04,-0.04,1,1,0.00%,0.04,p109345,Brighton
+Olivier Boscagli,12,800,0,0.04,-0.04,1,0,0.00%,0.04,p204120,Brighton
+Wataru Endo,8,171,0,0.04,-0.04,1,0,0.00%,0.04,p158983,Liverpool
+George Hemmings,2,25,0,0.04,-0.04,1,0,0.00%,0.04,p577285,Aston Villa
+Borna Sosa,7,99,0,0.04,-0.04,1,0,0.00%,0.04,p218364,Crystal Palace
+Tom Watson,6,57,0,0.04,-0.04,1,1,0.00%,0.04,p549074,Brighton
+Jamaal Lascelles,2,19,0,0.04,-0.04,1,0,0.00%,0.04,p101148,Newcastle
+Sean Neave,1,13,0,0.03,-0.03,1,0,0.00%,0.03,p599303,Newcastle
+Nathan Patterson,7,240,0,0.03,-0.03,1,1,0.00%,0.03,p243571,Everton
+Jack Fletcher,3,107,0,0.03,-0.03,1,0,0.00%,0.03,p547037,Man Utd
+Guido Rodríguez,6,177,0,0.03,-0.03,1,0,0.00%,0.03,p197024,West Ham
+Patrick Roberts,1,27,0,0.03,-0.03,1,0,0.00%,0.03,p124165,Sunderland
+Rio Cardines,1,90,0,0.02,-0.02,1,0,0.00%,0.02,p590014,Crystal Palace
+Bafodé Diakité,18,1275,0,0.02,-0.02,1,0,0.00%,0.02,p242882,Bournemouth
+Souza,4,144,0,0.02,-0.02,1,1,0.00%,0.02,p616221,Spurs
+Ki-Jana Hoever,8,428,0,0.02,-0.02,1,1,0.00%,0.02,p441271,Wolves
+Ethan Pinnock,4,321,0,0.01,-0.01,1,1,0.00%,0.01,p231065,Brentford
+Tyler Fletcher,2,17,0,0.00,0.00,0,0,0.00%,0.00,p519913,Man Utd
+Tyrell Malacia,3,15,0,0.00,0.00,0,0,0.00%,0.00,p222690,Man Utd
+Connor Roberts,0,0,0,0.00,0.00,0,0,0.00%,0.00,p192290,Burnley
+Jerome Abbey,1,16,0,0.00,0.00,0,0,0.00%,0.00,p685628,Wolves
+Ethan Sutherland,0,0,0,0.00,0.00,0,0,0.00%,0.00,p589121,Wolves
+Alex Murphy,2,7,0,0.00,0.00,0,0,0.00%,0.00,p545477,Newcastle
+Kaye Furo,1,1,0,0.00,0.00,0,0,0.00%,0.00,p593174,Brentford
+John Stones,9,439,0,0.00,0.00,0,0,0.00%,0.00,p97299,Man City
+Bradley Burrowes,1,16,0,0.00,0.00,0,0,0.00%,0.00,p645618,Aston Villa
+Andrés García,6,83,0,0.00,0.00,0,0,0.00%,0.00,p606798,Aston Villa
+Lamare Bogarde,28,1047,0,0.00,0.00,0,0,0.00%,0.00,p515597,Aston Villa
+Luca Netz,7,355,0,0.00,0.00,0,0,0.00%,0.00,p470315,Nott'm Forest
+Lamin Sillah,0,0,0,0.00,0.00,0,0,0.00%,0.00,p687076,Nott'm Forest
+Zach Abbott,3,165,0,0.00,0.00,0,0,0.00%,0.00,p549067,Nott'm Forest
+Adam Smith,22,1076,0,0.00,0.00,0,0,0.00%,0.00,p54469,Bournemouth
+Dário Essugo,3,26,0,0.00,0.00,0,0,0.00%,0.00,p491007,Chelsea
+Levi Colwill,3,225,0,0.00,0.00,0,0,0.00%,0.00,p460028,Chelsea
+Djiamgone Jocelin Ta Bi,1,39,0,0.00,0.00,0,0,0.00%,0.00,p699989,Sunderland
+Séamus Coleman,5,20,0,0.00,0.00,0,0,0.00%,0.00,p59949,Everton
+Adam Aznou,0,0,0,0.00,0.00,0,0,0.00%,0.00,p499300,Everton
+Alfie Cresswell,0,0,0,0.00,0.00,0,0,0.00%,0.00,p592740,Leeds
+Aaron Wan-Bissaka,25,2084,0,0.00,0.00,0,0,0.00%,0.00,p214590,West Ham
+Rhys Chadwick,0,0,0,0.00,0.00,0,0,0.00%,0.00,p577978,Leeds
+Sam Byram,2,8,0,0.00,0.00,0,0,0.00%,0.00,p113564,Leeds
+Keiber Lamadrid,0,0,0,0.00,0.00,0,0,0.00%,0.00,p572702,West Ham
+Ryan Kavuma-McQueen,0,0,0,0.00,0.00,0,0,0.00%,0.00,p616286,Chelsea
+Shumaira Mheuka,1,1,0,0.00,0.00,0,0,0.00%,0.00,p567119,Chelsea
+Jayden Lienou,0,0,0,0.00,0.00,0,0,0.00%,0.00,p643970,Leeds
+Will Wright,0,0,0,0.00,0.00,0,0,0.00%,0.00,p677945,Liverpool
+James McConnell,0,0,0,0.00,0.00,0,0,0.00%,0.00,p491501,Liverpool
+Talla Ndiaye,0,0,0,0.00,0.00,0,0,0.00%,0.00,p718875,Liverpool
+Jimmy Sinclair,0,0,0,0.00,0.00,0,0,0.00%,0.00,p590040,Nott'm Forest
+Archie Whitehall,0,0,0,0.00,0.00,0,0,0.00%,0.00,p568159,Nott'm Forest
+Eric da Silva Moreira,0,0,0,0.00,0.00,0,0,0.00%,0.00,p569014,Nott'm Forest
+Jonah Kusi-Asare,7,49,0,0.00,0.00,0,0,0.00%,0.00,p631786,Fulham
+Kieran Morrison,0,0,0,0.00,0.00,0,0,0.00%,0.00,p596042,Liverpool
+Mathis Eboué,0,0,0,0.00,0.00,0,0,0.00%,0.00,p671606,Chelsea
+Igor Julio,4,103,0,0.00,0.00,0,0,0.00%,0.00,p223434,Brighton
+Ollie Shield,0,0,0,0.00,0.00,0,0,0.00%,0.00,p494556,Brentford
+Saheed Olagunju,0,0,0,0.00,0.00,0,0,0.00%,0.00,p601956,Wolves
+Harrison Jones,0,0,0,0.00,0.00,0,0,0.00%,0.00,p547410,Sunderland
+Mike Trésor,6,37,0,0.00,0.00,0,0,0.00%,0.00,p437748,Burnley
+Jim Thwaites,0,0,0,0.00,0.00,0,0,0.00%,0.00,p576634,Man Utd
+Luka Bentt,0,0,0,0.00,0.00,0,0,0.00%,0.00,p559610,Brentford
+Joshua Stephenson,0,0,0,0.00,0.00,0,0,0.00%,0.00,p649240,Brentford
+Jenson Jones,0,0,0,0.00,0.00,0,0,0.00%,0.00,p232356,Sunderland
+Riley Owen,0,0,0,0.00,0.00,0,0,0.00%,0.00,p547671,Brentford
+Marli Salmon,0,0,0,0.00,0.00,0,0,0.00%,0.00,p616065,Arsenal
+Conor McManus,0,0,0,0.00,0.00,0,0,0.00%,0.00,p587433,Brentford
+Calvin Ramsay,0,0,0,0.00,0.00,0,0,0.00%,0.00,p489580,Liverpool
+Tyler Fredricson,1,2,0,0.00,0.00,0,0,0.00%,0.00,p547676,Man Utd
+Callum Olusesi,1,14,0,0.00,0.00,0,0,0.00%,0.00,p499726,Spurs
+James Rowswell,1,1,0,0.00,0.00,0,0,0.00%,0.00,p499716,Spurs
+James Wilson,0,0,0,0.00,0.00,0,0,0.00%,0.00,p613232,Spurs
+Benoît Badiashile,8,471,0,0.00,0.00,0,0,0.00%,0.00,p242880,Chelsea
+Jack Whittaker,0,0,0,0.00,0.00,0,0,0.00%,0.00,p570929,Sunderland
+Harry Howell,3,93,0,0.00,0.00,0,0,0.00%,0.00,p597320,Brighton
+Jaydon Jones,0,0,0,0.00,0.00,0,0,0.00%,0.00,p571087,Sunderland
+Rio Kyerematen,0,0,0,0.00,0.00,0,0,0.00%,0.00,p536134,Spurs
+Godwill Kukonki,0,0,0,0.00,0.00,0,0,0.00%,0.00,p576637,Man Utd
+Leo Shahar,0,0,0,0.00,0.00,0,0,0.00%,0.00,p553746,Newcastle
+Kian McMahon-Brown,0,0,0,0.00,0.00,0,0,0.00%,0.00,p644593,Burnley
+Milan Aleksic,0,0,0,0.00,0.00,0,0,0.00%,0.00,p626844,Sunderland
+Jack Moorhouse,0,0,0,0.00,0.00,0,0,0.00%,0.00,p559684,Man Utd
+Lucá Williams-Barnett,0,0,0,0.00,0.00,0,0,0.00%,0.00,p611917,Spurs
+Luke Rawlings,0,0,0,0.00,0.00,0,0,0.00%,0.00,p605319,Wolves
+Jun'ai Byfield,1,1,0,0.00,0.00,0,0,0.00%,0.00,p640419,Spurs
+Malcom DaCosta,0,0,0,0.00,0.00,0,0,0.00%,0.00,p678552,Bournemouth
+Ryan McAidoo,0,0,0,0.00,0.00,0,0,0.00%,0.00,p616288,Man City
+Zach Marsh,0,0,0,0.00,0.00,0,0,0.00%,0.00,p576980,Crystal Palace
+Kaden Rodney,1,3,0,0.00,0.00,0,0,0.00%,0.00,p530318,Crystal Palace
+Amara Nallo,0,0,0,0.00,0.00,0,0,0.00%,0.00,p611926,Liverpool
+Remy Rees-Dottin,0,0,0,0.00,0.00,0,0,0.00%,0.00,p606774,Bournemouth
+Danny Imray,0,0,0,0.00,0.00,0,0,0.00%,0.00,p502988,Crystal Palace
+Dominic Sadi,0,0,0,0.00,0.00,0,0,0.00%,0.00,p550596,Bournemouth
+Dane Scarlett,2,7,0,0.00,0.00,0,0,0.00%,0.00,p490145,Spurs
+Diego Coppola,5,194,0,0.00,0.00,0,0,0.00%,0.00,p550090,Brighton
+Divine Mukasa,2,25,0,0.00,0.00,0,0,0.00%,0.00,p590039,Man City
+Charlie Stevens,0,0,0,0.00,0.00,0,0,0.00%,0.00,p658013,Bournemouth
+Reece Welch,0,0,0,0.00,0.00,0,0,0.00%,0.00,p474907,Everton
+Jamaldeen Jimoh-Aloba,1,8,0,0.00,0.00,0,0,0.00%,0.00,p559962,Aston Villa
+Elijah Campbell,0,0,0,0.00,0.00,0,0,0.00%,0.00,p491745,Everton
+Sam Amissah,0,0,0,0.00,0.00,0,0,0.00%,0.00,p591385,Fulham
+Dan Neil,3,13,0,0.00,0.00,0,0,0.00%,0.00,p223336,Sunderland
+Joél Drakes-Thomas,2,7,0,0.00,0.00,0,0,0.00%,0.00,p672492,Crystal Palace
+Stephen Mfuni,0,0,0,0.00,0.00,0,0,0.00%,0.00,p566213,Man City
+Julio Soler,3,34,0,0.00,0.00,0,0,0.00%,0.00,p575901,Bournemouth
+Tymur Tutierov,0,0,0,0.00,0.00,0,0,0.00%,0.00,p604211,Sunderland
+Leo Hjelde,0,0,0,0.00,0.00,0,0,0.00%,0.00,p477547,Sunderland
+Myles Peart-Harris,1,1,0,0.00,0.00,0,0,0.00%,0.00,p450539,Brentford
+Ben Casey,0,0,0,0.00,0.00,0,0,0.00%,0.00,p631106,Crystal Palace
+George King,0,0,0,0.00,0.00,0,0,0.00%,0.00,p591384,Crystal Palace
+Dean Benamar,0,0,0,0.00,0.00,0,0,0.00%,0.00,p643426,Crystal Palace
+Temple Ojinnaka,0,0,0,0.00,0.00,0,0,0.00%,0.00,p514362,Wolves
+Tawanda Chirewa,2,25,0,0.00,0.00,0,0,0.00%,0.00,p497606,Wolves
+Seth Ridgeon,0,0,0,0.00,0.00,0,0,0.00%,0.00,p619536,Fulham
+Charlie Tasker,0,0,0,0.00,0.00,0,0,0.00%,0.00,p547720,Brighton
+Reigan Heskey,0,0,0,0.00,0.00,0,0,0.00%,0.00,p580921,Man City
+George Earthy,1,8,0,0.00,0.00,0,0,0.00%,0.00,p490885,West Ham
+Romain Esse,4,40,0,0.00,0.00,0,0,0.00%,0.00,p606921,Crystal Palace
+Bendito Mantato,1,15,0,0.00,0.00,0,0,0.00%,0.00,p576620,Man Utd
+Sam Chambers,0,0,0,0.00,0.00,0,0,0.00%,0.00,p565863,Leeds
+Oliver Pimlott,0,0,0,0.00,0.00,0,0,0.00%,0.00,p647960,Burnley
+Jaydon Banel,1,9,0,0.00,0.00,0,0,0.00%,0.00,p551206,Burnley
+Enock Agyei,0,0,0,0.00,0.00,0,0,0.00%,0.00,p578614,Burnley
+George Brierley,0,0,0,0.00,0.00,0,0,0.00%,0.00,p704232,Burnley
+Airidas Golambeckis,0,0,0,0.00,0.00,0,0,0.00%,0.00,p643473,West Ham
+Enso González,0,0,0,0.00,0.00,0,0,0.00%,0.00,p593001,Wolves
+TJ Carroll,0,0,0,0.00,0.00,0,0,0.00%,0.00,p618027,Aston Villa
+Yunus Konak,0,0,0,0.00,0.00,0,0,0.00%,0.00,p628204,Brentford
+Wellity Lucky,0,0,0,0.00,0.00,0,0,0.00%,0.00,p519440,Liverpool
+Leon Routh,0,0,0,0.00,0.00,0,0,0.00%,0.00,p664015,Aston Villa
+Chido Obi,0,0,0,0.00,0.00,0,0,0.00%,0.00,p596047,Man Utd
+Sam Alabi,0,0,0,0.00,0.00,0,0,0.00%,0.00,p666607,Newcastle
+Julián Araujo,0,0,0,0.00,0.00,0,0,0.00%,0.00,p436893,Bournemouth
+Braiden Graham,0,0,0,0.00,0.00,0,0,0.00%,0.00,p629068,Everton
+Callum Bates,0,0,0,0.00,0.00,0,0,0.00%,0.00,p547801,Everton
+Kota Takai,0,0,0,0.00,0.00,0,0,0.00%,0.00,p553299,Spurs
+Gustavo Nunes,0,0,0,0.00,0.00,0,0,0.00%,0.00,p626464,Brentford
+Freddie Simmonds,0,0,0,0.00,0.00,0,0,0.00%,0.00,p604988,Brighton
+Joe Knight,1,1,0,0.00,0.00,0,0,0.00%,0.00,p567121,Brighton
+Nehemiah Oriola,1,1,0,0.00,0.00,0,0,0.00%,0.00,p556637,Brighton
+Charlie Gray,0,0,0,0.00,0.00,0,0,0.00%,0.00,p516234,Man City
+Andy Irving,7,157,0,0.00,0.00,0,0,0.00%,0.00,p229384,West Ham
+Alfie Pond,0,0,0,0.00,0.00,0,0,0.00%,0.00,p517179,Wolves
+Frank Onyeka,6,88,0,0.00,0.00,0,0,0.00%,0.00,p428580,Brentford
+Willy Boly,0,0,0,0.00,0.00,0,0,0.00%,0.00,p90585,Nott'm Forest
+Benjamin Arthur,0,0,0,0.00,0.00,0,0,0.00%,0.00,p622536,Brentford
+Emil Krafth,1,45,0,0.00,0.00,0,0,0.00%,0.00,p111773,Newcastle
+Andre Harriman-Annous,0,0,0,0.00,0.00,0,0,0.00%,0.00,p646243,Arsenal
+Yusuf Akhamrich,0,0,0,0.00,0.00,0,0,0.00%,0.00,p590035,Spurs
+Ben Broggio,0,0,0,0.00,0.00,0,0,0.00%,0.00,p577731,Aston Villa
+Landon Emenalo,0,0,0,0.00,0.00,0,0,0.00%,0.00,p611912,Chelsea
+Diego León,0,0,0,0.00,0.00,0,0,0.00%,0.00,p661712,Man Utd
+Antoni Milambo,1,45,0,0.00,0.00,0,0,0.00%,0.00,p543295,Brentford
+Harry Gray,0,0,0,0.00,0.00,0,0,0.00%,0.00,p600882,Leeds
+Travis Patterson,0,0,0,0.00,0.00,0,0,0.00%,0.00,p534836,Aston Villa
+Triston Rowe,0,0,0,0.00,0.00,0,0,0.00%,0.00,p569577,Aston Villa
+Manuel Akanji,0,0,0,0.00,0.00,0,0,0.00%,0.00,p211975,Man City
+Ilkay Gündogan,0,0,0,0.00,0.00,0,0,0.00%,0.00,p59859,Man City
+Aaron Ramsey,0,0,0,0.00,0.00,0,0,0.00%,0.00,p447715,Burnley
+Jenson Seelt,2,134,0,0.00,0.00,0,0,0.00%,0.00,p519634,Sunderland
+Manor Solomon,0,0,0,0.00,0.00,0,0,0.00%,0.00,p235674,Spurs
+Romain Faivre,0,0,0,0.00,0.00,0,0,0.00%,0.00,p441240,Bournemouth
+Sasa Kalajdzic,1,14,0,0.00,0.00,0,0,0.00%,0.00,p429414,Wolves
+Tyler Onyango,0,0,0,0.00,0.00,0,0,0.00%,0.00,p461446,Everton
+Giovanni Leoni,0,0,0,0.00,0.00,0,0,0.00%,0.00,p647681,Liverpool
+Odsonne Édouard,1,2,0,0.00,0.00,0,0,0.00%,0.00,p199670,Crystal Palace
+Youssef Chermiti,0,0,0,0.00,0.00,0,0,0.00%,0.00,p491012,Everton
+Jakub Kiwior,0,0,0,0.00,0.00,0,0,0.00%,0.00,p440854,Arsenal
+Luka Vuskovic,0,0,0,0.00,0.00,0,0,0.00%,0.00,p610799,Spurs
+Largie Ramazani,0,0,0,0.00,0.00,0,0,0.00%,0.00,p433952,Leeds
+Mads Roerslev,0,0,0,0.00,0.00,0,0,0.00%,0.00,p226956,Brentford
+Jota Silva,1,11,0,0.00,0.00,0,0,0.00%,0.00,p510500,Nott'm Forest
+Jesurun Rak-Sakyi,0,0,0,0.00,0.00,0,0,0.00%,0.00,p450542,Crystal Palace
+Andreas Pereira,0,0,0,0.00,0.00,0,0,0.00%,0.00,p156689,Fulham
+Edson Álvarez,0,0,0,0.00,0.00,0,0,0.00%,0.00,p213999,West Ham
+Samuel Iling-Junior,0,0,0,0.00,0.00,0,0,0.00%,0.00,p469247,Aston Villa
+Park Seung-Soo,0,0,0,0.00,0.00,0,0,0.00%,0.00,p623110,Newcastle
+Ben Winterburn,1,6,0,0.00,0.00,0,0,0.00%,0.00,p606775,Bournemouth
+Hamed Traoré,1,16,0,0.00,0.00,0,0,0.00%,0.00,p424044,Bournemouth
+Philip Billing,0,0,0,0.00,0.00,0,0,0.00%,0.00,p168991,Bournemouth

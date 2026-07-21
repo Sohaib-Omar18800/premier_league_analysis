@@ -1,0 +1,645 @@
+club_id,player_id,player_name,club_name,birth_date
+4txjdaqveermfryvbfrr4taf7,p247670,Valentín Castellanos,West Ham,1998-10-03
+a3nyxabgsqlnqfkeg41m6tnpp,p510281,Savinho,Man City,2004-04-10
+1c8m2ko0wxq1asfkuykurdr0y,p244723,Tyrick Mitchell,Crystal Palace,1999-09-01
+1c8m2ko0wxq1asfkuykurdr0y,p502988,Danny Imray,Crystal Palace,2003-07-27
+b496gs285it6bheuikox6z9mj,p199796,Matty Cash,Aston Villa,1997-08-07
+4txjdaqveermfryvbfrr4taf7,p220362,Axel Disasi,West Ham,1998-03-11
+7vn2i2kd35zuetw6b38gw9jsz,p101148,Jamaal Lascelles,Newcastle,1993-11-11
+4dsgumo7d4zupm2ugsvm4zm4d,p154561,David Raya,Arsenal,1995-09-15
+b496gs285it6bheuikox6z9mj,p178301,Ollie Watkins,Aston Villa,1995-12-30
+ehd2iemqmschhj2ec0vayztzz,p513466,Merlin Röhl,Everton,2002-07-05
+64bxxwu2mv2qqlv0monbkj1om,p67089,Martin Dúbravka,Burnley,1989-01-15
+b496gs285it6bheuikox6z9mj,p166989,Youri Tielemans,Aston Villa,1997-05-07
+a3nyxabgsqlnqfkeg41m6tnpp,p590039,Divine Mukasa,Man City,2007-08-22
+4txjdaqveermfryvbfrr4taf7,p630699,Mohamadou Kanté,West Ham,2005-09-20
+9q0arba2kbnywth8bkxlhgmdr,p463936,Jamie Gittens,Chelsea,2004-08-08
+a3nyxabgsqlnqfkeg41m6tnpp,p59859,Ilkay Gündogan,Man City,1990-10-24
+ehd2iemqmschhj2ec0vayztzz,p440993,Iliman Ndiaye,Everton,2000-03-06
+1r3545b2dzan8yqa80gtmcjch,p515046,Melker Ellborg,Sunderland,2003-05-22
+4dsgumo7d4zupm2ugsvm4zm4d,p466075,Riccardo Calafiori,Arsenal,2002-05-19
+1c8m2ko0wxq1asfkuykurdr0y,p242898,Brennan Johnson,Crystal Palace,2001-05-23
+9q0arba2kbnywth8bkxlhgmdr,p493105,Alejandro Garnacho,Chelsea,2004-07-01
+6eqit8ye8aomdsrrq0hk3v7gh,p216051,Diogo Dalot,Man Utd,1999-03-18
+a3nyxabgsqlnqfkeg41m6tnpp,p580921,Reigan Heskey,Man City,2008-01-18
+e5p0ehyguld7egzhiedpdnc3w,p532529,Jack Hinshelwood,Brighton,2005-04-11
+1pse9ta7a45pi2w2grjim70ge,p489888,Amine Adli,Bournemouth,2000-05-10
+1qtaiy11gswx327s0vkibf70n,p159506,Ola Aina,Nottm Forest,1996-10-08
+b9si1jn1lfxfund69e9ogcu2n,p441271,Ki-Jana Hoever,Wolves,2002-01-18
+1qtaiy11gswx327s0vkibf70n,p500151,Nicolò Savona,Nottm Forest,2003-03-19
+7yx5dqhhphyvfisohikodajhv,p507433,Hákon Valdimarsson,Brentford,2001-10-13
+e5p0ehyguld7egzhiedpdnc3w,p547720,Charlie Tasker,Brighton,2006-02-24
+48gk2hpqtsl6p9sx9kjhaydq4,p221399,Jack Harrison,Leeds,1996-11-20
+b496gs285it6bheuikox6z9mj,p101188,Lucas Digne,Aston Villa,1993-07-20
+9q0arba2kbnywth8bkxlhgmdr,p567119,Shumaira Mheuka,Chelsea,2007-10-20
+e5p0ehyguld7egzhiedpdnc3w,p204120,Olivier Boscagli,Brighton,1997-11-18
+64bxxwu2mv2qqlv0monbkj1om,p208912,Joe Worrall,Burnley,1997-01-10
+1qtaiy11gswx327s0vkibf70n,p476887,Dilane Bakwa,Nottm Forest,2002-08-26
+64bxxwu2mv2qqlv0monbkj1om,p519895,Oliver Sonne,Burnley,2000-11-10
+a3nyxabgsqlnqfkeg41m6tnpp,p477064,Rico Lewis,Man City,2004-11-21
+c8h9bw1l82s06h77xxrelzhur,p544877,Milos Kerkez,Liverpool,2003-11-07
+22doj4sgsocqpxw45h607udje,p499716,James Rowswell,Spurs,2006-07-13
+7yx5dqhhphyvfisohikodajhv,p508395,Yehor Yarmoliuk,Brentford,2004-03-01
+7vn2i2kd35zuetw6b38gw9jsz,p119471,Fabian Schär,Newcastle,1991-12-20
+4dsgumo7d4zupm2ugsvm4zm4d,p448104,Piero Hincapié,Arsenal,2002-01-09
+1r3545b2dzan8yqa80gtmcjch,p484420,Enzo Le Fée,Sunderland,2000-02-03
+7yx5dqhhphyvfisohikodajhv,p231065,Ethan Pinnock,Brentford,1993-05-29
+7vn2i2kd35zuetw6b38gw9jsz,p487838,Lewis Hall,Newcastle,2004-09-08
+7yx5dqhhphyvfisohikodajhv,p432830,Nathan Collins,Brentford,2001-04-30
+6eqit8ye8aomdsrrq0hk3v7gh,p106760,Luke Shaw,Man Utd,1995-07-12
+ehd2iemqmschhj2ec0vayztzz,p629068,Braiden Graham,Everton,2007-11-07
+22doj4sgsocqpxw45h607udje,p613232,James Wilson,Spurs,2007-03-06
+22doj4sgsocqpxw45h607udje,p154566,Dominic Solanke,Spurs,1997-09-14
+1pse9ta7a45pi2w2grjim70ge,p614574,Alex Tóth,Bournemouth,2005-10-23
+1c8m2ko0wxq1asfkuykurdr0y,p427623,Chris Richards,Crystal Palace,2000-03-28
+1c8m2ko0wxq1asfkuykurdr0y,p631106,Ben Casey,Crystal Palace,2008-02-04
+b9si1jn1lfxfund69e9ogcu2n,p497949,David Møller Wolfe,Wolves,2002-04-23
+48gk2hpqtsl6p9sx9kjhaydq4,p643970,Jayden Lienou,Leeds,2008-04-08
+1c8m2ko0wxq1asfkuykurdr0y,p121709,Walter Benítez,Crystal Palace,1993-01-19
+48gk2hpqtsl6p9sx9kjhaydq4,p199598,Ethan Ampadu,Leeds,2000-09-14
+1pse9ta7a45pi2w2grjim70ge,p221466,Marcos Senesi,Bournemouth,1997-05-10
+1pse9ta7a45pi2w2grjim70ge,p550596,Dominic Sadi,Bournemouth,2003-09-02
+hzqh7z0mdl3v7gwete66syxp,p153366,Harrison Reed,Fulham,1995-01-27
+9q0arba2kbnywth8bkxlhgmdr,p486672,Moisés Caicedo,Chelsea,2001-11-02
+ehd2iemqmschhj2ec0vayztzz,p547801,Callum Bates,Everton,2005-09-28
+b496gs285it6bheuikox6z9mj,p606798,Andrés García,Aston Villa,2003-02-07
+9q0arba2kbnywth8bkxlhgmdr,p460028,Levi Colwill,Chelsea,2003-02-26
+7yx5dqhhphyvfisohikodajhv,p494556,Ollie Shield,Brentford,2006-09-25
+1qtaiy11gswx327s0vkibf70n,p250199,Nicolás Domínguez,Nottm Forest,1998-06-28
+1r3545b2dzan8yqa80gtmcjch,p547410,Harrison Jones,Sunderland,2004-12-25
+22doj4sgsocqpxw45h607udje,p184254,Guglielmo Vicario,Spurs,1996-10-07
+e5p0ehyguld7egzhiedpdnc3w,p549074,Tom Watson,Brighton,2006-04-08
+1pse9ta7a45pi2w2grjim70ge,p499604,Rayan,Bournemouth,2006-08-03
+ehd2iemqmschhj2ec0vayztzz,p499300,Adam Aznou,Everton,2006-06-02
+e5p0ehyguld7egzhiedpdnc3w,p467779,Mats Wieffer,Brighton,1999-11-16
+4txjdaqveermfryvbfrr4taf7,p214590,Aaron Wan-Bissaka,West Ham,1997-11-26
+4dsgumo7d4zupm2ugsvm4zm4d,p109745,Kepa Arrizabalaga,Arsenal,1994-10-03
+7vn2i2kd35zuetw6b38gw9jsz,p547719,Lewis Miley,Newcastle,2006-05-01
+c8h9bw1l82s06h77xxrelzhur,p216094,Jeremie Frimpong,Liverpool,2000-12-10
+22doj4sgsocqpxw45h607udje,p493362,Xavi Simons,Spurs,2003-04-21
+1pse9ta7a45pi2w2grjim70ge,p168636,Enes Ünal,Bournemouth,1997-05-10
+1pse9ta7a45pi2w2grjim70ge,p168991,Philip Billing,Bournemouth,1996-06-11
+e5p0ehyguld7egzhiedpdnc3w,p567121,Joe Knight,Brighton,2005-09-21
+6eqit8ye8aomdsrrq0hk3v7gh,p209365,Matthijs de Ligt,Man Utd,1999-08-12
+9q0arba2kbnywth8bkxlhgmdr,p448047,Enzo Fernández,Chelsea,2001-01-17
+7yx5dqhhphyvfisohikodajhv,p547671,Riley Owen,Brentford,2005-08-24
+1r3545b2dzan8yqa80gtmcjch,p232356,Jenson Jones,Sunderland,2006-06-26
+7yx5dqhhphyvfisohikodajhv,p226956,Mads Roerslev,Brentford,1999-06-24
+6eqit8ye8aomdsrrq0hk3v7gh,p95658,Harry Maguire,Man Utd,1993-03-05
+a3nyxabgsqlnqfkeg41m6tnpp,p465694,Nico González,Man City,2002-01-03
+22doj4sgsocqpxw45h607udje,p570526,Lucas Bergvall,Spurs,2006-02-02
+b9si1jn1lfxfund69e9ogcu2n,p429414,Sasa Kalajdzic,Wolves,1997-07-07
+1qtaiy11gswx327s0vkibf70n,p510500,Jota Silva,Nottm Forest,1999-08-01
+6eqit8ye8aomdsrrq0hk3v7gh,p221820,Lisandro Martínez,Man Utd,1998-01-18
+9q0arba2kbnywth8bkxlhgmdr,p215059,Robert Sánchez,Chelsea,1997-11-18
+9q0arba2kbnywth8bkxlhgmdr,p179268,Marc Cucurella,Chelsea,1998-07-22
+1qtaiy11gswx327s0vkibf70n,p222531,Morgan Gibbs-White,Nottm Forest,2000-01-27
+6eqit8ye8aomdsrrq0hk3v7gh,p493250,Amad Diallo,Man Utd,2002-07-11
+1r3545b2dzan8yqa80gtmcjch,p549912,Chemsdine Talbi,Sunderland,2005-05-09
+b496gs285it6bheuikox6z9mj,p559962,Jamaldeen Jimoh-Aloba,Aston Villa,2006-10-02
+e5p0ehyguld7egzhiedpdnc3w,p556637,Nehemiah Oriola,Brighton,2007-06-11
+1pse9ta7a45pi2w2grjim70ge,p620487,Veljko Milosavljevic,Bournemouth,2007-06-28
+1c8m2ko0wxq1asfkuykurdr0y,p232185,Ismaïla Sarr,Crystal Palace,1998-02-25
+b9si1jn1lfxfund69e9ogcu2n,p231057,Jean-Ricner Bellegarde,Wolves,1998-06-27
+b496gs285it6bheuikox6z9mj,p204646,Donyell Malen,Aston Villa,1999-01-19
+7vn2i2kd35zuetw6b38gw9jsz,p232653,Jacob Ramsey,Newcastle,2001-05-28
+1r3545b2dzan8yqa80gtmcjch,p564406,Eliezer Mayenda,Sunderland,2005-05-08
+1qtaiy11gswx327s0vkibf70n,p210462,Ibrahim Sangaré,Nottm Forest,1997-12-02
+7yx5dqhhphyvfisohikodajhv,p207283,Mathias Jensen,Brentford,1996-01-01
+7yx5dqhhphyvfisohikodajhv,p472713,Aaron Hickey,Brentford,2002-06-10
+ehd2iemqmschhj2ec0vayztzz,p512462,Jake O'Brien,Everton,2001-05-15
+4dsgumo7d4zupm2ugsvm4zm4d,p500040,Cristhian Mosquera,Arsenal,2004-06-27
+7yx5dqhhphyvfisohikodajhv,p249231,Keane Lewis-Potter,Brentford,2001-02-22
+1c8m2ko0wxq1asfkuykurdr0y,p152551,Jefferson Lerma,Crystal Palace,1994-10-25
+hzqh7z0mdl3v7gwete66syxp,p244042,Rodrigo Muniz,Fulham,2001-05-04
+1qtaiy11gswx327s0vkibf70n,p60689,Chris Wood,Nottm Forest,1991-12-07
+9q0arba2kbnywth8bkxlhgmdr,p491007,Dário Essugo,Chelsea,2005-03-14
+1pse9ta7a45pi2w2grjim70ge,p606775,Ben Winterburn,Bournemouth,2004-09-04
+64bxxwu2mv2qqlv0monbkj1om,p578614,Enock Agyei,Burnley,2005-01-13
+9q0arba2kbnywth8bkxlhgmdr,p444463,Wesley Fofana,Chelsea,2000-12-17
+64bxxwu2mv2qqlv0monbkj1om,p704232,George Brierley,Burnley,2007-11-20
+22doj4sgsocqpxw45h607udje,p232787,Conor Gallagher,Spurs,2000-02-06
+1r3545b2dzan8yqa80gtmcjch,p434399,Reinildo Mandava,Sunderland,1994-01-21
+b9si1jn1lfxfund69e9ogcu2n,p155511,Adam Armstrong,Wolves,1997-02-10
+1pse9ta7a45pi2w2grjim70ge,p658013,Charlie Stevens,Bournemouth,2007-05-31
+7yx5dqhhphyvfisohikodajhv,p606689,Romelle Donovan,Brentford,2006-11-30
+64bxxwu2mv2qqlv0monbkj1om,p518030,Max Weiss,Burnley,2004-06-15
+7vn2i2kd35zuetw6b38gw9jsz,p201666,Harvey Barnes,Newcastle,1997-12-09
+b9si1jn1lfxfund69e9ogcu2n,p490721,Hugo Bueno,Wolves,2002-09-18
+c8h9bw1l82s06h77xxrelzhur,p491501,James McConnell,Liverpool,2004-09-13
+64bxxwu2mv2qqlv0monbkj1om,p58621,Kyle Walker,Burnley,1990-05-28
+ehd2iemqmschhj2ec0vayztzz,p486385,Beto,Everton,1998-01-31
+1pse9ta7a45pi2w2grjim70ge,p457569,Djordje Petrovic,Bournemouth,1999-10-08
+6eqit8ye8aomdsrrq0hk3v7gh,p485711,Benjamin Sesko,Man Utd,2003-05-31
+7yx5dqhhphyvfisohikodajhv,p204580,Vitaly Janelt,Brentford,1998-05-10
+7vn2i2kd35zuetw6b38gw9jsz,p216646,Yoane Wissa,Newcastle,1996-09-03
+4dsgumo7d4zupm2ugsvm4zm4d,p116216,Leandro Trossard,Arsenal,1994-12-04
+ehd2iemqmschhj2ec0vayztzz,p461446,Tyler Onyango,Everton,2003-03-04
+1pse9ta7a45pi2w2grjim70ge,p575901,Julio Soler,Bournemouth,2005-02-16
+1r3545b2dzan8yqa80gtmcjch,p498016,Robin Roefs,Sunderland,2003-01-17
+1qtaiy11gswx327s0vkibf70n,p209046,Callum Hudson-Odoi,Nottm Forest,2000-11-07
+22doj4sgsocqpxw45h607udje,p491279,Micky van de Ven,Spurs,2001-04-19
+e5p0ehyguld7egzhiedpdnc3w,p509416,Yasin Ayari,Brighton,2003-10-06
+1r3545b2dzan8yqa80gtmcjch,p626844,Milan Aleksic,Sunderland,2005-08-30
+22doj4sgsocqpxw45h607udje,p640419,Jun'ai Byfield,Spurs,2008-12-06
+1qtaiy11gswx327s0vkibf70n,p210156,Taiwo Awoniyi,Nottm Forest,1997-08-12
+6eqit8ye8aomdsrrq0hk3v7gh,p451302,Altay Bayindir,Man Utd,1998-04-14
+1qtaiy11gswx327s0vkibf70n,p549067,Zach Abbott,Nottm Forest,2006-05-13
+1r3545b2dzan8yqa80gtmcjch,p487676,Trai Hume,Sunderland,2002-03-18
+ehd2iemqmschhj2ec0vayztzz,p609873,Harrison Armstrong,Everton,2007-01-19
+7vn2i2kd35zuetw6b38gw9jsz,p114243,Jacob Murphy,Newcastle,1995-02-24
+22doj4sgsocqpxw45h607udje,p611917,Lucá Williams-Barnett,Spurs,2008-10-01
+9q0arba2kbnywth8bkxlhgmdr,p624773,Estêvão,Chelsea,2007-04-24
+22doj4sgsocqpxw45h607udje,p553299,Kota Takai,Spurs,2004-09-04
+a3nyxabgsqlnqfkeg41m6tnpp,p438234,Omar Marmoush,Man City,1999-02-07
+a3nyxabgsqlnqfkeg41m6tnpp,p209244,Phil Foden,Man City,2000-05-28
+a3nyxabgsqlnqfkeg41m6tnpp,p465351,Matheus Nunes,Man City,1998-08-27
+4txjdaqveermfryvbfrr4taf7,p490885,George Earthy,West Ham,2004-09-05
+1pse9ta7a45pi2w2grjim70ge,p606774,Remy Rees-Dottin,Bournemouth,2006-03-06
+64bxxwu2mv2qqlv0monbkj1om,p494960,Quilindschy Hartman,Burnley,2001-11-14
+64bxxwu2mv2qqlv0monbkj1om,p431639,Zian Flemming,Burnley,1998-08-01
+a3nyxabgsqlnqfkeg41m6tnpp,p466052,Rayan Cherki,Man City,2003-08-17
+7vn2i2kd35zuetw6b38gw9jsz,p465642,Malick Thiaw,Newcastle,2001-08-08
+7vn2i2kd35zuetw6b38gw9jsz,p538207,William Osula,Newcastle,2003-08-04
+a3nyxabgsqlnqfkeg41m6tnpp,p211975,Manuel Akanji,Man City,1995-07-19
+b496gs285it6bheuikox6z9mj,p149484,Tyrone Mings,Aston Villa,1993-03-13
+7vn2i2kd35zuetw6b38gw9jsz,p78916,Dan Burn,Newcastle,1992-05-09
+a3nyxabgsqlnqfkeg41m6tnpp,p248875,Jérémy Doku,Man City,2002-05-27
+7vn2i2kd35zuetw6b38gw9jsz,p225321,Aaron Ramsdale,Newcastle,1998-05-14
+e5p0ehyguld7egzhiedpdnc3w,p647850,Charalampos Kostoulas,Brighton,2007-05-30
+7yx5dqhhphyvfisohikodajhv,p200641,Reiss Nelson,Brentford,1999-12-10
+b496gs285it6bheuikox6z9mj,p441302,Ian Maatsen,Aston Villa,2002-03-10
+9q0arba2kbnywth8bkxlhgmdr,p463034,Liam Delap,Chelsea,2003-02-08
+ehd2iemqmschhj2ec0vayztzz,p496661,Tyler Dibling,Everton,2006-02-17
+1qtaiy11gswx327s0vkibf70n,p432714,James McAtee,Nottm Forest,2002-10-18
+hzqh7z0mdl3v7gwete66syxp,p219924,Issa Diop,Fulham,1997-01-09
+48gk2hpqtsl6p9sx9kjhaydq4,p492859,Wilfried Gnonto,Leeds,2003-11-05
+48gk2hpqtsl6p9sx9kjhaydq4,p214225,Joe Rodon,Leeds,1997-10-22
+ehd2iemqmschhj2ec0vayztzz,p586309,Thierno Barry,Everton,2002-10-21
+9q0arba2kbnywth8bkxlhgmdr,p577016,Josh Acheampong,Chelsea,2006-05-05
+22doj4sgsocqpxw45h607udje,p232859,Djed Spence,Spurs,2000-08-09
+b9si1jn1lfxfund69e9ogcu2n,p231480,Santiago Bueno,Wolves,1998-11-09
+48gk2hpqtsl6p9sx9kjhaydq4,p592740,Alfie Cresswell,Leeds,2007-07-15
+a3nyxabgsqlnqfkeg41m6tnpp,p448514,Rayan Aït-Nouri,Man City,2001-06-06
+1pse9ta7a45pi2w2grjim70ge,p201658,Marcus Tavernier,Bournemouth,1999-03-22
+6eqit8ye8aomdsrrq0hk3v7gh,p606745,Ayden Heaven,Man Utd,2006-09-22
+a3nyxabgsqlnqfkeg41m6tnpp,p566213,Stephen Mfuni,Man City,2008-02-12
+b9si1jn1lfxfund69e9ogcu2n,p483081,Rodrigo Gomes,Wolves,2003-07-07
+ehd2iemqmschhj2ec0vayztzz,p215413,Kiernan Dewsbury-Hall,Everton,1998-09-06
+b496gs285it6bheuikox6z9mj,p664015,Leon Routh,Aston Villa,2007-11-30
+1pse9ta7a45pi2w2grjim70ge,p111317,David Brooks,Bournemouth,1997-07-08
+6eqit8ye8aomdsrrq0hk3v7gh,p596777,Patrick Dorgu,Man Utd,2004-10-26
+7vn2i2kd35zuetw6b38gw9jsz,p180974,Joelinton,Newcastle,1996-08-14
+4dsgumo7d4zupm2ugsvm4zm4d,p499169,Myles Lewis-Skelly,Arsenal,2006-09-26
+9q0arba2kbnywth8bkxlhgmdr,p514356,Roméo Lavia,Chelsea,2004-01-06
+9q0arba2kbnywth8bkxlhgmdr,p225796,Reece James,Chelsea,1999-12-08
+b496gs285it6bheuikox6z9mj,p122806,John McGinn,Aston Villa,1994-10-18
+c8h9bw1l82s06h77xxrelzhur,p611922,Rio Ngumoha,Liverpool,2008-08-29
+1r3545b2dzan8yqa80gtmcjch,p577669,Noah Sadiki,Sunderland,2004-12-17
+b9si1jn1lfxfund69e9ogcu2n,p433312,Marshall Munetsi,Wolves,1996-06-22
+hzqh7z0mdl3v7gwete66syxp,p619536,Seth Ridgeon,Fulham,2008-09-12
+b9si1jn1lfxfund69e9ogcu2n,p685628,Jerome Abbey,Wolves,2009-09-16
+7yx5dqhhphyvfisohikodajhv,p628204,Yunus Konak,Brentford,2006-01-10
+1r3545b2dzan8yqa80gtmcjch,p84450,Granit Xhaka,Sunderland,1992-09-27
+c8h9bw1l82s06h77xxrelzhur,p449027,Giorgi Mamardashvili,Liverpool,2000-09-29
+1r3545b2dzan8yqa80gtmcjch,p461195,Dennis Cirkin,Sunderland,2002-04-06
+6eqit8ye8aomdsrrq0hk3v7gh,p61256,Casemiro,Man Utd,1992-02-23
+4dsgumo7d4zupm2ugsvm4zm4d,p224117,Viktor Gyökeres,Arsenal,1998-06-04
+1c8m2ko0wxq1asfkuykurdr0y,p485337,Evann Guessand,Crystal Palace,2001-07-01
+1r3545b2dzan8yqa80gtmcjch,p167512,Luke O'Nien,Sunderland,1994-11-21
+b496gs285it6bheuikox6z9mj,p469247,Samuel Iling-Junior,Aston Villa,2003-10-04
+1qtaiy11gswx327s0vkibf70n,p90585,Willy Boly,Nottm Forest,1991-02-03
+c8h9bw1l82s06h77xxrelzhur,p171287,Joe Gomez,Liverpool,1997-05-23
+48gk2hpqtsl6p9sx9kjhaydq4,p177815,Dominic Calvert-Lewin,Leeds,1997-03-16
+4dsgumo7d4zupm2ugsvm4zm4d,p462424,William Saliba,Arsenal,2001-03-24
+7vn2i2kd35zuetw6b38gw9jsz,p553746,Leo Shahar,Newcastle,2007-03-18
+22doj4sgsocqpxw45h607udje,p441164,Pedro Porro,Spurs,1999-09-13
+48gk2hpqtsl6p9sx9kjhaydq4,p180135,Sean Longstaff,Leeds,1997-10-30
+22doj4sgsocqpxw45h607udje,p485055,Antonín Kinsky,Spurs,2003-03-13
+c8h9bw1l82s06h77xxrelzhur,p591386,Trey Nyoni,Liverpool,2007-06-30
+64bxxwu2mv2qqlv0monbkj1om,p644593,Kian McMahon-Brown,Burnley,2008-08-03
+1r3545b2dzan8yqa80gtmcjch,p699989,Djiamgone Jocelin Ta Bi,Sunderland,2005-02-09
+4txjdaqveermfryvbfrr4taf7,p613804,El Hadji Malick Diouf,West Ham,2004-12-29
+b496gs285it6bheuikox6z9mj,p226944,Boubacar Kamara,Aston Villa,1999-11-23
+b9si1jn1lfxfund69e9ogcu2n,p643135,Fer López,Wolves,2004-05-24
+b496gs285it6bheuikox6z9mj,p515597,Lamare Bogarde,Aston Villa,2004-01-05
+64bxxwu2mv2qqlv0monbkj1om,p101178,James Ward-Prowse,Burnley,1994-11-01
+1c8m2ko0wxq1asfkuykurdr0y,p57328,Nathaniel Clyne,Crystal Palace,1991-04-05
+1pse9ta7a45pi2w2grjim70ge,p222683,Justin Kluivert,Bournemouth,1999-05-05
+6eqit8ye8aomdsrrq0hk3v7gh,p184341,Mason Mount,Man Utd,1999-01-10
+48gk2hpqtsl6p9sx9kjhaydq4,p434752,Jaka Bijol,Leeds,1999-02-05
+1c8m2ko0wxq1asfkuykurdr0y,p218364,Borna Sosa,Crystal Palace,1998-01-21
+4dsgumo7d4zupm2ugsvm4zm4d,p445122,Jurriën Timber,Arsenal,2001-06-17
+1c8m2ko0wxq1asfkuykurdr0y,p205533,Eddie Nketiah,Crystal Palace,1999-05-30
+64bxxwu2mv2qqlv0monbkj1om,p180804,Axel Tuanzebe,Burnley,1997-11-14
+4txjdaqveermfryvbfrr4taf7,p565431,Callum Marshall,West Ham,2004-11-28
+c8h9bw1l82s06h77xxrelzhur,p155503,Freddie Woodman,Liverpool,1997-03-04
+hzqh7z0mdl3v7gwete66syxp,p166477,Timothy Castagne,Fulham,1995-12-05
+e5p0ehyguld7egzhiedpdnc3w,p60307,Pascal Groß,Brighton,1991-06-15
+ehd2iemqmschhj2ec0vayztzz,p491745,Elijah Campbell,Everton,2004-08-02
+7yx5dqhhphyvfisohikodajhv,p559610,Luka Bentt,Brentford,2007-10-01
+1c8m2ko0wxq1asfkuykurdr0y,p576980,Zach Marsh,Crystal Palace,2005-10-06
+a3nyxabgsqlnqfkeg41m6tnpp,p437730,Antoine Semenyo,Man City,2000-01-07
+4dsgumo7d4zupm2ugsvm4zm4d,p440854,Jakub Kiwior,Arsenal,2000-02-15
+4dsgumo7d4zupm2ugsvm4zm4d,p195384,Mikel Merino,Arsenal,1996-06-22
+7vn2i2kd35zuetw6b38gw9jsz,p208706,Bruno Guimarães,Newcastle,1997-11-16
+e5p0ehyguld7egzhiedpdnc3w,p231416,Ferdi Kadioglu,Brighton,1999-10-07
+1c8m2ko0wxq1asfkuykurdr0y,p199670,Odsonne Édouard,Crystal Palace,1998-01-16
+ehd2iemqmschhj2ec0vayztzz,p474907,Reece Welch,Everton,2003-09-19
+hzqh7z0mdl3v7gwete66syxp,p209289,Emile Smith Rowe,Fulham,2000-07-28
+7yx5dqhhphyvfisohikodajhv,p593174,Kaye Furo,Brentford,2007-02-06
+a3nyxabgsqlnqfkeg41m6tnpp,p91651,Mateo Kovacic,Man City,1994-05-06
+c8h9bw1l82s06h77xxrelzhur,p494595,Florian Wirtz,Liverpool,2003-05-03
+a3nyxabgsqlnqfkeg41m6tnpp,p209036,Marc Guéhi,Man City,2000-07-13
+4txjdaqveermfryvbfrr4taf7,p91889,Niclas Füllkrug,West Ham,1993-02-09
+4dsgumo7d4zupm2ugsvm4zm4d,p616077,Max Dowman,Arsenal,2009-12-31
+b9si1jn1lfxfund69e9ogcu2n,p605319,Luke Rawlings,Wolves,2008-04-04
+4txjdaqveermfryvbfrr4taf7,p577114,Luis Guilherme,West Ham,2006-02-09
+a3nyxabgsqlnqfkeg41m6tnpp,p171314,Rúben Dias,Man City,1997-05-14
+1c8m2ko0wxq1asfkuykurdr0y,p172649,Dean Henderson,Crystal Palace,1997-03-12
+7yx5dqhhphyvfisohikodajhv,p428580,Frank Onyeka,Brentford,1998-01-01
+b496gs285it6bheuikox6z9mj,p645618,Bradley Burrowes,Aston Villa,2008-03-04
+1qtaiy11gswx327s0vkibf70n,p568159,Archie Whitehall,Nottm Forest,2006-05-21
+a3nyxabgsqlnqfkeg41m6tnpp,p616288,Ryan McAidoo,Man City,2008-06-24
+48gk2hpqtsl6p9sx9kjhaydq4,p435997,Noah Okafor,Leeds,2000-05-24
+48gk2hpqtsl6p9sx9kjhaydq4,p536916,Facundo Buonanotte,Leeds,2004-12-23
+1r3545b2dzan8yqa80gtmcjch,p604211,Tymur Tutierov,Sunderland,2005-06-11
+b496gs285it6bheuikox6z9mj,p449871,Amadou Onana,Aston Villa,2001-08-16
+e5p0ehyguld7egzhiedpdnc3w,p223434,Igor Julio,Brighton,1998-02-07
+1qtaiy11gswx327s0vkibf70n,p227444,Nikola Milenkovic,Nottm Forest,1997-10-12
+48gk2hpqtsl6p9sx9kjhaydq4,p433952,Largie Ramazani,Leeds,2001-02-27
+e5p0ehyguld7egzhiedpdnc3w,p15157,James Milner,Brighton,1986-01-04
+1pse9ta7a45pi2w2grjim70ge,p155408,Lewis Cook,Bournemouth,1997-02-03
+22doj4sgsocqpxw45h607udje,p493125,Radu Dragusin,Spurs,2002-02-03
+4txjdaqveermfryvbfrr4taf7,p210494,Nayef Aguerd,West Ham,1996-03-30
+64bxxwu2mv2qqlv0monbkj1om,p478969,Hjalmar Ekdal,Burnley,1998-10-21
+7vn2i2kd35zuetw6b38gw9jsz,p545477,Alex Murphy,Newcastle,2004-06-25
+1qtaiy11gswx327s0vkibf70n,p221389,John Victor,Nottm Forest,1996-02-13
+1r3545b2dzan8yqa80gtmcjch,p247955,Lutsharel Geertruida,Sunderland,2000-07-18
+64bxxwu2mv2qqlv0monbkj1om,p503714,Lesley Ugochukwu,Burnley,2004-03-26
+48gk2hpqtsl6p9sx9kjhaydq4,p220627,James Justin,Leeds,1998-02-23
+4txjdaqveermfryvbfrr4taf7,p84182,Alphonse Areola,West Ham,1993-02-27
+e5p0ehyguld7egzhiedpdnc3w,p592031,Yankuba Minteh,Brighton,2004-07-22
+9q0arba2kbnywth8bkxlhgmdr,p508479,Filip Jörgensen,Chelsea,2002-04-16
+9q0arba2kbnywth8bkxlhgmdr,p574458,Mamadou Sarr,Chelsea,2005-08-29
+hzqh7z0mdl3v7gwete66syxp,p631786,Jonah Kusi-Asare,Fulham,2007-07-04
+22doj4sgsocqpxw45h607udje,p490145,Dane Scarlett,Spurs,2004-03-24
+1qtaiy11gswx327s0vkibf70n,p575476,Murillo,Nottm Forest,2002-07-04
+48gk2hpqtsl6p9sx9kjhaydq4,p600882,Harry Gray,Leeds,2008-10-08
+e5p0ehyguld7egzhiedpdnc3w,p469142,Jan Paul van Hecke,Brighton,2000-06-08
+hzqh7z0mdl3v7gwete66syxp,p591385,Sam Amissah,Fulham,2007-03-07
+b9si1jn1lfxfund69e9ogcu2n,p601956,Saheed Olagunju,Wolves,2007-01-07
+hzqh7z0mdl3v7gwete66syxp,p156689,Andreas Pereira,Fulham,1996-01-01
+7yx5dqhhphyvfisohikodajhv,p191866,Kristoffer Ajer,Brentford,1998-04-17
+48gk2hpqtsl6p9sx9kjhaydq4,p113564,Sam Byram,Leeds,1993-09-16
+c8h9bw1l82s06h77xxrelzhur,p204716,Ibrahima Konaté,Liverpool,1999-05-25
+4txjdaqveermfryvbfrr4taf7,p197024,Guido Rodríguez,West Ham,1994-04-12
+7yx5dqhhphyvfisohikodajhv,p622536,Benjamin Arthur,Brentford,2005-10-09
+1c8m2ko0wxq1asfkuykurdr0y,p209400,Daichi Kamada,Crystal Palace,1996-08-05
+9q0arba2kbnywth8bkxlhgmdr,p671606,Mathis Eboué,Chelsea,2009-02-27
+7vn2i2kd35zuetw6b38gw9jsz,p441191,Tino Livramento,Newcastle,2002-11-12
+9q0arba2kbnywth8bkxlhgmdr,p242880,Benoît Badiashile,Chelsea,2001-03-26
+1r3545b2dzan8yqa80gtmcjch,p223336,Dan Neil,Sunderland,2001-12-13
+22doj4sgsocqpxw45h607udje,p610799,Luka Vuskovic,Spurs,2007-02-24
+4txjdaqveermfryvbfrr4taf7,p75115,Callum Wilson,West Ham,1992-02-27
+1r3545b2dzan8yqa80gtmcjch,p441264,Brian Brobbey,Sunderland,2002-02-01
+9q0arba2kbnywth8bkxlhgmdr,p109646,Tosin Adarabioyo,Chelsea,1997-09-24
+6eqit8ye8aomdsrrq0hk3v7gh,p232112,Manuel Ugarte,Man Utd,2001-04-11
+4txjdaqveermfryvbfrr4taf7,p224024,Lucas Paquetá,West Ham,1997-08-27
+1r3545b2dzan8yqa80gtmcjch,p461199,Romaine Mundle,Sunderland,2003-04-24
+e5p0ehyguld7egzhiedpdnc3w,p465730,Maxim De Cuyper,Brighton,2000-12-22
+1r3545b2dzan8yqa80gtmcjch,p105717,Arthur Masuaku,Sunderland,1993-11-07
+1c8m2ko0wxq1asfkuykurdr0y,p437499,Maxence Lacroix,Crystal Palace,2000-04-06
+c8h9bw1l82s06h77xxrelzhur,p97032,Virgil van Dijk,Liverpool,1991-07-08
+22doj4sgsocqpxw45h607udje,p499726,Callum Olusesi,Spurs,2007-03-11
+b496gs285it6bheuikox6z9mj,p444884,Harvey Elliott,Aston Villa,2003-04-04
+6eqit8ye8aomdsrrq0hk3v7gh,p519913,Tyler Fletcher,Man Utd,2007-03-19
+a3nyxabgsqlnqfkeg41m6tnpp,p578153,Abdukodir Khusanov,Man City,2004-02-29
+1qtaiy11gswx327s0vkibf70n,p465680,Arnaud Kalimuendo,Nottm Forest,2002-01-20
+b9si1jn1lfxfund69e9ogcu2n,p589121,Ethan Sutherland,Wolves,2006-04-25
+ehd2iemqmschhj2ec0vayztzz,p80801,Idrissa Gueye,Everton,1989-09-26
+22doj4sgsocqpxw45h607udje,p172780,James Maddison,Spurs,1996-11-23
+7yx5dqhhphyvfisohikodajhv,p513418,Kevin Schade,Brentford,2001-11-27
+a3nyxabgsqlnqfkeg41m6tnpp,p223094,Erling Haaland,Man City,2000-07-21
+1c8m2ko0wxq1asfkuykurdr0y,p606921,Romain Esse,Crystal Palace,2005-05-13
+4dsgumo7d4zupm2ugsvm4zm4d,p444145,Gabriel Martinelli,Arsenal,2001-06-18
+b9si1jn1lfxfund69e9ogcu2n,p230376,Jhon Arias,Wolves,1997-09-21
+b9si1jn1lfxfund69e9ogcu2n,p596054,Tom Edozie,Wolves,2006-05-18
+64bxxwu2mv2qqlv0monbkj1om,p435973,Lyle Foster,Burnley,2000-09-03
+b9si1jn1lfxfund69e9ogcu2n,p517179,Alfie Pond,Wolves,2004-03-01
+b9si1jn1lfxfund69e9ogcu2n,p79602,Dan Bentley,Wolves,1993-07-13
+e5p0ehyguld7egzhiedpdnc3w,p111478,Joël Veltman,Brighton,1992-01-15
+e5p0ehyguld7egzhiedpdnc3w,p219249,Matt O'Riley,Brighton,2000-11-21
+a3nyxabgsqlnqfkeg41m6tnpp,p516234,Charlie Gray,Man City,2006-02-22
+b9si1jn1lfxfund69e9ogcu2n,p509291,André,Wolves,2001-07-16
+4dsgumo7d4zupm2ugsvm4zm4d,p248857,Noni Madueke,Arsenal,2002-03-10
+1pse9ta7a45pi2w2grjim70ge,p496208,Ben Gannon-Doak,Bournemouth,2005-11-11
+1c8m2ko0wxq1asfkuykurdr0y,p450542,Jesurun Rak-Sakyi,Crystal Palace,2002-10-05
+c8h9bw1l82s06h77xxrelzhur,p219168,Alexander Isak,Liverpool,1999-09-21
+1qtaiy11gswx327s0vkibf70n,p215136,Neco Williams,Nottm Forest,2001-04-13
+b9si1jn1lfxfund69e9ogcu2n,p448089,João Gomes,Wolves,2001-02-12
+4txjdaqveermfryvbfrr4taf7,p159533,Adama Traoré,West Ham,1996-01-25
+e5p0ehyguld7egzhiedpdnc3w,p50175,Danny Welbeck,Brighton,1990-11-26
+hzqh7z0mdl3v7gwete66syxp,p76357,Tom Cairney,Fulham,1991-01-20
+1r3545b2dzan8yqa80gtmcjch,p535818,Simon Adingra,Sunderland,2002-01-01
+7vn2i2kd35zuetw6b38gw9jsz,p449434,Anthony Elanga,Newcastle,2002-04-27
+1c8m2ko0wxq1asfkuykurdr0y,p496221,Adam Wharton,Crystal Palace,2004-02-06
+7yx5dqhhphyvfisohikodajhv,p183656,Josh Dasilva,Brentford,1998-10-23
+a3nyxabgsqlnqfkeg41m6tnpp,p433036,Tijjani Reijnders,Man City,1998-07-29
+9q0arba2kbnywth8bkxlhgmdr,p475168,João Pedro,Chelsea,2001-09-26
+64bxxwu2mv2qqlv0monbkj1om,p172567,Josh Cullen,Burnley,1996-04-07
+4txjdaqveermfryvbfrr4taf7,p229384,Andy Irving,West Ham,2000-05-13
+1pse9ta7a45pi2w2grjim70ge,p158499,Ryan Christie,Bournemouth,1995-02-22
+48gk2hpqtsl6p9sx9kjhaydq4,p201595,Lucas Perri,Leeds,1997-12-10
+6eqit8ye8aomdsrrq0hk3v7gh,p559684,Jack Moorhouse,Man Utd,2005-11-29
+hzqh7z0mdl3v7gwete66syxp,p207189,Sander Berge,Fulham,1998-02-14
+7yx5dqhhphyvfisohikodajhv,p587433,Conor McManus,Brentford,2004-06-16
+ehd2iemqmschhj2ec0vayztzz,p59949,Séamus Coleman,Everton,1988-10-11
+7vn2i2kd35zuetw6b38gw9jsz,p470313,Nick Woltemade,Newcastle,2002-02-14
+64bxxwu2mv2qqlv0monbkj1om,p192290,Connor Roberts,Burnley,1995-09-23
+b496gs285it6bheuikox6z9mj,p199798,Ezri Konsa,Aston Villa,1997-10-23
+64bxxwu2mv2qqlv0monbkj1om,p469272,Loum Tchaouna,Burnley,2003-09-08
+c8h9bw1l82s06h77xxrelzhur,p441266,Ryan Gravenberch,Liverpool,2002-05-16
+b496gs285it6bheuikox6z9mj,p195546,Emiliano Buendía,Aston Villa,1996-12-25
+4txjdaqveermfryvbfrr4taf7,p536109,Ollie Scarles,West Ham,2005-12-12
+1r3545b2dzan8yqa80gtmcjch,p570929,Jack Whittaker,Sunderland,2006-10-14
+1qtaiy11gswx327s0vkibf70n,p85633,Matz Sels,Nottm Forest,1992-02-26
+b9si1jn1lfxfund69e9ogcu2n,p593001,Enso González,Wolves,2005-01-20
+6eqit8ye8aomdsrrq0hk3v7gh,p446008,Bryan Mbeumo,Man Utd,1999-08-07
+7yx5dqhhphyvfisohikodajhv,p533463,Dango Ouattara,Brentford,2002-02-11
+9q0arba2kbnywth8bkxlhgmdr,p244851,Cole Palmer,Chelsea,2002-05-06
+b496gs285it6bheuikox6z9mj,p173879,Tammy Abraham,Aston Villa,1997-10-02
+7yx5dqhhphyvfisohikodajhv,p200720,Caoimhín Kelleher,Brentford,1998-11-23
+ehd2iemqmschhj2ec0vayztzz,p17761,James Tarkowski,Everton,1992-11-19
+hzqh7z0mdl3v7gwete66syxp,p218328,Samuel Chukwueze,Fulham,1999-05-22
+c8h9bw1l82s06h77xxrelzhur,p243298,Cody Gakpo,Liverpool,1999-05-07
+ehd2iemqmschhj2ec0vayztzz,p111234,Jordan Pickford,Everton,1994-03-07
+1c8m2ko0wxq1asfkuykurdr0y,p660392,Christantus Uche,Crystal Palace,2003-05-19
+64bxxwu2mv2qqlv0monbkj1om,p465527,Hannibal Mejbri,Burnley,2003-01-21
+1qtaiy11gswx327s0vkibf70n,p470315,Luca Netz,Nottm Forest,2003-05-15
+ehd2iemqmschhj2ec0vayztzz,p490094,Tim Iroegbunam,Everton,2003-06-30
+b9si1jn1lfxfund69e9ogcu2n,p497606,Tawanda Chirewa,Wolves,2003-10-12
+4txjdaqveermfryvbfrr4taf7,p178186,Jarrod Bowen,West Ham,1996-12-20
+e5p0ehyguld7egzhiedpdnc3w,p109345,Solly March,Brighton,1994-07-20
+22doj4sgsocqpxw45h607udje,p616221,Souza,Spurs,2006-06-16
+b496gs285it6bheuikox6z9mj,p618027,TJ Carroll,Aston Villa,2007-03-22
+b9si1jn1lfxfund69e9ogcu2n,p510362,Toti Gomes,Wolves,1999-01-16
+22doj4sgsocqpxw45h607udje,p154296,João Palhinha,Spurs,1995-07-09
+64bxxwu2mv2qqlv0monbkj1om,p437748,Mike Trésor,Burnley,1999-05-28
+b496gs285it6bheuikox6z9mj,p577285,George Hemmings,Aston Villa,2007-03-04
+48gk2hpqtsl6p9sx9kjhaydq4,p248056,Ao Tanaka,Leeds,1998-09-10
+4dsgumo7d4zupm2ugsvm4zm4d,p232413,Eberechi Eze,Arsenal,1998-06-29
+4dsgumo7d4zupm2ugsvm4zm4d,p198869,Ben White,Arsenal,1997-10-08
+1r3545b2dzan8yqa80gtmcjch,p201895,Omar Alderete,Sunderland,1996-12-26
+hzqh7z0mdl3v7gwete66syxp,p477555,Oscar Bobb,Fulham,2003-07-12
+48gk2hpqtsl6p9sx9kjhaydq4,p226182,Jayden Bogle,Leeds,2000-07-27
+9q0arba2kbnywth8bkxlhgmdr,p611912,Landon Emenalo,Chelsea,2008-01-18
+hzqh7z0mdl3v7gwete66syxp,p80201,Bernd Leno,Fulham,1992-03-04
+4dsgumo7d4zupm2ugsvm4zm4d,p616065,Marli Salmon,Arsenal,2009-08-29
+6eqit8ye8aomdsrrq0hk3v7gh,p576637,Godwill Kukonki,Man Utd,2008-02-06
+1c8m2ko0wxq1asfkuykurdr0y,p591384,George King,Crystal Palace,2007-03-20
+4txjdaqveermfryvbfrr4taf7,p158534,Kyle Walker-Peters,West Ham,1997-04-13
+6eqit8ye8aomdsrrq0hk3v7gh,p547037,Jack Fletcher,Man Utd,2007-03-19
+4txjdaqveermfryvbfrr4taf7,p643473,Airidas Golambeckis,West Ham,2007-11-04
+e5p0ehyguld7egzhiedpdnc3w,p489639,Bart Verbruggen,Brighton,2002-08-18
+b496gs285it6bheuikox6z9mj,p230046,Douglas Luiz,Aston Villa,1998-05-09
+22doj4sgsocqpxw45h607udje,p550839,Wilson Odobert,Spurs,2004-11-28
+22doj4sgsocqpxw45h607udje,p221632,Cristian Romero,Spurs,1998-04-27
+c8h9bw1l82s06h77xxrelzhur,p424876,Dominik Szoboszlai,Liverpool,2000-10-25
+1c8m2ko0wxq1asfkuykurdr0y,p231747,Jean-Philippe Mateta,Crystal Palace,1997-06-28
+4txjdaqveermfryvbfrr4taf7,p214048,Maximilian Kilman,West Ham,1997-05-23
+b9si1jn1lfxfund69e9ogcu2n,p431248,Ladislav Krejcí,Wolves,1999-04-20
+7yx5dqhhphyvfisohikodajhv,p450539,Myles Peart-Harris,Brentford,2002-09-18
+1qtaiy11gswx327s0vkibf70n,p687076,Lamin Sillah,Nottm Forest,2006-06-06
+9q0arba2kbnywth8bkxlhgmdr,p482609,Malo Gusto,Chelsea,2003-05-19
+b9si1jn1lfxfund69e9ogcu2n,p516939,Emmanuel Agbadou,Wolves,1997-06-17
+64bxxwu2mv2qqlv0monbkj1om,p179458,Jacob Bruun Larsen,Burnley,1998-09-19
+c8h9bw1l82s06h77xxrelzhur,p647681,Giovanni Leoni,Liverpool,2006-12-21
+7yx5dqhhphyvfisohikodajhv,p502500,Igor Thiago,Brentford,2001-06-26
+4dsgumo7d4zupm2ugsvm4zm4d,p184029,Martin Ødegaard,Arsenal,1998-12-17
+e5p0ehyguld7egzhiedpdnc3w,p604988,Freddie Simmonds,Brighton,2008-03-09
+1pse9ta7a45pi2w2grjim70ge,p494521,Adrien Truffert,Bournemouth,2001-11-20
+e5p0ehyguld7egzhiedpdnc3w,p514254,Diego Gómez,Brighton,2003-03-27
+4txjdaqveermfryvbfrr4taf7,p215439,Tomás Soucek,West Ham,1995-02-27
+4txjdaqveermfryvbfrr4taf7,p213999,Edson Álvarez,West Ham,1997-10-24
+1pse9ta7a45pi2w2grjim70ge,p444102,Evanilson,Bournemouth,1999-10-06
+c8h9bw1l82s06h77xxrelzhur,p158983,Wataru Endo,Liverpool,1993-02-09
+64bxxwu2mv2qqlv0monbkj1om,p44699,Ashley Barnes,Burnley,1989-10-30
+4dsgumo7d4zupm2ugsvm4zm4d,p204480,Declan Rice,Arsenal,1999-01-14
+22doj4sgsocqpxw45h607udje,p247693,Randal Kolo Muani,Spurs,1998-12-05
+22doj4sgsocqpxw45h607udje,p227127,Yves Bissouma,Spurs,1996-08-30
+9q0arba2kbnywth8bkxlhgmdr,p532605,Andrey Santos,Chelsea,2004-05-03
+c8h9bw1l82s06h77xxrelzhur,p596042,Kieran Morrison,Liverpool,2006-11-09
+a3nyxabgsqlnqfkeg41m6tnpp,p126184,Nathan Aké,Man City,1995-02-18
+1r3545b2dzan8yqa80gtmcjch,p571087,Jaydon Jones,Sunderland,2006-11-03
+hzqh7z0mdl3v7gwete66syxp,p212314,Sasa Lukic,Fulham,1996-08-13
+1qtaiy11gswx327s0vkibf70n,p590040,Jimmy Sinclair,Nottm Forest,2006-08-11
+22doj4sgsocqpxw45h607udje,p590035,Yusuf Akhamrich,Spurs,2005-09-05
+4dsgumo7d4zupm2ugsvm4zm4d,p226597,Gabriel Magalhães,Arsenal,1997-12-19
+7vn2i2kd35zuetw6b38gw9jsz,p111773,Emil Krafth,Newcastle,1994-08-02
+64bxxwu2mv2qqlv0monbkj1om,p492831,Zeki Amdouni,Burnley,2000-12-04
+6eqit8ye8aomdsrrq0hk3v7gh,p661712,Diego León,Man Utd,2007-04-03
+6eqit8ye8aomdsrrq0hk3v7gh,p516895,Kobbie Mainoo,Man Utd,2005-04-19
+9q0arba2kbnywth8bkxlhgmdr,p180736,Trevoh Chalobah,Chelsea,1999-07-05
+1pse9ta7a45pi2w2grjim70ge,p424044,Hamed Traoré,Bournemouth,2000-02-16
+e5p0ehyguld7egzhiedpdnc3w,p608181,Stefanos Tzimas,Brighton,2006-01-06
+4txjdaqveermfryvbfrr4taf7,p572702,Keiber Lamadrid,West Ham,2003-11-18
+64bxxwu2mv2qqlv0monbkj1om,p444180,Jaidon Anthony,Burnley,1999-12-01
+7yx5dqhhphyvfisohikodajhv,p194010,Rico Henry,Brentford,1997-07-08
+48gk2hpqtsl6p9sx9kjhaydq4,p427637,Brenden Aaronson,Leeds,2000-10-22
+4txjdaqveermfryvbfrr4taf7,p450070,Crysencio Summerville,West Ham,2001-10-30
+e5p0ehyguld7egzhiedpdnc3w,p463067,Georginio Rutter,Brighton,2002-04-20
+c8h9bw1l82s06h77xxrelzhur,p243016,Alexis Mac Allister,Liverpool,1998-12-24
+6eqit8ye8aomdsrrq0hk3v7gh,p550864,Leny Yoro,Man Utd,2005-11-13
+22doj4sgsocqpxw45h607udje,p547701,Archie Gray,Spurs,2006-03-12
+7vn2i2kd35zuetw6b38gw9jsz,p599303,Sean Neave,Newcastle,2007-05-27
+a3nyxabgsqlnqfkeg41m6tnpp,p220566,Rodri,Man City,1996-06-22
+1pse9ta7a45pi2w2grjim70ge,p678552,Malcom DaCosta,Bournemouth,2008-04-17
+48gk2hpqtsl6p9sx9kjhaydq4,p565863,Sam Chambers,Leeds,2007-08-18
+7yx5dqhhphyvfisohikodajhv,p244858,Fábio Carvalho,Brentford,2002-08-30
+7vn2i2kd35zuetw6b38gw9jsz,p98747,Nick Pope,Newcastle,1992-04-19
+7yx5dqhhphyvfisohikodajhv,p626464,Gustavo Nunes,Brentford,2005-11-20
+1pse9ta7a45pi2w2grjim70ge,p200785,Tyler Adams,Bournemouth,1999-02-14
+64bxxwu2mv2qqlv0monbkj1om,p461188,Bashir Humphreys,Burnley,2003-03-15
+1c8m2ko0wxq1asfkuykurdr0y,p247412,Jørgen Strand Larsen,Crystal Palace,2000-02-06
+1pse9ta7a45pi2w2grjim70ge,p560262,Junior Kroupi,Bournemouth,2006-06-23
+1qtaiy11gswx327s0vkibf70n,p469130,Lorenzo Lucca,Nottm Forest,2000-09-10
+b496gs285it6bheuikox6z9mj,p88894,Ross Barkley,Aston Villa,1993-12-05
+1c8m2ko0wxq1asfkuykurdr0y,p530318,Kaden Rodney,Crystal Palace,2004-10-07
+1qtaiy11gswx327s0vkibf70n,p503301,Omari Hutchinson,Nottm Forest,2003-10-30
+64bxxwu2mv2qqlv0monbkj1om,p440323,Armando Broja,Burnley,2001-09-10
+ehd2iemqmschhj2ec0vayztzz,p106611,Michael Keane,Everton,1993-01-11
+b9si1jn1lfxfund69e9ogcu2n,p87835,Matt Doherty,Wolves,1992-01-16
+hzqh7z0mdl3v7gwete66syxp,p577725,Josh King,Fulham,2007-01-03
+64bxxwu2mv2qqlv0monbkj1om,p174592,Marcus Edwards,Burnley,1998-12-03
+4txjdaqveermfryvbfrr4taf7,p564940,Soungoutou Magassa,West Ham,2003-10-08
+9q0arba2kbnywth8bkxlhgmdr,p616286,Ryan Kavuma-McQueen,Chelsea,2009-01-01
+22doj4sgsocqpxw45h607udje,p115556,Ben Davies,Spurs,1993-04-24
+4dsgumo7d4zupm2ugsvm4zm4d,p223340,Bukayo Saka,Arsenal,2001-09-05
+7yx5dqhhphyvfisohikodajhv,p440089,Mikkel Damsgaard,Brentford,2000-07-03
+1r3545b2dzan8yqa80gtmcjch,p223827,Dan Ballard,Sunderland,1999-09-22
+4dsgumo7d4zupm2ugsvm4zm4d,p205651,Gabriel Jesus,Arsenal,1997-04-03
+1qtaiy11gswx327s0vkibf70n,p485047,Morato,Nottm Forest,2001-06-30
+64bxxwu2mv2qqlv0monbkj1om,p549329,Lucas Pires,Burnley,2001-03-24
+4txjdaqveermfryvbfrr4taf7,p233963,Konstantinos Mavropanos,West Ham,1997-12-11
+48gk2hpqtsl6p9sx9kjhaydq4,p174594,Lukas Nmecha,Leeds,1998-12-14
+1c8m2ko0wxq1asfkuykurdr0y,p672492,Joél Drakes-Thomas,Crystal Palace,2009-06-09
+1qtaiy11gswx327s0vkibf70n,p215379,Elliot Anderson,Nottm Forest,2002-11-06
+b9si1jn1lfxfund69e9ogcu2n,p641221,Pedro Lima,Wolves,2006-07-01
+1c8m2ko0wxq1asfkuykurdr0y,p108413,Will Hughes,Crystal Palace,1995-04-17
+22doj4sgsocqpxw45h607udje,p460842,Mohammed Kudus,Spurs,2000-08-02
+b496gs285it6bheuikox6z9mj,p653481,Alysson Edward,Aston Villa,2006-05-05
+4dsgumo7d4zupm2ugsvm4zm4d,p646243,Andre Harriman-Annous,Arsenal,2007-12-28
+hzqh7z0mdl3v7gwete66syxp,p174874,Joachim Andersen,Fulham,1996-05-31
+48gk2hpqtsl6p9sx9kjhaydq4,p235826,Joël Piroe,Leeds,1999-08-02
+1c8m2ko0wxq1asfkuykurdr0y,p590014,Rio Cardines,Crystal Palace,2006-07-01
+4txjdaqveermfryvbfrr4taf7,p490142,Freddie Potts,West Ham,2003-09-12
+b496gs285it6bheuikox6z9mj,p209243,Jadon Sancho,Aston Villa,2000-03-25
+1c8m2ko0wxq1asfkuykurdr0y,p488024,Yéremy Pino,Crystal Palace,2002-10-20
+64bxxwu2mv2qqlv0monbkj1om,p647960,Oliver Pimlott,Burnley,2007-04-07
+1qtaiy11gswx327s0vkibf70n,p206325,Oleksandr Zinchenko,Nottm Forest,1996-12-15
+1r3545b2dzan8yqa80gtmcjch,p477547,Leo Hjelde,Sunderland,2003-08-26
+7vn2i2kd35zuetw6b38gw9jsz,p232826,Anthony Gordon,Newcastle,2001-02-24
+48gk2hpqtsl6p9sx9kjhaydq4,p437738,Sebastiaan Bornauw,Leeds,1999-03-22
+1pse9ta7a45pi2w2grjim70ge,p441240,Romain Faivre,Bournemouth,1998-07-14
+b9si1jn1lfxfund69e9ogcu2n,p149065,José Sá,Wolves,1993-01-17
+hzqh7z0mdl3v7gwete66syxp,p167074,Kenny Tete,Fulham,1995-10-09
+ehd2iemqmschhj2ec0vayztzz,p114283,Jack Grealish,Everton,1995-09-10
+1c8m2ko0wxq1asfkuykurdr0y,p515621,Chadi Riad,Crystal Palace,2003-06-17
+c8h9bw1l82s06h77xxrelzhur,p223541,Federico Chiesa,Liverpool,1997-10-25
+48gk2hpqtsl6p9sx9kjhaydq4,p200617,Daniel James,Leeds,1997-11-10
+6eqit8ye8aomdsrrq0hk3v7gh,p547676,Tyler Fredricson,Man Utd,2005-02-23
+ehd2iemqmschhj2ec0vayztzz,p243571,Nathan Patterson,Everton,2001-10-16
+b9si1jn1lfxfund69e9ogcu2n,p647671,Mateus Mané,Wolves,2007-09-16
+1pse9ta7a45pi2w2grjim70ge,p54469,Adam Smith,Bournemouth,1991-04-29
+48gk2hpqtsl6p9sx9kjhaydq4,p577978,Rhys Chadwick,Leeds,2007-02-19
+22doj4sgsocqpxw45h607udje,p536134,Rio Kyerematen,Spurs,2005-06-09
+1r3545b2dzan8yqa80gtmcjch,p110504,Bertrand Traoré,Sunderland,1995-09-06
+4dsgumo7d4zupm2ugsvm4zm4d,p481655,Martín Zubimendi,Arsenal,1999-02-02
+1qtaiy11gswx327s0vkibf70n,p569014,Eric da Silva Moreira,Nottm Forest,2006-05-03
+hzqh7z0mdl3v7gwete66syxp,p246301,Jorge Cuenca,Fulham,1999-11-17
+b9si1jn1lfxfund69e9ogcu2n,p523705,Jackson Tchatchoua,Wolves,2001-09-14
+7yx5dqhhphyvfisohikodajhv,p649240,Joshua Stephenson,Brentford,2007-09-04
+64bxxwu2mv2qqlv0monbkj1om,p447715,Aaron Ramsey,Burnley,2003-01-21
+6eqit8ye8aomdsrrq0hk3v7gh,p141746,Bruno Fernandes,Man Utd,1994-09-08
+4txjdaqveermfryvbfrr4taf7,p530335,Pablo,West Ham,2004-01-02
+48gk2hpqtsl6p9sx9kjhaydq4,p486520,Ilia Gruev,Leeds,2000-05-06
+22doj4sgsocqpxw45h607udje,p487053,Destiny Udogie,Spurs,2002-11-28
+1c8m2ko0wxq1asfkuykurdr0y,p489706,Justin Devenny,Crystal Palace,2003-10-11
+6eqit8ye8aomdsrrq0hk3v7gh,p576620,Bendito Mantato,Man Utd,2008-01-25
+1r3545b2dzan8yqa80gtmcjch,p554197,Chris Rigg,Sunderland,2007-06-18
+c8h9bw1l82s06h77xxrelzhur,p118748,Mohamed Salah,Liverpool,1992-06-15
+hzqh7z0mdl3v7gwete66syxp,p102057,Raúl Jiménez,Fulham,1991-05-05
+6eqit8ye8aomdsrrq0hk3v7gh,p576634,Jim Thwaites,Man Utd,2007-12-20
+b496gs285it6bheuikox6z9mj,p215711,Leon Bailey,Aston Villa,1997-08-09
+e5p0ehyguld7egzhiedpdnc3w,p513433,Brajan Gruda,Brighton,2004-05-31
+c8h9bw1l82s06h77xxrelzhur,p510663,Hugo Ekitiké,Liverpool,2002-06-20
+64bxxwu2mv2qqlv0monbkj1om,p216055,Florentino,Burnley,1999-08-19
+1c8m2ko0wxq1asfkuykurdr0y,p247348,Daniel Muñoz,Crystal Palace,1996-05-26
+ehd2iemqmschhj2ec0vayztzz,p480455,Jarrad Branthwaite,Everton,2002-06-27
+22doj4sgsocqpxw45h607udje,p212319,Richarlison,Spurs,1997-05-10
+e5p0ehyguld7egzhiedpdnc3w,p597320,Harry Howell,Brighton,2008-04-20
+c8h9bw1l82s06h77xxrelzhur,p611926,Amara Nallo,Liverpool,2006-11-18
+48gk2hpqtsl6p9sx9kjhaydq4,p466525,Anton Stach,Leeds,1998-11-15
+7vn2i2kd35zuetw6b38gw9jsz,p200089,Joe Willock,Newcastle,1999-08-20
+1qtaiy11gswx327s0vkibf70n,p456512,Dan Ndoye,Nottm Forest,2000-10-25
+e5p0ehyguld7egzhiedpdnc3w,p83299,Lewis Dunk,Brighton,1991-11-21
+1pse9ta7a45pi2w2grjim70ge,p551483,Álex Jiménez,Bournemouth,2005-05-08
+c8h9bw1l82s06h77xxrelzhur,p492777,Conor Bradley,Liverpool,2003-07-09
+6eqit8ye8aomdsrrq0hk3v7gh,p458249,Joshua Zirkzee,Man Utd,2001-05-22
+b496gs285it6bheuikox6z9mj,p244954,Pau Torres,Aston Villa,1997-01-16
+ehd2iemqmschhj2ec0vayztzz,p491012,Youssef Chermiti,Everton,2004-05-24
+a3nyxabgsqlnqfkeg41m6tnpp,p477424,Josko Gvardiol,Man City,2002-01-23
+22doj4sgsocqpxw45h607udje,p235674,Manor Solomon,Spurs,1999-07-24
+6eqit8ye8aomdsrrq0hk3v7gh,p596047,Chido Obi,Man Utd,2007-11-29
+22doj4sgsocqpxw45h607udje,p135720,Kevin Danso,Spurs,1998-09-19
+64bxxwu2mv2qqlv0monbkj1om,p551206,Jaydon Banel,Burnley,2004-10-19
+7yx5dqhhphyvfisohikodajhv,p444765,Sepp van den Berg,Brentford,2001-12-20
+6eqit8ye8aomdsrrq0hk3v7gh,p465247,Senne Lammens,Man Utd,2002-07-07
+4txjdaqveermfryvbfrr4taf7,p462116,Jean-Clair Todibo,West Ham,1999-12-30
+9q0arba2kbnywth8bkxlhgmdr,p247632,Pedro Neto,Chelsea,2000-03-09
+e5p0ehyguld7egzhiedpdnc3w,p451340,Kaoru Mitoma,Brighton,1997-05-20
+hzqh7z0mdl3v7gwete66syxp,p560552,Kevin,Fulham,2003-01-04
+1pse9ta7a45pi2w2grjim70ge,p503139,Alex Scott,Bournemouth,2003-08-21
+c8h9bw1l82s06h77xxrelzhur,p206915,Curtis Jones,Liverpool,2001-01-30
+b496gs285it6bheuikox6z9mj,p569577,Triston Rowe,Aston Villa,2006-10-02
+b496gs285it6bheuikox6z9mj,p534836,Travis Patterson,Aston Villa,2005-10-06
+7vn2i2kd35zuetw6b38gw9jsz,p220237,Sven Botman,Newcastle,2000-01-12
+9q0arba2kbnywth8bkxlhgmdr,p551210,Jorrel Hato,Chelsea,2006-03-07
+e5p0ehyguld7egzhiedpdnc3w,p535301,Carlos Baleba,Brighton,2004-01-03
+1pse9ta7a45pi2w2grjim70ge,p436893,Julián Araujo,Bournemouth,2001-08-13
+48gk2hpqtsl6p9sx9kjhaydq4,p243526,Gabriel Gudmundsson,Leeds,1999-04-29
+6eqit8ye8aomdsrrq0hk3v7gh,p430871,Matheus Cunha,Man Utd,1999-05-27
+1qtaiy11gswx327s0vkibf70n,p482973,Igor Jesus,Nottm Forest,2001-02-25
+1r3545b2dzan8yqa80gtmcjch,p536661,Nilson Angulo,Sunderland,2003-06-19
+1qtaiy11gswx327s0vkibf70n,p88248,Stefan Ortega,Nottm Forest,1992-11-06
+a3nyxabgsqlnqfkeg41m6tnpp,p204936,Gianluigi Donnarumma,Man City,1999-02-25
+a3nyxabgsqlnqfkeg41m6tnpp,p494307,Max Alleyne,Man City,2005-07-21
+b496gs285it6bheuikox6z9mj,p72147,Marco Bizot,Aston Villa,1991-03-10
+1pse9ta7a45pi2w2grjim70ge,p463981,James Hill,Bournemouth,2002-01-10
+b496gs285it6bheuikox6z9mj,p577731,Ben Broggio,Aston Villa,2007-01-29
+a3nyxabgsqlnqfkeg41m6tnpp,p472769,Nico O'Reilly,Man City,2005-03-21
+a3nyxabgsqlnqfkeg41m6tnpp,p97299,John Stones,Man City,1994-05-28
+c8h9bw1l82s06h77xxrelzhur,p122798,Andy Robertson,Liverpool,1994-03-11
+7yx5dqhhphyvfisohikodajhv,p543295,Antoni Milambo,Brentford,2005-04-03
+48gk2hpqtsl6p9sx9kjhaydq4,p59735,Karl Darlow,Leeds,1990-10-08
+6eqit8ye8aomdsrrq0hk3v7gh,p230001,Noussair Mazraoui,Man Utd,1997-11-14
+ehd2iemqmschhj2ec0vayztzz,p502697,Charly Alcaraz,Everton,2002-11-30
+c8h9bw1l82s06h77xxrelzhur,p489580,Calvin Ramsay,Liverpool,2003-07-31
+4txjdaqveermfryvbfrr4taf7,p602903,Ezra Mayers,West Ham,2007-01-16
+1c8m2ko0wxq1asfkuykurdr0y,p651426,Jaydee Canvot,Crystal Palace,2006-07-29
+b496gs285it6bheuikox6z9mj,p244850,Morgan Rogers,Aston Villa,2002-07-26
+ehd2iemqmschhj2ec0vayztzz,p550615,Tyrique George,Everton,2006-02-04
+ehd2iemqmschhj2ec0vayztzz,p224967,Vitalii Mykolenko,Everton,1999-05-29
+1pse9ta7a45pi2w2grjim70ge,p242882,Bafodé Diakité,Bournemouth,2001-01-06
+1r3545b2dzan8yqa80gtmcjch,p547027,Habib Diarra,Sunderland,2004-01-03
+22doj4sgsocqpxw45h607udje,p511499,Mathys Tel,Spurs,2005-04-27
+ehd2iemqmschhj2ec0vayztzz,p433154,Dwight McNeil,Everton,1999-11-22
+hzqh7z0mdl3v7gwete66syxp,p169528,Antonee Robinson,Fulham,1997-08-08
+22doj4sgsocqpxw45h607udje,p202993,Rodrigo Bentancur,Spurs,1997-06-25
+b9si1jn1lfxfund69e9ogcu2n,p501837,Yerson Mosquera,Wolves,2001-05-02
+1r3545b2dzan8yqa80gtmcjch,p124165,Patrick Roberts,Sunderland,1997-02-05
+a3nyxabgsqlnqfkeg41m6tnpp,p165809,Bernardo Silva,Man City,1994-08-10
+7yx5dqhhphyvfisohikodajhv,p56979,Jordan Henderson,Brentford,1990-06-17
+4dsgumo7d4zupm2ugsvm4zm4d,p499175,Ethan Nwaneri,Arsenal,2007-03-21
+1r3545b2dzan8yqa80gtmcjch,p519634,Jenson Seelt,Sunderland,2003-05-23
+9q0arba2kbnywth8bkxlhgmdr,p499309,Marc Guiu,Chelsea,2006-01-04
+e5p0ehyguld7egzhiedpdnc3w,p550090,Diego Coppola,Brighton,2003-12-28
+hzqh7z0mdl3v7gwete66syxp,p184349,Ryan Sessegnon,Fulham,2000-05-18
+b9si1jn1lfxfund69e9ogcu2n,p488213,Tolu Arokodare,Wolves,2000-11-23
+b496gs285it6bheuikox6z9mj,p184667,Victor Lindelöf,Aston Villa,1994-07-17
+22doj4sgsocqpxw45h607udje,p482442,Pape Matar Sarr,Spurs,2002-09-14
+1r3545b2dzan8yqa80gtmcjch,p437505,Wilson Isidor,Sunderland,2000-08-27
+1qtaiy11gswx327s0vkibf70n,p575458,Jair Cunha,Nottm Forest,2005-03-07
+b9si1jn1lfxfund69e9ogcu2n,p209041,Angel Gomes,Wolves,2000-08-31
+48gk2hpqtsl6p9sx9kjhaydq4,p222694,Pascal Struijk,Leeds,1999-08-11
+7vn2i2kd35zuetw6b38gw9jsz,p432422,Sandro Tonali,Newcastle,2000-05-08
+hzqh7z0mdl3v7gwete66syxp,p153682,Harry Wilson,Fulham,1997-03-22
+c8h9bw1l82s06h77xxrelzhur,p519440,Wellity Lucky,Liverpool,2006-01-12
+7yx5dqhhphyvfisohikodajhv,p607464,Michael Kayode,Brentford,2004-07-10
+ehd2iemqmschhj2ec0vayztzz,p232928,James Garner,Everton,2001-03-13
+4txjdaqveermfryvbfrr4taf7,p467189,Mads Hermansen,West Ham,2000-07-11
+b9si1jn1lfxfund69e9ogcu2n,p101982,Sam Johnstone,Wolves,1993-03-25
+6eqit8ye8aomdsrrq0hk3v7gh,p222690,Tyrell Malacia,Man Utd,1999-08-17
+4txjdaqveermfryvbfrr4taf7,p551226,Mateus Fernandes,West Ham,2004-07-10
+c8h9bw1l82s06h77xxrelzhur,p116535,Alisson Becker,Liverpool,1992-10-02
+c8h9bw1l82s06h77xxrelzhur,p718875,Talla Ndiaye,Liverpool,2008-01-06
+hzqh7z0mdl3v7gwete66syxp,p153133,Alex Iwobi,Fulham,1996-05-03
+7vn2i2kd35zuetw6b38gw9jsz,p666607,Sam Alabi,Newcastle,2009-07-09
+c8h9bw1l82s06h77xxrelzhur,p677945,Will Wright,Liverpool,2008-01-01
+hzqh7z0mdl3v7gwete66syxp,p232892,Calvin Bassey,Fulham,1999-12-31
+7vn2i2kd35zuetw6b38gw9jsz,p623110,Park Seung-Soo,Newcastle,2007-03-17
+4dsgumo7d4zupm2ugsvm4zm4d,p128295,Christian Nørgaard,Arsenal,1994-03-10
+b9si1jn1lfxfund69e9ogcu2n,p514362,Temple Ojinnaka,Wolves,2005-03-30
+a3nyxabgsqlnqfkeg41m6tnpp,p432720,James Trafford,Man City,2002-10-10
+7vn2i2kd35zuetw6b38gw9jsz,p77794,Kieran Trippier,Newcastle,1990-09-19
+9q0arba2kbnywth8bkxlhgmdr,p619734,Jesse Derry,Chelsea,2007-06-30
+b496gs285it6bheuikox6z9mj,p98980,Emiliano Martínez,Aston Villa,1992-09-02
+1qtaiy11gswx327s0vkibf70n,p204968,Ryan Yates,Nottm Forest,1997-11-21
+1c8m2ko0wxq1asfkuykurdr0y,p643426,Dean Benamar,Crystal Palace,2008-05-31
+1r3545b2dzan8yqa80gtmcjch,p200834,Nordi Mukiele,Sunderland,1997-11-01
+64bxxwu2mv2qqlv0monbkj1om,p167887,Josh Laurent,Burnley,1995-05-06
+6eqit8ye8aomdsrrq0hk3v7gh,p576628,Shea Lacey,Man Utd,2007-04-14
+64bxxwu2mv2qqlv0monbkj1om,p477717,Maxime Estève,Burnley,2002-05-26
+4dsgumo7d4zupm2ugsvm4zm4d,p219847,Kai Havertz,Arsenal,1999-06-11
+b9si1jn1lfxfund69e9ogcu2n,p184754,Hwang Hee-Chan,Wolves,1996-01-26

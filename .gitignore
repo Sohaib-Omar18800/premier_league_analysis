@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+.env
+.DS_Store
+old scraps/
+attacking/old scraps/
+defending/old scraps/
+misc/old scraps/
+passing/old scraps/
+player_stats/old scraps/
+pressing/old scraps/
+sequences/old scraps/
