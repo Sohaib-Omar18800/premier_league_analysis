@@ -1,0 +1,21 @@
+club_name,total_matches,goals,xg,goals_vs_xg,shots,sot,conv_percentage,xg_per_shot,shots_in_box_percentage,goals_in_box_percentage,club_id
+Burnley,38,75,75.36,-0.36,636,216,11.79%,0.12,66.51%,86.67%,64bxxwu2mv2qqlv0monbkj1om
+West Ham,38,65,59.64,5.36,566,195,11.48%,0.10,68.90%,87.69%,4txjdaqveermfryvbfrr4taf7
+Wolves,38,68,59.52,8.48,529,179,12.85%,0.11,66.16%,80.88%,b9si1jn1lfxfund69e9ogcu2n
+Nottm Forest,38,51,57.32,-6.32,506,163,10.08%,0.11,66.01%,76.47%,1qtaiy11gswx327s0vkibf70n
+Bournemouth,38,54,56.77,-2.77,480,162,11.25%,0.12,70.42%,79.63%,1pse9ta7a45pi2w2grjim70ge
+Everton,38,50,56.51,-6.51,532,158,9.40%,0.11,66.92%,90.00%,ehd2iemqmschhj2ec0vayztzz
+Leeds,38,56,55.67,0.33,477,163,11.74%,0.12,68.34%,85.71%,48gk2hpqtsl6p9sx9kjhaydq4
+Sunderland,38,48,54.45,-6.45,540,169,8.89%,0.10,64.44%,79.17%,1r3545b2dzan8yqa80gtmcjch
+Brentford,38,52,54.10,-2.10,505,163,10.30%,0.11,63.56%,86.54%,7yx5dqhhphyvfisohikodajhv
+Aston Villa,38,49,53.92,-4.92,490,167,10.00%,0.11,65.92%,85.71%,b496gs285it6bheuikox6z9mj
+Fulham,38,51,53.31,-2.31,448,149,11.38%,0.12,69.20%,82.35%,hzqh7z0mdl3v7gwete66syxp
+Spurs,38,57,52.32,4.68,467,152,12.21%,0.11,67.67%,77.19%,22doj4sgsocqpxw45h607udje
+Chelsea,38,52,52.26,-0.26,415,160,12.53%,0.13,71.08%,90.38%,9q0arba2kbnywth8bkxlhgmdr
+Crystal Palace,38,51,51.89,-0.89,445,162,11.46%,0.12,70.11%,88.24%,1c8m2ko0wxq1asfkuykurdr0y
+Newcastle,38,55,51.32,3.68,470,168,11.70%,0.11,65.96%,80.00%,7vn2i2kd35zuetw6b38gw9jsz
+Brighton,38,46,49.13,-3.13,442,148,10.41%,0.11,70.14%,73.91%,e5p0ehyguld7egzhiedpdnc3w
+Man Utd,38,50,48.57,1.43,441,141,11.34%,0.11,67.57%,84.00%,6eqit8ye8aomdsrrq0hk3v7gh
+Liverpool,38,53,47.43,5.57,435,153,12.18%,0.11,65.75%,79.25%,c8h9bw1l82s06h77xxrelzhur
+Man City,38,35,44.21,-9.21,369,127,9.49%,0.12,71.54%,80.00%,a3nyxabgsqlnqfkeg41m6tnpp
+Arsenal,38,27,28.30,-1.30,310,90,8.71%,0.09,63.55%,74.07%,4dsgumo7d4zupm2ugsvm4zm4d

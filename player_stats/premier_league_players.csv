@@ -1,0 +1,842 @@
+Club ID,Player Id,Club Name,Full Name,Web Name,Pos,Cost
+4dsgumo7d4zupm2ugsvm4zm4d,p154561,Arsenal,David Raya Martín,Raya,Goalkeeper,6.2M
+4dsgumo7d4zupm2ugsvm4zm4d,p109745,Arsenal,Kepa Arrizabalaga Revuelta,Arrizabalaga,Goalkeeper,4.0M
+4dsgumo7d4zupm2ugsvm4zm4d,p463748,Arsenal,Karl Hein,Hein,Goalkeeper,4.0M
+4dsgumo7d4zupm2ugsvm4zm4d,p551221,Arsenal,Tommy Setford,Setford,Goalkeeper,3.9M
+4dsgumo7d4zupm2ugsvm4zm4d,p226597,Arsenal,Gabriel dos Santos Magalhães,Gabriel,Defender,7.3M
+4dsgumo7d4zupm2ugsvm4zm4d,p462424,Arsenal,William Saliba,Saliba,Defender,6.3M
+4dsgumo7d4zupm2ugsvm4zm4d,p466075,Arsenal,Riccardo Calafiori,Calafiori,Defender,5.6M
+4dsgumo7d4zupm2ugsvm4zm4d,p445122,Arsenal,Jurriën Timber,J.Timber,Defender,6.0M
+4dsgumo7d4zupm2ugsvm4zm4d,p440854,Arsenal,Jakub Kiwior,Kiwior,Defender,5.4M
+4dsgumo7d4zupm2ugsvm4zm4d,p499169,Arsenal,Myles Lewis-Skelly,Lewis-Skelly,Defender,5.0M
+4dsgumo7d4zupm2ugsvm4zm4d,p198869,Arsenal,Benjamin White,White,Defender,5.1M
+4dsgumo7d4zupm2ugsvm4zm4d,p563324,Arsenal,Brayden Clarke,Clarke,Defender,3.7M
+4dsgumo7d4zupm2ugsvm4zm4d,p588793,Arsenal,Maldini Kacurri,Kacurri,Defender,3.9M
+4dsgumo7d4zupm2ugsvm4zm4d,p499167,Arsenal,Josh Nichols,Nichols,Defender,3.7M
+4dsgumo7d4zupm2ugsvm4zm4d,p223340,Arsenal,Bukayo Saka,Saka,Midfielder,10.0M
+4dsgumo7d4zupm2ugsvm4zm4d,p184029,Arsenal,Martin Ødegaard,Ødegaard,Midfielder,7.8M
+4dsgumo7d4zupm2ugsvm4zm4d,p248857,Arsenal,Noni Madueke,Madueke,Midfielder,6.8M
+4dsgumo7d4zupm2ugsvm4zm4d,p444145,Arsenal,Gabriel Martinelli Silva,Martinelli,Midfielder,6.8M
+4dsgumo7d4zupm2ugsvm4zm4d,p116216,Arsenal,Leandro Trossard,Trossard,Midfielder,6.6M
+4dsgumo7d4zupm2ugsvm4zm4d,p204480,Arsenal,Declan Rice,Rice,Midfielder,7.2M
+4dsgumo7d4zupm2ugsvm4zm4d,p195384,Arsenal,Mikel Merino Zazón,Merino,Midfielder,5.3M
+4dsgumo7d4zupm2ugsvm4zm4d,p438098,Arsenal,Fábio Ferreira Vieira,Fábio Vieira,Midfielder,5.4M
+4dsgumo7d4zupm2ugsvm4zm4d,p128295,Arsenal,Christian Nørgaard,Nørgaard,Midfielder,5.1M
+4dsgumo7d4zupm2ugsvm4zm4d,p499175,Arsenal,Ethan Nwaneri,Nwaneri,Midfielder,5.0M
+4dsgumo7d4zupm2ugsvm4zm4d,p481655,Arsenal,Martín Zubimendi Ibáñez,Zubimendi,Midfielder,4.9M
+4dsgumo7d4zupm2ugsvm4zm4d,p588796,Arsenal,Ismeal Kabia,Kabia,Midfielder,4.5M
+4dsgumo7d4zupm2ugsvm4zm4d,p437742,Arsenal,Albert Sambi Lokonga,Sambi,Midfielder,4.5M
+4dsgumo7d4zupm2ugsvm4zm4d,p219847,Arsenal,Kai Havertz,Havertz,Forward,7.3M
+4dsgumo7d4zupm2ugsvm4zm4d,p205651,Arsenal,Gabriel Fernando de Jesus,G.Jesus,Forward,6.4M
+4dsgumo7d4zupm2ugsvm4zm4d,p232413,Arsenal,Eberechi Eze,Eze,Midfielder,7.3M
+4dsgumo7d4zupm2ugsvm4zm4d,p500040,Arsenal,Cristhian Mosquera,Mosquera,Defender,5.3M
+4dsgumo7d4zupm2ugsvm4zm4d,p224117,Arsenal,Viktor Gyökeres,Gyökeres,Forward,9.1M
+4dsgumo7d4zupm2ugsvm4zm4d,p616077,Arsenal,Max Dowman,Dowman,Midfielder,4.2M
+4dsgumo7d4zupm2ugsvm4zm4d,p646243,Arsenal,Andre Harriman-Annous,Harriman-Annous,Midfielder,4.4M
+4dsgumo7d4zupm2ugsvm4zm4d,p448104,Arsenal,Piero Hincapié,Hincapie,Defender,5.1M
+4dsgumo7d4zupm2ugsvm4zm4d,p616065,Arsenal,Marli Salmon,Salmon,Defender,4.0M
+b496gs285it6bheuikox6z9mj,p98980,Aston Villa,Emiliano Martínez Romero,Martinez,Goalkeeper,5.0M
+b496gs285it6bheuikox6z9mj,p72147,Aston Villa,Marco Bizot,M.Bizot,Goalkeeper,4.2M
+b496gs285it6bheuikox6z9mj,p462492,Aston Villa,Joe Gauci,Gauci,Goalkeeper,4.0M
+b496gs285it6bheuikox6z9mj,p462381,Aston Villa,Filip Marschall,Marschall,Goalkeeper,4.0M
+b496gs285it6bheuikox6z9mj,p199796,Aston Villa,Matty Cash,Cash,Defender,4.6M
+b496gs285it6bheuikox6z9mj,p101188,Aston Villa,Lucas Digne,Digne,Defender,4.5M
+b496gs285it6bheuikox6z9mj,p199798,Aston Villa,Ezri Konsa Ngoyo,Konsa,Defender,4.4M
+b496gs285it6bheuikox6z9mj,p441302,Aston Villa,Ian Maatsen,Maatsen,Defender,4.2M
+b496gs285it6bheuikox6z9mj,p149484,Aston Villa,Tyrone Mings,Mings,Defender,4.3M
+b496gs285it6bheuikox6z9mj,p244954,Aston Villa,Pau Torres,Pau,Defender,4.3M
+b496gs285it6bheuikox6z9mj,p606798,Aston Villa,Andrés García,A.García,Defender,3.9M
+b496gs285it6bheuikox6z9mj,p106468,Aston Villa,Álex Moreno Lopera,Alex Moreno,Defender,4.0M
+b496gs285it6bheuikox6z9mj,p515597,Aston Villa,Lamare Bogarde,Bogarde,Defender,4.0M
+b496gs285it6bheuikox6z9mj,p514315,Aston Villa,Lino da Cruz Sousa,Sousa,Defender,3.8M
+b496gs285it6bheuikox6z9mj,p587178,Aston Villa,Yasin Özcan,Yasin,Defender,4.0M
+b496gs285it6bheuikox6z9mj,p244850,Aston Villa,Morgan Rogers,Rogers,Midfielder,7.3M
+b496gs285it6bheuikox6z9mj,p166989,Aston Villa,Youri Tielemans,Tielemans,Midfielder,5.9M
+b496gs285it6bheuikox6z9mj,p215711,Aston Villa,Leon Bailey,Bailey,Midfielder,5.5M
+b496gs285it6bheuikox6z9mj,p195546,Aston Villa,Emiliano Buendía Stati,Buendía,Midfielder,5.3M
+b496gs285it6bheuikox6z9mj,p469247,Aston Villa,Samuel Iling-Junior,Iling Jr,Midfielder,5.5M
+b496gs285it6bheuikox6z9mj,p204646,Aston Villa,Donyell Malen,Malen,Midfielder,5.1M
+b496gs285it6bheuikox6z9mj,p122806,Aston Villa,John McGinn,McGinn,Midfielder,5.3M
+b496gs285it6bheuikox6z9mj,p88894,Aston Villa,Ross Barkley,Barkley,Midfielder,4.8M
+b496gs285it6bheuikox6z9mj,p491287,Aston Villa,Enzo Barrenechea,Barrenechea,Midfielder,5.0M
+b496gs285it6bheuikox6z9mj,p461421,Aston Villa,Lewis Dobbin,Dobbin,Midfielder,5.0M
+b496gs285it6bheuikox6z9mj,p226944,Aston Villa,Boubacar Kamara,Kamara,Midfielder,4.9M
+b496gs285it6bheuikox6z9mj,p449871,Aston Villa,Amadou Onana,Onana,Midfielder,4.8M
+b496gs285it6bheuikox6z9mj,p577731,Aston Villa,Ben Broggio,Broggio,Midfielder,4.4M
+b496gs285it6bheuikox6z9mj,p151589,Aston Villa,Leander Dendoncker,Dendoncker,Midfielder,4.5M
+b496gs285it6bheuikox6z9mj,p559962,Aston Villa,Jamaldeen Jimoh-Aloba,Jimoh-Aloba,Midfielder,4.5M
+b496gs285it6bheuikox6z9mj,p537403,Aston Villa,Kadan Young,Young,Midfielder,4.3M
+b496gs285it6bheuikox6z9mj,p178301,Aston Villa,Ollie Watkins,Watkins,Forward,8.7M
+b496gs285it6bheuikox6z9mj,p576756,Aston Villa,Zépiqueno Redmond,Redmond,Forward,4.5M
+b496gs285it6bheuikox6z9mj,p444884,Aston Villa,Harvey Elliott,Elliott,Midfielder,5.1M
+b496gs285it6bheuikox6z9mj,p209243,Aston Villa,Jadon Sancho,Sancho,Midfielder,5.8M
+b496gs285it6bheuikox6z9mj,p481283,Aston Villa,James Wright,Wright,Goalkeeper,3.9M
+b496gs285it6bheuikox6z9mj,p230046,Aston Villa,Douglas Luiz Soares de Paulo,Douglas Luiz,Midfielder,4.9M
+b496gs285it6bheuikox6z9mj,p569577,Aston Villa,Triston Rowe,Rowe,Defender,4.0M
+b496gs285it6bheuikox6z9mj,p645618,Aston Villa,Bradley Burrowes,Burrowes,Midfielder,4.3M
+b496gs285it6bheuikox6z9mj,p564505,Aston Villa,Sam Proctor,Proctor,Goalkeeper,3.9M
+b496gs285it6bheuikox6z9mj,p534836,Aston Villa,Travis Patterson,Patterson,Defender,3.9M
+b496gs285it6bheuikox6z9mj,p184667,Aston Villa,Victor Lindelöf,Lindelöf,Defender,4.5M
+b496gs285it6bheuikox6z9mj,p577285,Aston Villa,George Hemmings,George Hemmings,Midfielder,4.5M
+b496gs285it6bheuikox6z9mj,p516875,Aston Villa,Ronnie Hollingshead,Hollingshead,Goalkeeper,4.0M
+b496gs285it6bheuikox6z9mj,p664015,Aston Villa,Leon Routh,Leon Routh,Defender,4.0M
+b496gs285it6bheuikox6z9mj,p618027,Aston Villa,TJ Carroll,Carroll,Defender,4.0M
+b496gs285it6bheuikox6z9mj,p653481,Aston Villa,Alysson Edward Franco da Rocha dos Santos,Alysson,Midfielder,5.0M
+b496gs285it6bheuikox6z9mj,p173879,Aston Villa,Tammy Abraham,Abraham,Forward,5.7M
+64bxxwu2mv2qqlv0monbkj1om,p518030,Burnley,Max Weiß,Weiss,Goalkeeper,4.2M
+64bxxwu2mv2qqlv0monbkj1om,p489571,Burnley,Etienne Green,Green,Goalkeeper,4.0M
+64bxxwu2mv2qqlv0monbkj1om,p51943,Burnley,Václav Hladký,Hladký,Goalkeeper,3.9M
+64bxxwu2mv2qqlv0monbkj1om,p192290,Burnley,Connor Roberts,Roberts,Defender,4.3M
+64bxxwu2mv2qqlv0monbkj1om,p58621,Burnley,Kyle Walker,Walker,Defender,4.4M
+64bxxwu2mv2qqlv0monbkj1om,p247245,Burnley,Hannes Delcroix,Delcroix,Defender,3.8M
+64bxxwu2mv2qqlv0monbkj1om,p461567,Burnley,Owen Dodgson,Dodgson,Defender,4.0M
+64bxxwu2mv2qqlv0monbkj1om,p478969,Burnley,Hjalmar Ekdal,Ekdal,Defender,3.8M
+64bxxwu2mv2qqlv0monbkj1om,p477717,Burnley,Maxime Estève,Estève,Defender,3.8M
+64bxxwu2mv2qqlv0monbkj1om,p494960,Burnley,Quilindschy Hartman,Hartman,Defender,4.0M
+64bxxwu2mv2qqlv0monbkj1om,p461188,Burnley,Bashir Humphreys,Humphreys,Defender,3.9M
+64bxxwu2mv2qqlv0monbkj1om,p241231,Burnley,Jordan Beyer,Jordan,Defender,3.9M
+64bxxwu2mv2qqlv0monbkj1om,p549329,Burnley,Lucas Pires Silva,Lucas Pires,Defender,3.8M
+64bxxwu2mv2qqlv0monbkj1om,p450072,Burnley,Shurandy Sambo,Sambo,Defender,4.0M
+64bxxwu2mv2qqlv0monbkj1om,p519895,Burnley,Oliver Sonne,Sonne,Defender,3.8M
+64bxxwu2mv2qqlv0monbkj1om,p180804,Burnley,Axel Tuanzebe,Tuanzebe,Defender,3.9M
+64bxxwu2mv2qqlv0monbkj1om,p208912,Burnley,Joe Worrall,Worrall,Defender,3.8M
+64bxxwu2mv2qqlv0monbkj1om,p444180,Burnley,Jaidon Anthony,Anthony,Midfielder,5.0M
+64bxxwu2mv2qqlv0monbkj1om,p183751,Burnley,Manuel Benson Hedilazio,Benson,Midfielder,5.4M
+64bxxwu2mv2qqlv0monbkj1om,p179458,Burnley,Jacob Bruun Larsen,Bruun Larsen,Midfielder,5.2M
+64bxxwu2mv2qqlv0monbkj1om,p578614,Burnley,Enock Agyei,Boateng,Midfielder,4.7M
+64bxxwu2mv2qqlv0monbkj1om,p250735,Burnley,Darko Churlinov,Churlinov,Midfielder,4.9M
+64bxxwu2mv2qqlv0monbkj1om,p172567,Burnley,Josh Cullen,Cullen,Midfielder,4.9M
+64bxxwu2mv2qqlv0monbkj1om,p174592,Burnley,Marcus Edwards,Edwards,Midfielder,4.7M
+64bxxwu2mv2qqlv0monbkj1om,p465527,Burnley,Hannibal Mejbri,Hannibal,Midfielder,4.7M
+64bxxwu2mv2qqlv0monbkj1om,p487702,Burnley,Luca Koleosho,Koleosho,Midfielder,5.0M
+64bxxwu2mv2qqlv0monbkj1om,p167887,Burnley,Josh Laurent,Laurent,Midfielder,4.8M
+64bxxwu2mv2qqlv0monbkj1om,p469272,Burnley,Loum Tchaouna,Tchaouna,Midfielder,4.8M
+64bxxwu2mv2qqlv0monbkj1om,p447715,Burnley,Aaron Ramsey,A.Ramsey,Midfielder,4.4M
+64bxxwu2mv2qqlv0monbkj1om,p576323,Burnley,Oluwaseun Adewumi,Adewumi,Midfielder,4.5M
+64bxxwu2mv2qqlv0monbkj1om,p551206,Burnley,Jaydon Banel,Banel,Midfielder,4.5M
+64bxxwu2mv2qqlv0monbkj1om,p437748,Burnley,Mike Trésor Ndayishimiye,Trésor,Midfielder,4.3M
+64bxxwu2mv2qqlv0monbkj1om,p431639,Burnley,Zian Flemming,Flemming,Forward,5.3M
+64bxxwu2mv2qqlv0monbkj1om,p492831,Burnley,Zeki Amdouni,Amdouni,Forward,4.8M
+64bxxwu2mv2qqlv0monbkj1om,p435973,Burnley,Lyle Foster,Foster,Forward,4.9M
+64bxxwu2mv2qqlv0monbkj1om,p44699,Burnley,Ashley Barnes,Barnes,Forward,4.2M
+64bxxwu2mv2qqlv0monbkj1om,p220598,Burnley,Michael Obafemi,Obafemi,Forward,4.4M
+64bxxwu2mv2qqlv0monbkj1om,p67089,Burnley,Martin Dúbravka,Dúbravka,Goalkeeper,4.0M
+64bxxwu2mv2qqlv0monbkj1om,p101178,Burnley,James Ward-Prowse,Ward-Prowse,Midfielder,5.6M
+64bxxwu2mv2qqlv0monbkj1om,p503714,Burnley,Lesley Ugochukwu,Ugochukwu,Midfielder,5.0M
+64bxxwu2mv2qqlv0monbkj1om,p440323,Burnley,Armando Broja,Broja,Forward,5.2M
+64bxxwu2mv2qqlv0monbkj1om,p216055,Burnley,Florentino Ibrain Morris Luís,Florentino,Midfielder,5.0M
+64bxxwu2mv2qqlv0monbkj1om,p647960,Burnley,Oliver Pimlott,Pimlott,Midfielder,4.5M
+64bxxwu2mv2qqlv0monbkj1om,p704232,Burnley,George Brierley,Brierley,Midfielder,4.5M
+64bxxwu2mv2qqlv0monbkj1om,p644593,Burnley,Kian McMahon-Brown,McMahon-Brown,Midfielder,4.5M
+1pse9ta7a45pi2w2grjim70ge,p69752,Bournemouth,Norberto Murara Neto,Neto,Goalkeeper,4.5M
+1pse9ta7a45pi2w2grjim70ge,p457569,Bournemouth,Đorđe Petrović,Petrović,Goalkeeper,4.6M
+1pse9ta7a45pi2w2grjim70ge,p444172,Bournemouth,Will Dennis,Dennis,Goalkeeper,4.0M
+1pse9ta7a45pi2w2grjim70ge,p568791,Bournemouth,Callan McKenna,McKenna,Goalkeeper,3.9M
+1pse9ta7a45pi2w2grjim70ge,p495145,Bournemouth,Alex Paulsen,Paulsen,Goalkeeper,4.0M
+1pse9ta7a45pi2w2grjim70ge,p477580,Bournemouth,Illia Zabarnyi,Zabarnyi,Defender,5.0M
+1pse9ta7a45pi2w2grjim70ge,p221466,Bournemouth,Marcos Senesi Barón,Senesi,Defender,5.2M
+1pse9ta7a45pi2w2grjim70ge,p54469,Bournemouth,Adam Smith,Smith,Defender,4.4M
+1pse9ta7a45pi2w2grjim70ge,p494521,Bournemouth,Adrien Truffert,Truffert,Defender,4.8M
+1pse9ta7a45pi2w2grjim70ge,p541462,Bournemouth,Matai Akinmboni,Akinmboni,Defender,3.8M
+1pse9ta7a45pi2w2grjim70ge,p518906,Bournemouth,Owen Bevan,Bevan,Defender,3.8M
+1pse9ta7a45pi2w2grjim70ge,p463981,Bournemouth,James Hill,Hill,Defender,4.2M
+1pse9ta7a45pi2w2grjim70ge,p436893,Bournemouth,Julián Araujo Zúñiga,J.Araujo,Defender,3.8M
+1pse9ta7a45pi2w2grjim70ge,p223911,Bournemouth,Chris Mepham,Mepham,Defender,4.0M
+1pse9ta7a45pi2w2grjim70ge,p575901,Bournemouth,Julio Soler Barreto,Soler,Defender,3.9M
+1pse9ta7a45pi2w2grjim70ge,p222683,Bournemouth,Justin Kluivert,Kluivert,Midfielder,6.9M
+1pse9ta7a45pi2w2grjim70ge,p201658,Bournemouth,Marcus Tavernier,Tavernier,Midfielder,5.3M
+1pse9ta7a45pi2w2grjim70ge,p200785,Bournemouth,Tyler Adams,Adams,Midfielder,4.9M
+1pse9ta7a45pi2w2grjim70ge,p111317,Bournemouth,David Brooks,Brooks,Midfielder,5.0M
+1pse9ta7a45pi2w2grjim70ge,p158499,Bournemouth,Ryan Christie,Christie,Midfielder,4.9M
+1pse9ta7a45pi2w2grjim70ge,p155408,Bournemouth,Lewis Cook,Cook,Midfielder,4.9M
+1pse9ta7a45pi2w2grjim70ge,p168991,Bournemouth,Philip Billing,Philip,Midfielder,4.9M
+1pse9ta7a45pi2w2grjim70ge,p503139,Bournemouth,Alex Scott,Scott,Midfielder,4.9M
+1pse9ta7a45pi2w2grjim70ge,p224995,Bournemouth,Luis Sinisterra Lucumí,Sinisterra,Midfielder,5.0M
+1pse9ta7a45pi2w2grjim70ge,p441240,Bournemouth,Romain Faivre,Faivre,Midfielder,4.5M
+1pse9ta7a45pi2w2grjim70ge,p424044,Bournemouth,Hamed Traorè,H.Traorè,Midfielder,4.5M
+1pse9ta7a45pi2w2grjim70ge,p550596,Bournemouth,Dominic Sadi,Sadi,Midfielder,4.5M
+1pse9ta7a45pi2w2grjim70ge,p530121,Bournemouth,Zain Silcott-Duberry,Silcott-Duberry,Midfielder,4.4M
+1pse9ta7a45pi2w2grjim70ge,p606775,Bournemouth,Ben Winterburn,Winterburn,Midfielder,4.5M
+1pse9ta7a45pi2w2grjim70ge,p444102,Bournemouth,Francisco Evanilson de Lima Barbosa,Evanilson,Forward,6.6M
+1pse9ta7a45pi2w2grjim70ge,p168636,Bournemouth,Enes Ünal,Enes Ünal,Forward,5.4M
+1pse9ta7a45pi2w2grjim70ge,p590760,Bournemouth,Daniel Adu-Adjei,Adu-Adjei,Forward,4.4M
+1pse9ta7a45pi2w2grjim70ge,p560262,Bournemouth,Junior Kroupi,Kroupi.Jr,Forward,4.7M
+1pse9ta7a45pi2w2grjim70ge,p496208,Bournemouth,Ben Gannon-Doak,Gannon-Doak,Midfielder,4.8M
+1pse9ta7a45pi2w2grjim70ge,p242882,Bournemouth,Bafodé Diakité,Diakité,Defender,4.1M
+1pse9ta7a45pi2w2grjim70ge,p606774,Bournemouth,Remy Rees-Dottin,Rees-Dottin,Midfielder,4.3M
+1pse9ta7a45pi2w2grjim70ge,p489888,Bournemouth,Amine Adli,Adli,Midfielder,5.4M
+1pse9ta7a45pi2w2grjim70ge,p551483,Bournemouth,Álex Jiménez Sánchez,A.Jimenez,Defender,4.5M
+1pse9ta7a45pi2w2grjim70ge,p620487,Bournemouth,Veljko Milosavljevic,Milosavljević,Defender,4.4M
+1pse9ta7a45pi2w2grjim70ge,p678552,Bournemouth,Malcom DaCosta,DaCosta,Midfielder,4.5M
+1pse9ta7a45pi2w2grjim70ge,p40383,Bournemouth,Fraser Forster,Forster,Goalkeeper,4.0M
+1pse9ta7a45pi2w2grjim70ge,p658013,Bournemouth,Charlie Stevens,Stevens,Midfielder,4.5M
+1pse9ta7a45pi2w2grjim70ge,p614574,Bournemouth,Alex Tóth,Tóth.A,Midfielder,4.9M
+1pse9ta7a45pi2w2grjim70ge,p436416,Bournemouth,Christos Mandas,Mandas,Goalkeeper,4.0M
+1pse9ta7a45pi2w2grjim70ge,p499604,Bournemouth,Rayan Vitor Simplício Rocha,Rayan,Midfielder,5.4M
+7yx5dqhhphyvfisohikodajhv,p200641,Brentford,Reiss Nelson,Nelson,Midfielder,4.8M
+7yx5dqhhphyvfisohikodajhv,p533463,Brentford,Dango Ouattara,O.Dango,Midfielder,5.6M
+7yx5dqhhphyvfisohikodajhv,p200720,Brentford,Caoimhín Kelleher,Kelleher,Goalkeeper,4.8M
+7yx5dqhhphyvfisohikodajhv,p235448,Brentford,Ellery Balcombe,Balcombe,Goalkeeper,3.9M
+7yx5dqhhphyvfisohikodajhv,p503300,Brentford,Matthew Cox,Cox,Goalkeeper,3.9M
+7yx5dqhhphyvfisohikodajhv,p535017,Brentford,Julian Eyestone,Eyestone,Goalkeeper,3.9M
+7yx5dqhhphyvfisohikodajhv,p507433,Brentford,Hákon Rafn Valdimarsson,Valdimarsson,Goalkeeper,3.8M
+7yx5dqhhphyvfisohikodajhv,p432830,Brentford,Nathan Collins,Collins,Defender,4.9M
+7yx5dqhhphyvfisohikodajhv,p249231,Brentford,Keane Lewis-Potter,Lewis-Potter,Defender,4.8M
+7yx5dqhhphyvfisohikodajhv,p191866,Brentford,Kristoffer Ajer,Ajer,Defender,4.4M
+7yx5dqhhphyvfisohikodajhv,p194010,Brentford,Rico Henry,Henry,Defender,4.3M
+7yx5dqhhphyvfisohikodajhv,p607464,Brentford,Michael Kayode,Kayode,Defender,4.6M
+7yx5dqhhphyvfisohikodajhv,p231065,Brentford,Ethan Pinnock,Pinnock,Defender,4.2M
+7yx5dqhhphyvfisohikodajhv,p226956,Brentford,Mads Roerslev Rasmussen,Roerslev,Defender,4.5M
+7yx5dqhhphyvfisohikodajhv,p444765,Brentford,Sepp van den Berg,Van den Berg,Defender,4.4M
+7yx5dqhhphyvfisohikodajhv,p622536,Brentford,Benjamin Arthur,Arthur,Defender,3.8M
+7yx5dqhhphyvfisohikodajhv,p612534,Brentford,Benjamin Fredrick,Fredrick,Defender,4.0M
+7yx5dqhhphyvfisohikodajhv,p472713,Brentford,Aaron Hickey,Hickey,Defender,4.0M
+7yx5dqhhphyvfisohikodajhv,p570241,Brentford,Kim Ji-soo,Ji-soo,Defender,3.9M
+7yx5dqhhphyvfisohikodajhv,p499717,Brentford,Jayden Meghoma,Meghoma,Defender,4.0M
+7yx5dqhhphyvfisohikodajhv,p513418,Brentford,Kevin Schade,Schade,Midfielder,6.8M
+7yx5dqhhphyvfisohikodajhv,p440089,Brentford,Mikkel Damsgaard,Damsgaard,Midfielder,5.6M
+7yx5dqhhphyvfisohikodajhv,p543295,Brentford,Antoni Milambo,Milambo,Midfielder,5.2M
+7yx5dqhhphyvfisohikodajhv,p244858,Brentford,Fábio Freitas Gouveia Carvalho,Carvalho,Midfielder,4.6M
+7yx5dqhhphyvfisohikodajhv,p56979,Brentford,Jordan Henderson,Henderson,Midfielder,5.0M
+7yx5dqhhphyvfisohikodajhv,p204580,Brentford,Vitaly Janelt,Janelt,Midfielder,4.9M
+7yx5dqhhphyvfisohikodajhv,p207283,Brentford,Mathias Jensen,Jensen,Midfielder,4.9M
+7yx5dqhhphyvfisohikodajhv,p626464,Brentford,Gustavo Nunes Fernandes Gomes,Nunes,Midfielder,4.9M
+7yx5dqhhphyvfisohikodajhv,p428580,Brentford,Frank Onyeka,Onyeka,Midfielder,4.8M
+7yx5dqhhphyvfisohikodajhv,p508395,Brentford,Yehor Yarmoliuk,Yarmoliuk,Midfielder,5.0M
+7yx5dqhhphyvfisohikodajhv,p606689,Brentford,Romelle Donovan,Donovan,Midfielder,4.4M
+7yx5dqhhphyvfisohikodajhv,p628204,Brentford,Yunus Emre Konak,Konak,Midfielder,4.3M
+7yx5dqhhphyvfisohikodajhv,p220695,Brentford,Paris Maghoma,Maghoma,Midfielder,4.5M
+7yx5dqhhphyvfisohikodajhv,p450539,Brentford,Myles Peart-Harris,Peart-Harris,Midfielder,4.4M
+7yx5dqhhphyvfisohikodajhv,p591357,Brentford,Ryan Trevitt,Trevitt,Midfielder,4.5M
+7yx5dqhhphyvfisohikodajhv,p502500,Brentford,Igor Thiago Nascimento Rodrigues,Thiago,Forward,7.2M
+7yx5dqhhphyvfisohikodajhv,p533710,Brentford,Iwan Morgan,Morgan,Forward,4.4M
+7yx5dqhhphyvfisohikodajhv,p183656,Brentford,Josh Dasilva,Dasilva,Midfielder,4.9M
+7yx5dqhhphyvfisohikodajhv,p593174,Brentford,Kaye Furo,Furo,Forward,4.5M
+7yx5dqhhphyvfisohikodajhv,p559610,Brentford,Luka Bentt,Bentt,Midfielder,4.5M
+7yx5dqhhphyvfisohikodajhv,p494556,Brentford,Ollie Shield,Shield,Defender,4.0M
+7yx5dqhhphyvfisohikodajhv,p649240,Brentford,Joshua Stephenson,Stephenson,Defender,4.0M
+7yx5dqhhphyvfisohikodajhv,p587433,Brentford,Conor McManus,McManus,Defender,4.0M
+7yx5dqhhphyvfisohikodajhv,p547671,Brentford,Riley Owen,Owen,Midfielder,4.5M
+e5p0ehyguld7egzhiedpdnc3w,p49262,Brighton,Jason Steele,Steele,Goalkeeper,4.2M
+e5p0ehyguld7egzhiedpdnc3w,p489639,Brighton,Bart Verbruggen,Verbruggen,Goalkeeper,4.6M
+e5p0ehyguld7egzhiedpdnc3w,p209288,Brighton,Tom McGill,McGill,Goalkeeper,3.9M
+e5p0ehyguld7egzhiedpdnc3w,p472739,Brighton,Carl Rushworth,Rushworth,Goalkeeper,4.0M
+e5p0ehyguld7egzhiedpdnc3w,p240514,Brighton,Kjell Scherpen,Scherpen,Goalkeeper,4.0M
+e5p0ehyguld7egzhiedpdnc3w,p204120,Brighton,Olivier Boscagli,Boscagli,Defender,4.2M
+e5p0ehyguld7egzhiedpdnc3w,p550090,Brighton,Diego Coppola,Coppola,Defender,4.2M
+e5p0ehyguld7egzhiedpdnc3w,p465730,Brighton,Maxim De Cuyper,De Cuyper,Defender,4.3M
+e5p0ehyguld7egzhiedpdnc3w,p83299,Brighton,Lewis Dunk,Dunk,Defender,4.5M
+e5p0ehyguld7egzhiedpdnc3w,p204214,Brighton,Pervis Estupiñán Tenorio,Estupiñan,Defender,4.5M
+e5p0ehyguld7egzhiedpdnc3w,p231416,Brighton,Ferdi Kadıoğlu,F.Kadıoğlu,Defender,4.5M
+e5p0ehyguld7egzhiedpdnc3w,p223434,Brighton,Igor Julio dos Santos de Paulo,Igor,Defender,4.5M
+e5p0ehyguld7egzhiedpdnc3w,p232792,Brighton,Tariq Lamptey,Lamptey,Defender,4.4M
+e5p0ehyguld7egzhiedpdnc3w,p469142,Brighton,Jan Paul van Hecke,Van Hecke,Defender,4.7M
+e5p0ehyguld7egzhiedpdnc3w,p111478,Brighton,Joël Veltman,Veltman,Defender,4.3M
+e5p0ehyguld7egzhiedpdnc3w,p110735,Brighton,Adam Webster,Webster,Defender,4.4M
+e5p0ehyguld7egzhiedpdnc3w,p439135,Brighton,Eiran Cashin,Cashin,Defender,4.0M
+e5p0ehyguld7egzhiedpdnc3w,p589100,Brighton,Jacob Slater,Slater,Defender,4.0M
+e5p0ehyguld7egzhiedpdnc3w,p547720,Brighton,Charlie Tasker,Tasker,Defender,3.8M
+e5p0ehyguld7egzhiedpdnc3w,p451340,Brighton,Mitoma Kaoru,Mitoma,Midfielder,6.1M
+e5p0ehyguld7egzhiedpdnc3w,p463067,Brighton,Georginio Rutter,Georginio,Midfielder,5.6M
+e5p0ehyguld7egzhiedpdnc3w,p109345,Brighton,Solly March,March,Midfielder,5.8M
+e5p0ehyguld7egzhiedpdnc3w,p592031,Brighton,Yankuba Minteh,Minteh,Midfielder,5.5M
+e5p0ehyguld7egzhiedpdnc3w,p474120,Brighton,Julio Enciso Espínola,Enciso,Midfielder,5.4M
+e5p0ehyguld7egzhiedpdnc3w,p513433,Brighton,Brajan Gruda,Gruda,Midfielder,5.4M
+e5p0ehyguld7egzhiedpdnc3w,p532529,Brighton,Jack Hinshelwood,Hinshelwood,Midfielder,5.2M
+e5p0ehyguld7egzhiedpdnc3w,p219249,Brighton,Matt O'Riley,O'Riley,Midfielder,5.5M
+e5p0ehyguld7egzhiedpdnc3w,p516211,Brighton,Abdallah Sima,Sima,Midfielder,5.4M
+e5p0ehyguld7egzhiedpdnc3w,p509416,Brighton,Yasin Ayari,Ayari,Midfielder,4.8M
+e5p0ehyguld7egzhiedpdnc3w,p535301,Brighton,Carlos Baleba,Baleba,Midfielder,4.5M
+e5p0ehyguld7egzhiedpdnc3w,p514254,Brighton,Diego Gómez Amarilla,Gomez,Midfielder,4.9M
+e5p0ehyguld7egzhiedpdnc3w,p15157,Brighton,James Milner,Milner,Midfielder,4.9M
+e5p0ehyguld7egzhiedpdnc3w,p441192,Brighton,Jeremy Sarmiento Morante,Sarmiento,Midfielder,4.9M
+e5p0ehyguld7egzhiedpdnc3w,p549074,Brighton,Tom Watson,Watson,Midfielder,4.8M
+e5p0ehyguld7egzhiedpdnc3w,p467779,Brighton,Mats Wieffer,Wieffer,Midfielder,4.8M
+e5p0ehyguld7egzhiedpdnc3w,p611695,Brighton,Malick Yalcouyé,Yalcouye,Midfielder,5.0M
+e5p0ehyguld7egzhiedpdnc3w,p567121,Brighton,Joe Knight,Knight,Midfielder,4.4M
+e5p0ehyguld7egzhiedpdnc3w,p550141,Brighton,Adrian Mazilu,Mazilu,Midfielder,4.5M
+e5p0ehyguld7egzhiedpdnc3w,p513834,Brighton,Andrew Moran,Moran,Midfielder,4.5M
+e5p0ehyguld7egzhiedpdnc3w,p50175,Brighton,Danny Welbeck,Welbeck,Forward,6.3M
+e5p0ehyguld7egzhiedpdnc3w,p487117,Brighton,Evan Ferguson,Ferguson,Forward,5.5M
+e5p0ehyguld7egzhiedpdnc3w,p608181,Brighton,Stefanos Tzimas,Tzimas,Forward,5.2M
+e5p0ehyguld7egzhiedpdnc3w,p647850,Brighton,Charalampos Kostoulas,Kostoulas,Forward,4.8M
+e5p0ehyguld7egzhiedpdnc3w,p556637,Brighton,Nehemiah Oriola,Oriola,Midfielder,4.5M
+e5p0ehyguld7egzhiedpdnc3w,p604988,Brighton,Freddie Simmonds,Simmonds,Defender,4.0M
+e5p0ehyguld7egzhiedpdnc3w,p60307,Brighton,Pascal Groß,Groß,Midfielder,5.6M
+e5p0ehyguld7egzhiedpdnc3w,p597320,Brighton,Harry Howell,Howell,Midfielder,4.5M
+9q0arba2kbnywth8bkxlhgmdr,p215059,Chelsea,Robert Lynch Sánchez,Sánchez,Goalkeeper,4.8M
+9q0arba2kbnywth8bkxlhgmdr,p508479,Chelsea,Filip Jörgensen,Jörgensen,Goalkeeper,4.3M
+9q0arba2kbnywth8bkxlhgmdr,p549939,Chelsea,Mike Penders,Penders,Goalkeeper,4.0M
+9q0arba2kbnywth8bkxlhgmdr,p471798,Chelsea,Gabriel Słonina,Slonina,Goalkeeper,3.8M
+9q0arba2kbnywth8bkxlhgmdr,p179268,Chelsea,Marc Cucurella Saseta,Cucurella,Defender,6.1M
+9q0arba2kbnywth8bkxlhgmdr,p225796,Chelsea,Reece James,James,Defender,5.6M
+9q0arba2kbnywth8bkxlhgmdr,p180736,Chelsea,Trevoh Chalobah,Chalobah,Defender,5.4M
+9q0arba2kbnywth8bkxlhgmdr,p460028,Chelsea,Levi Samuels Colwill,Colwill,Defender,4.7M
+9q0arba2kbnywth8bkxlhgmdr,p482609,Chelsea,Malo Gusto,Gusto,Defender,4.8M
+9q0arba2kbnywth8bkxlhgmdr,p242880,Chelsea,Benoît Badiashile Mukinayi,B.Badiashile,Defender,4.4M
+9q0arba2kbnywth8bkxlhgmdr,p444463,Chelsea,Wesley Fofana,Fofana,Defender,4.4M
+9q0arba2kbnywth8bkxlhgmdr,p574458,Chelsea,Mamadou Sarr,M.Sarr,Defender,4.5M
+9q0arba2kbnywth8bkxlhgmdr,p109646,Chelsea,Tosin Adarabioyo,Tosin,Defender,4.0M
+9q0arba2kbnywth8bkxlhgmdr,p577016,Chelsea,Josh Acheampong,Acheampong,Defender,3.7M
+9q0arba2kbnywth8bkxlhgmdr,p622758,Chelsea,Aarón Anselmino,Anselmino,Defender,4.0M
+9q0arba2kbnywth8bkxlhgmdr,p244851,Chelsea,Cole Palmer,Palmer,Midfielder,10.3M
+9q0arba2kbnywth8bkxlhgmdr,p247632,Chelsea,Pedro Lomba Neto,Neto,Midfielder,7.0M
+9q0arba2kbnywth8bkxlhgmdr,p448047,Chelsea,Enzo Fernández,Enzo,Midfielder,6.5M
+9q0arba2kbnywth8bkxlhgmdr,p624773,Chelsea,Estêvão Almeida de Oliveira Gonçalves,Estêvão,Midfielder,6.4M
+9q0arba2kbnywth8bkxlhgmdr,p463936,Chelsea,Jamie Bynoe-Gittens,Gittens,Midfielder,6.0M
+9q0arba2kbnywth8bkxlhgmdr,p213198,Chelsea,Christopher Nkunku,Nkunku,Midfielder,5.9M
+9q0arba2kbnywth8bkxlhgmdr,p486672,Chelsea,Moisés Caicedo Corozo,Caicedo,Midfielder,5.7M
+9q0arba2kbnywth8bkxlhgmdr,p514356,Chelsea,Roméo Lavia,Lavia,Midfielder,4.9M
+9q0arba2kbnywth8bkxlhgmdr,p465920,Chelsea,Mykhailo Mudryk,Mudryk,Midfielder,4.9M
+9q0arba2kbnywth8bkxlhgmdr,p532605,Chelsea,Andrey Nascimento dos Santos,Andrey Santos,Midfielder,4.4M
+9q0arba2kbnywth8bkxlhgmdr,p491007,Chelsea,Dário Luís Essugo,D.Essugo,Midfielder,4.3M
+9q0arba2kbnywth8bkxlhgmdr,p611134,Chelsea,Kendry Páez Andrade,Paez,Midfielder,4.5M
+9q0arba2kbnywth8bkxlhgmdr,p475168,Chelsea,João Pedro Junqueira de Jesus,João Pedro,Forward,7.4M
+9q0arba2kbnywth8bkxlhgmdr,p463034,Chelsea,Liam Delap,Delap,Forward,6.2M
+9q0arba2kbnywth8bkxlhgmdr,p517052,Chelsea,Nicolas Jackson,N.Jackson,Forward,6.5M
+9q0arba2kbnywth8bkxlhgmdr,p499309,Chelsea,Marc Guiu Paz,Marc Guiu,Forward,4.0M
+9q0arba2kbnywth8bkxlhgmdr,p493105,Chelsea,Alejandro Garnacho Ferreyra,Garnacho,Midfielder,6.4M
+9q0arba2kbnywth8bkxlhgmdr,p551210,Chelsea,Jorrel Hato,Hato,Defender,4.6M
+9q0arba2kbnywth8bkxlhgmdr,p611912,Chelsea,Landon Emenalo,Emenalo,Midfielder,4.5M
+9q0arba2kbnywth8bkxlhgmdr,p518335,Chelsea,Max Merrick,Merrick,Goalkeeper,4.0M
+9q0arba2kbnywth8bkxlhgmdr,p499857,Chelsea,Teddy Sharman-Lowe,Sharman-Lowe,Goalkeeper,4.0M
+9q0arba2kbnywth8bkxlhgmdr,p619734,Chelsea,Jesse Derry,Derry,Midfielder,4.5M
+9q0arba2kbnywth8bkxlhgmdr,p671606,Chelsea,Mathis Eboué,Eboué,Midfielder,4.5M
+9q0arba2kbnywth8bkxlhgmdr,p616286,Chelsea,Ryan Kavuma-McQueen,Kavuma-McQueen,Midfielder,4.5M
+9q0arba2kbnywth8bkxlhgmdr,p567119,Chelsea,Shumaira Mheuka,Mheuka,Forward,4.5M
+1c8m2ko0wxq1asfkuykurdr0y,p172649,Crystal Palace,Dean Henderson,Henderson,Goalkeeper,5.1M
+1c8m2ko0wxq1asfkuykurdr0y,p121709,Crystal Palace,Walter Benítez,Benitez,Goalkeeper,3.9M
+1c8m2ko0wxq1asfkuykurdr0y,p169593,Crystal Palace,Remi Matthews,Matthews,Goalkeeper,3.9M
+1c8m2ko0wxq1asfkuykurdr0y,p247348,Crystal Palace,Daniel Muñoz Mejía,Muñoz,Defender,5.9M
+1c8m2ko0wxq1asfkuykurdr0y,p437499,Crystal Palace,Maxence Lacroix,Lacroix,Defender,5.2M
+1c8m2ko0wxq1asfkuykurdr0y,p244723,Crystal Palace,Tyrick Mitchell,Mitchell,Defender,5.0M
+1c8m2ko0wxq1asfkuykurdr0y,p218364,Crystal Palace,Borna Sosa,Sosa,Defender,4.8M
+1c8m2ko0wxq1asfkuykurdr0y,p427623,Crystal Palace,Chris Richards,Richards,Defender,4.4M
+1c8m2ko0wxq1asfkuykurdr0y,p515621,Crystal Palace,Chadi Riad Dnanou,Chadi Riad,Defender,4.0M
+1c8m2ko0wxq1asfkuykurdr0y,p57328,Crystal Palace,Nathaniel Clyne,Clyne,Defender,3.8M
+1c8m2ko0wxq1asfkuykurdr0y,p156074,Crystal Palace,Rob Holding,Holding,Defender,4.0M
+1c8m2ko0wxq1asfkuykurdr0y,p590012,Crystal Palace,Caleb Kporha,Kporha,Defender,4.0M
+1c8m2ko0wxq1asfkuykurdr0y,p232185,Crystal Palace,Ismaïla Sarr,Sarr,Midfielder,6.4M
+1c8m2ko0wxq1asfkuykurdr0y,p438464,Crystal Palace,Cheick Doucouré,Doucouré,Midfielder,4.9M
+1c8m2ko0wxq1asfkuykurdr0y,p606921,Crystal Palace,Romain Esse,Esse,Midfielder,4.7M
+1c8m2ko0wxq1asfkuykurdr0y,p108413,Crystal Palace,Will Hughes,Hughes,Midfielder,4.7M
+1c8m2ko0wxq1asfkuykurdr0y,p209400,Crystal Palace,Daichi Kamada,Kamada,Midfielder,5.0M
+1c8m2ko0wxq1asfkuykurdr0y,p152551,Crystal Palace,Jefferson Lerma Solís,Lerma,Midfielder,4.9M
+1c8m2ko0wxq1asfkuykurdr0y,p496221,Crystal Palace,Adam Wharton,Wharton,Midfielder,5.0M
+1c8m2ko0wxq1asfkuykurdr0y,p579075,Crystal Palace,Asher Agbinone,Agbinone,Midfielder,4.3M
+1c8m2ko0wxq1asfkuykurdr0y,p466117,Crystal Palace,Naouirou Ahamada,Ahamada,Midfielder,4.3M
+1c8m2ko0wxq1asfkuykurdr0y,p489706,Crystal Palace,Justin Devenny,Devenny,Midfielder,4.3M
+1c8m2ko0wxq1asfkuykurdr0y,p450535,Crystal Palace,Malcolm Ebiowei,Ebiowei,Midfielder,4.5M
+1c8m2ko0wxq1asfkuykurdr0y,p450542,Crystal Palace,Jesurun Rak-Sakyi,J.Rak-Sakyi,Midfielder,4.4M
+1c8m2ko0wxq1asfkuykurdr0y,p536694,Crystal Palace,Matheus França de Oliveira,M.França,Midfielder,4.5M
+1c8m2ko0wxq1asfkuykurdr0y,p531989,Crystal Palace,David Ozoh,Ozoh,Midfielder,4.5M
+1c8m2ko0wxq1asfkuykurdr0y,p530318,Crystal Palace,Kaden Rodney,Rodney,Midfielder,4.4M
+1c8m2ko0wxq1asfkuykurdr0y,p574398,Crystal Palace,Franco Umeh-Chibueze,Umeh,Midfielder,4.5M
+1c8m2ko0wxq1asfkuykurdr0y,p231747,Crystal Palace,Jean-Philippe Mateta,Mateta,Forward,7.6M
+1c8m2ko0wxq1asfkuykurdr0y,p205533,Crystal Palace,Eddie Nketiah,Nketiah,Forward,5.4M
+1c8m2ko0wxq1asfkuykurdr0y,p199670,Crystal Palace,Odsonne Édouard,Édouard,Forward,5.0M
+1c8m2ko0wxq1asfkuykurdr0y,p576980,Crystal Palace,Zach Marsh,Marsh,Forward,4.4M
+1c8m2ko0wxq1asfkuykurdr0y,p242898,Crystal Palace,Brennan Johnson,Johnson,Midfielder,6.5M
+1c8m2ko0wxq1asfkuykurdr0y,p247412,Crystal Palace,Jørgen Strand Larsen,Strand Larsen,Forward,5.8M
+1c8m2ko0wxq1asfkuykurdr0y,p485337,Crystal Palace,Evann Guessand,Guessand,Midfielder,6.2M
+1c8m2ko0wxq1asfkuykurdr0y,p590014,Crystal Palace,Rio Cardines,Cardines,Midfielder,4.4M
+1c8m2ko0wxq1asfkuykurdr0y,p488024,Crystal Palace,Yéremy Pino Santos,Yeremy,Midfielder,5.8M
+1c8m2ko0wxq1asfkuykurdr0y,p651426,Crystal Palace,Jaydee Canvot,Canvot,Defender,4.5M
+1c8m2ko0wxq1asfkuykurdr0y,p660392,Crystal Palace,Christantus Uche,Uche,Forward,5.5M
+1c8m2ko0wxq1asfkuykurdr0y,p672492,Crystal Palace,Joél Drakes-Thomas,Drakes-Thomas,Midfielder,4.5M
+1c8m2ko0wxq1asfkuykurdr0y,p643426,Crystal Palace,Dean Benamar,Benamar,Defender,4.0M
+1c8m2ko0wxq1asfkuykurdr0y,p631106,Crystal Palace,Ben Casey,Casey,Forward,4.5M
+1c8m2ko0wxq1asfkuykurdr0y,p591384,Crystal Palace,George King,King,Defender,4.0M
+1c8m2ko0wxq1asfkuykurdr0y,p502988,Crystal Palace,Danny Imray,Imray,Defender,4.0M
+ehd2iemqmschhj2ec0vayztzz,p215413,Everton,Kiernan Dewsbury-Hall,Dewsbury-Hall,Midfielder,5.3M
+ehd2iemqmschhj2ec0vayztzz,p550615,Everton,Tyrique George,George,Midfielder,4.8M
+ehd2iemqmschhj2ec0vayztzz,p111234,Everton,Jordan Pickford,Pickford,Goalkeeper,5.6M
+ehd2iemqmschhj2ec0vayztzz,p229600,Everton,Mark Travers,Travers,Goalkeeper,4.2M
+ehd2iemqmschhj2ec0vayztzz,p447325,Everton,Harry Tyrer,Tyrer,Goalkeeper,3.9M
+ehd2iemqmschhj2ec0vayztzz,p480455,Everton,Jarrad Branthwaite,Branthwaite,Defender,5.3M
+ehd2iemqmschhj2ec0vayztzz,p17761,Everton,James Tarkowski,Tarkowski,Defender,5.8M
+ehd2iemqmschhj2ec0vayztzz,p224967,Everton,Vitalii Mykolenko,Mykolenko,Defender,4.9M
+ehd2iemqmschhj2ec0vayztzz,p512462,Everton,Jake O'Brien,O'Brien,Defender,4.9M
+ehd2iemqmschhj2ec0vayztzz,p59949,Everton,Séamus Coleman,Coleman,Defender,4.2M
+ehd2iemqmschhj2ec0vayztzz,p106611,Everton,Michael Keane,Keane,Defender,4.5M
+ehd2iemqmschhj2ec0vayztzz,p243571,Everton,Nathan Patterson,Patterson,Defender,4.4M
+ehd2iemqmschhj2ec0vayztzz,p496178,Everton,Roman Dixon,Dixon,Defender,3.8M
+ehd2iemqmschhj2ec0vayztzz,p474907,Everton,Reece Welch,Welch,Defender,3.8M
+ehd2iemqmschhj2ec0vayztzz,p440993,Everton,Iliman Ndiaye,Ndiaye,Midfielder,6.3M
+ehd2iemqmschhj2ec0vayztzz,p433154,Everton,Dwight McNeil,McNeil,Midfielder,5.5M
+ehd2iemqmschhj2ec0vayztzz,p502697,Everton,Carlos Alcaraz Durán,Alcaraz,Midfielder,5.2M
+ehd2iemqmschhj2ec0vayztzz,p80801,Everton,Idrissa Gana Gueye,Gana,Midfielder,5.4M
+ehd2iemqmschhj2ec0vayztzz,p232928,Everton,James Garner,Garner,Midfielder,5.2M
+ehd2iemqmschhj2ec0vayztzz,p490094,Everton,Tim Iroegbunam,Iroegbunam,Midfielder,4.8M
+ehd2iemqmschhj2ec0vayztzz,p609873,Everton,Harrison Armstrong,Armstrong,Midfielder,4.5M
+ehd2iemqmschhj2ec0vayztzz,p547801,Everton,Callum Bates,Bates,Midfielder,4.3M
+ehd2iemqmschhj2ec0vayztzz,p504296,Everton,Coby Ebere,Ebere,Midfielder,4.4M
+ehd2iemqmschhj2ec0vayztzz,p496279,Everton,Isaac Heath,Heath,Midfielder,4.5M
+ehd2iemqmschhj2ec0vayztzz,p491557,Everton,Jenson Metcalfe,Metcalfe,Midfielder,4.5M
+ehd2iemqmschhj2ec0vayztzz,p586309,Everton,Thierno Barry,Barry,Forward,5.7M
+ehd2iemqmschhj2ec0vayztzz,p486385,Everton,Norberto Bercique Gomes Betuncal,Beto,Forward,5.1M
+ehd2iemqmschhj2ec0vayztzz,p491012,Everton,Youssef Ramalho Chermiti,Y.Chermiti,Forward,4.9M
+ehd2iemqmschhj2ec0vayztzz,p536241,Everton,Martin Sherif,Sherif,Forward,4.4M
+ehd2iemqmschhj2ec0vayztzz,p114283,Everton,Jack Grealish,Grealish,Midfielder,6.3M
+ehd2iemqmschhj2ec0vayztzz,p138001,Everton,Tom King,King,Goalkeeper,3.9M
+ehd2iemqmschhj2ec0vayztzz,p499300,Everton,Adam Aznou,Aznou,Defender,4.2M
+ehd2iemqmschhj2ec0vayztzz,p461446,Everton,Tyler Onyango,Onyango,Midfielder,4.5M
+ehd2iemqmschhj2ec0vayztzz,p491745,Everton,Elijah Campbell,Campbell,Defender,3.9M
+ehd2iemqmschhj2ec0vayztzz,p496661,Everton,Tyler Dibling,Dibling,Midfielder,5.3M
+ehd2iemqmschhj2ec0vayztzz,p513466,Everton,Merlin Röhl,Röhl,Midfielder,5.0M
+ehd2iemqmschhj2ec0vayztzz,p629068,Everton,Braiden Graham,Graham,Forward,4.5M
+hzqh7z0mdl3v7gwete66syxp,p80201,Fulham,Bernd Leno,Leno,Goalkeeper,5.0M
+hzqh7z0mdl3v7gwete66syxp,p428971,Fulham,Steven Benda,Benda,Goalkeeper,4.0M
+hzqh7z0mdl3v7gwete66syxp,p169528,Fulham,Antonee Robinson,Robinson,Defender,4.9M
+hzqh7z0mdl3v7gwete66syxp,p174874,Fulham,Joachim Andersen,Andersen,Defender,4.4M
+hzqh7z0mdl3v7gwete66syxp,p232892,Fulham,Calvin Bassey,Bassey,Defender,4.4M
+hzqh7z0mdl3v7gwete66syxp,p166477,Fulham,Timothy Castagne,Castagne,Defender,4.3M
+hzqh7z0mdl3v7gwete66syxp,p219924,Fulham,Issa Diop,Diop,Defender,4.3M
+hzqh7z0mdl3v7gwete66syxp,p246301,Fulham,Jorge Cuenca Barreno,J.Cuenca,Defender,4.3M
+hzqh7z0mdl3v7gwete66syxp,p167074,Fulham,Kenny Tete,Tete,Defender,4.5M
+hzqh7z0mdl3v7gwete66syxp,p591385,Fulham,Samuel Amissah,Amissah,Defender,3.8M
+hzqh7z0mdl3v7gwete66syxp,p153133,Fulham,Alex Iwobi,Iwobi,Midfielder,6.1M
+hzqh7z0mdl3v7gwete66syxp,p209289,Fulham,Emile Smith Rowe,Smith Rowe,Midfielder,5.6M
+hzqh7z0mdl3v7gwete66syxp,p156689,Fulham,Andreas Hoelgebaum Pereira,Andreas,Midfielder,5.3M
+hzqh7z0mdl3v7gwete66syxp,p184349,Fulham,Ryan Sessegnon,Sessegnon,Midfielder,5.4M
+hzqh7z0mdl3v7gwete66syxp,p153682,Fulham,Harry Wilson,Wilson,Midfielder,5.8M
+hzqh7z0mdl3v7gwete66syxp,p207189,Fulham,Sander Berge,Berge,Midfielder,4.9M
+hzqh7z0mdl3v7gwete66syxp,p76357,Fulham,Tom Cairney,Cairney,Midfielder,4.8M
+hzqh7z0mdl3v7gwete66syxp,p212314,Fulham,Saša Lukić,Lukić,Midfielder,4.9M
+hzqh7z0mdl3v7gwete66syxp,p573062,Fulham,Martial Godo,Godo,Midfielder,4.5M
+hzqh7z0mdl3v7gwete66syxp,p515024,Fulham,Luke Harris,Harris,Midfielder,4.5M
+hzqh7z0mdl3v7gwete66syxp,p577725,Fulham,Josh King,King,Midfielder,4.4M
+hzqh7z0mdl3v7gwete66syxp,p153366,Fulham,Harrison Reed,Reed,Midfielder,4.3M
+hzqh7z0mdl3v7gwete66syxp,p102057,Fulham,Raúl Jiménez Rodríguez,Raúl,Forward,5.9M
+hzqh7z0mdl3v7gwete66syxp,p244042,Fulham,Rodrigo Muniz Carvalho,Muniz,Forward,5.3M
+hzqh7z0mdl3v7gwete66syxp,p477555,Fulham,Oscar Bobb,Bobb,Midfielder,5.1M
+hzqh7z0mdl3v7gwete66syxp,p86873,Fulham,Benjamin Lecomte,Lecomte,Goalkeeper,3.9M
+hzqh7z0mdl3v7gwete66syxp,p218328,Fulham,Samuel Chukwueze,Chukwueze,Midfielder,5.3M
+hzqh7z0mdl3v7gwete66syxp,p560552,Fulham,Kevin Santos Lopes de Macedo,Kevin,Midfielder,5.7M
+hzqh7z0mdl3v7gwete66syxp,p631786,Fulham,Jonah Kusi-Asare,Kusi-Asare,Forward,4.5M
+hzqh7z0mdl3v7gwete66syxp,p619536,Fulham,Seth Ridgeon,Ridgeon,Midfielder,4.5M
+hzqh7z0mdl3v7gwete66syxp,p505079,Fulham,Alfie McNally,McNally,Goalkeeper,4.0M
+48gk2hpqtsl6p9sx9kjhaydq4,p536916,Leeds,Facundo Buonanotte,Buonanotte,Midfielder,4.6M
+48gk2hpqtsl6p9sx9kjhaydq4,p437495,Leeds,Illan Meslier,Meslier,Goalkeeper,4.1M
+48gk2hpqtsl6p9sx9kjhaydq4,p97846,Leeds,Alex Cairns,Cairns,Goalkeeper,3.9M
+48gk2hpqtsl6p9sx9kjhaydq4,p59735,Leeds,Karl Darlow,Darlow,Goalkeeper,4.0M
+48gk2hpqtsl6p9sx9kjhaydq4,p226182,Leeds,Jayden Bogle,Bogle,Defender,4.4M
+48gk2hpqtsl6p9sx9kjhaydq4,p222694,Leeds,Pascal Struijk,Struijk,Defender,4.2M
+48gk2hpqtsl6p9sx9kjhaydq4,p434752,Leeds,Jaka Bijol,Bijol,Defender,3.9M
+48gk2hpqtsl6p9sx9kjhaydq4,p437738,Leeds,Sebastiaan Bornauw,Bornauw,Defender,3.8M
+48gk2hpqtsl6p9sx9kjhaydq4,p113564,Leeds,Sam Byram,Byram,Defender,3.7M
+48gk2hpqtsl6p9sx9kjhaydq4,p243526,Leeds,Gabriel Gudmundsson,Gudmundsson,Defender,3.8M
+48gk2hpqtsl6p9sx9kjhaydq4,p214225,Leeds,Joe Rodon,Rodon,Defender,3.9M
+48gk2hpqtsl6p9sx9kjhaydq4,p492368,Leeds,Isaac Schmidt,Schmidt,Defender,4.0M
+48gk2hpqtsl6p9sx9kjhaydq4,p427637,Leeds,Brenden Aaronson,Aaronson,Midfielder,5.4M
+48gk2hpqtsl6p9sx9kjhaydq4,p492859,Leeds,Wilfried Gnonto,Gnonto,Midfielder,5.1M
+48gk2hpqtsl6p9sx9kjhaydq4,p221399,Leeds,Jack Harrison,Harrison,Midfielder,5.1M
+48gk2hpqtsl6p9sx9kjhaydq4,p200617,Leeds,Daniel James,James,Midfielder,5.2M
+48gk2hpqtsl6p9sx9kjhaydq4,p199598,Leeds,Ethan Ampadu,Ampadu,Midfielder,4.9M
+48gk2hpqtsl6p9sx9kjhaydq4,p248937,Leeds,Sam Greenwood,Greenwood,Midfielder,4.9M
+48gk2hpqtsl6p9sx9kjhaydq4,p486520,Leeds,Ilia Gruev,Gruev,Midfielder,4.7M
+48gk2hpqtsl6p9sx9kjhaydq4,p433952,Leeds,Largie Ramazani,Ramazani,Midfielder,4.9M
+48gk2hpqtsl6p9sx9kjhaydq4,p248056,Leeds,Tanaka Ao,Tanaka,Midfielder,4.8M
+48gk2hpqtsl6p9sx9kjhaydq4,p536119,Leeds,Charlie Crew,Crew,Midfielder,4.5M
+48gk2hpqtsl6p9sx9kjhaydq4,p462635,Leeds,Joe Gelhardt,Gelhardt,Midfielder,4.5M
+48gk2hpqtsl6p9sx9kjhaydq4,p470294,Leeds,Darko Gyabi,Gyabi,Midfielder,4.5M
+48gk2hpqtsl6p9sx9kjhaydq4,p235826,Leeds,Joël Piroe,Piroe,Forward,4.9M
+48gk2hpqtsl6p9sx9kjhaydq4,p106617,Leeds,Patrick Bamford,Bamford,Forward,4.9M
+48gk2hpqtsl6p9sx9kjhaydq4,p565297,Leeds,Mateo Joseph Fernández-Regatillo,Mateo Joseph,Forward,5.0M
+48gk2hpqtsl6p9sx9kjhaydq4,p174594,Leeds,Lukas Nmecha,Nmecha,Forward,5.0M
+48gk2hpqtsl6p9sx9kjhaydq4,p180135,Leeds,Sean Longstaff,Longstaff,Midfielder,4.8M
+48gk2hpqtsl6p9sx9kjhaydq4,p466525,Leeds,Anton Stach,Stach,Midfielder,4.8M
+48gk2hpqtsl6p9sx9kjhaydq4,p201595,Leeds,Lucas Estella Perri,Perri,Goalkeeper,4.4M
+48gk2hpqtsl6p9sx9kjhaydq4,p177815,Leeds,Dominic Calvert-Lewin,Calvert-Lewin,Forward,5.8M
+48gk2hpqtsl6p9sx9kjhaydq4,p435997,Leeds,Noah Okafor,Okafor,Midfielder,5.5M
+48gk2hpqtsl6p9sx9kjhaydq4,p220627,Leeds,James Justin,Justin,Defender,4.0M
+48gk2hpqtsl6p9sx9kjhaydq4,p600882,Leeds,Harry Gray,Gray,Forward,4.5M
+48gk2hpqtsl6p9sx9kjhaydq4,p565863,Leeds,Sam Chambers,Chambers,Midfielder,4.4M
+48gk2hpqtsl6p9sx9kjhaydq4,p643970,Leeds,Jayden Lienou,Lienou,Defender,4.0M
+48gk2hpqtsl6p9sx9kjhaydq4,p577978,Leeds,Rhys Chadwick,Chadwick,Midfielder,4.5M
+48gk2hpqtsl6p9sx9kjhaydq4,p592740,Leeds,Alfie Cresswell,Cresswell,Midfielder,4.5M
+c8h9bw1l82s06h77xxrelzhur,p116535,Liverpool,Alisson Becker,A.Becker,Goalkeeper,5.4M
+c8h9bw1l82s06h77xxrelzhur,p449027,Liverpool,Giorgi Mamardashvili,Mamardashvili,Goalkeeper,4.1M
+c8h9bw1l82s06h77xxrelzhur,p586268,Liverpool,Ármin Pécsi,Pécsi,Goalkeeper,3.8M
+c8h9bw1l82s06h77xxrelzhur,p155503,Liverpool,Freddie Woodman,Woodman,Goalkeeper,3.9M
+c8h9bw1l82s06h77xxrelzhur,p216094,Liverpool,Jeremie Frimpong,Frimpong,Defender,5.7M
+c8h9bw1l82s06h77xxrelzhur,p544877,Liverpool,Milos Kerkez,Kerkez,Defender,5.6M
+c8h9bw1l82s06h77xxrelzhur,p122798,Liverpool,Andrew Robertson,Robertson,Defender,5.7M
+c8h9bw1l82s06h77xxrelzhur,p97032,Liverpool,Virgil van Dijk,Virgil,Defender,6.1M
+c8h9bw1l82s06h77xxrelzhur,p204716,Liverpool,Ibrahima Konaté,Konaté,Defender,5.4M
+c8h9bw1l82s06h77xxrelzhur,p492777,Liverpool,Conor Bradley,Bradley,Defender,4.9M
+c8h9bw1l82s06h77xxrelzhur,p171287,Liverpool,Joe Gomez,Gomez,Defender,4.9M
+c8h9bw1l82s06h77xxrelzhur,p214285,Liverpool,Konstantinos Tsimikas,Tsimikas,Defender,4.8M
+c8h9bw1l82s06h77xxrelzhur,p611926,Liverpool,Amara Nallo,Nallo,Defender,3.7M
+c8h9bw1l82s06h77xxrelzhur,p219937,Liverpool,Rhys Williams,R.Williams,Defender,3.7M
+c8h9bw1l82s06h77xxrelzhur,p489580,Liverpool,Calvin Ramsay,Ramsay,Defender,3.7M
+c8h9bw1l82s06h77xxrelzhur,p118748,Liverpool,Mohamed Salah,M.Salah,Midfielder,14.0M
+c8h9bw1l82s06h77xxrelzhur,p494595,Liverpool,Florian Wirtz,Wirtz,Midfielder,8.3M
+c8h9bw1l82s06h77xxrelzhur,p244731,Liverpool,Luis Díaz Marulanda,Luis Díaz,Midfielder,8.0M
+c8h9bw1l82s06h77xxrelzhur,p243298,Liverpool,Cody Gakpo,Gakpo,Midfielder,7.3M
+c8h9bw1l82s06h77xxrelzhur,p223541,Liverpool,Federico Chiesa,Chiesa,Midfielder,6.3M
+c8h9bw1l82s06h77xxrelzhur,p243016,Liverpool,Alexis Mac Allister,Mac Allister,Midfielder,6.1M
+c8h9bw1l82s06h77xxrelzhur,p424876,Liverpool,Dominik Szoboszlai,Szoboszlai,Midfielder,7.1M
+c8h9bw1l82s06h77xxrelzhur,p206915,Liverpool,Curtis Jones,C.Jones,Midfielder,5.4M
+c8h9bw1l82s06h77xxrelzhur,p441266,Liverpool,Ryan Gravenberch,Gravenberch,Midfielder,5.4M
+c8h9bw1l82s06h77xxrelzhur,p158983,Liverpool,Endo Wataru,Endo,Midfielder,4.9M
+c8h9bw1l82s06h77xxrelzhur,p535928,Liverpool,Stefan Bajčetić Maquieira,Bajcetic,Midfielder,4.2M
+c8h9bw1l82s06h77xxrelzhur,p491501,Liverpool,James McConnell,McConnell,Midfielder,4.4M
+c8h9bw1l82s06h77xxrelzhur,p440148,Liverpool,Tyler Morton,Morton,Midfielder,4.5M
+c8h9bw1l82s06h77xxrelzhur,p591386,Liverpool,Trey Nyoni,Nyoni,Midfielder,4.3M
+c8h9bw1l82s06h77xxrelzhur,p447203,Liverpool,Darwin Núñez Ribeiro,Darwin,Forward,6.5M
+c8h9bw1l82s06h77xxrelzhur,p500058,Liverpool,Jayden Danns,Danns,Forward,4.3M
+c8h9bw1l82s06h77xxrelzhur,p219168,Liverpool,Alexander Isak,Isak,Forward,10.3M
+c8h9bw1l82s06h77xxrelzhur,p510663,Liverpool,Hugo Ekitiké,Ekitiké,Forward,9.0M
+c8h9bw1l82s06h77xxrelzhur,p611922,Liverpool,Rio Ngumoha,Ngumoha,Midfielder,4.3M
+c8h9bw1l82s06h77xxrelzhur,p647681,Liverpool,Giovanni Leoni,Leoni,Defender,4.9M
+c8h9bw1l82s06h77xxrelzhur,p596042,Liverpool,Kieran Morrison,Morrison,Midfielder,4.5M
+c8h9bw1l82s06h77xxrelzhur,p519440,Liverpool,Wellity Lucky,Lucky,Defender,4.0M
+c8h9bw1l82s06h77xxrelzhur,p677945,Liverpool,Will Wright,Wright,Forward,4.5M
+c8h9bw1l82s06h77xxrelzhur,p718875,Liverpool,Talla Ndiaye,Ndiaye,Defender,4.0M
+a3nyxabgsqlnqfkeg41m6tnpp,p437730,Man City,Antoine Semenyo,Semenyo,Midfielder,8.0M
+a3nyxabgsqlnqfkeg41m6tnpp,p432720,Man City,James Trafford,Trafford,Goalkeeper,4.5M
+a3nyxabgsqlnqfkeg41m6tnpp,p209036,Man City,Marc Guéhi,Guéhi,Defender,5.1M
+a3nyxabgsqlnqfkeg41m6tnpp,p121160,Man City,Ederson Santana de Moraes,Ederson M.,Goalkeeper,5.3M
+a3nyxabgsqlnqfkeg41m6tnpp,p122074,Man City,Marcus Bettinelli,Bettinelli,Goalkeeper,3.8M
+a3nyxabgsqlnqfkeg41m6tnpp,p448514,Man City,Rayan Aït-Nouri,Aït-Nouri,Defender,5.7M
+a3nyxabgsqlnqfkeg41m6tnpp,p477424,Man City,Joško Gvardiol,Gvardiol,Defender,5.8M
+a3nyxabgsqlnqfkeg41m6tnpp,p211975,Man City,Manuel Akanji,Akanji,Defender,5.4M
+a3nyxabgsqlnqfkeg41m6tnpp,p126184,Man City,Nathan Aké,Aké,Defender,5.2M
+a3nyxabgsqlnqfkeg41m6tnpp,p578153,Man City,Abdukodir Khusanov,Khusanov,Defender,5.4M
+a3nyxabgsqlnqfkeg41m6tnpp,p465351,Man City,Matheus Nunes,Matheus N.,Defender,5.3M
+a3nyxabgsqlnqfkeg41m6tnpp,p171314,Man City,Rúben dos Santos Gato Alves Dias,Rúben,Defender,5.5M
+a3nyxabgsqlnqfkeg41m6tnpp,p97299,Man City,John Stones,Stones,Defender,5.4M
+a3nyxabgsqlnqfkeg41m6tnpp,p477064,Man City,Rico Lewis,Lewis,Defender,4.6M
+a3nyxabgsqlnqfkeg41m6tnpp,p472769,Man City,Nico O'Reilly,O'Reilly,Defender,5.3M
+a3nyxabgsqlnqfkeg41m6tnpp,p616222,Man City,Vitor de Oliveira Nunes dos Reis,Vitor Reis,Defender,5.0M
+a3nyxabgsqlnqfkeg41m6tnpp,p438234,Man City,Omar Marmoush,Marmoush,Midfielder,8.3M
+a3nyxabgsqlnqfkeg41m6tnpp,p209244,Man City,Phil Foden,Foden,Midfielder,8.0M
+a3nyxabgsqlnqfkeg41m6tnpp,p510281,Man City,Sávio Moreira de Oliveira,Savinho,Midfielder,6.9M
+a3nyxabgsqlnqfkeg41m6tnpp,p165809,Man City,Bernardo Mota Veiga de Carvalho e Silva,Bernardo,Midfielder,6.2M
+a3nyxabgsqlnqfkeg41m6tnpp,p466052,Man City,Rayan Cherki,Cherki,Midfielder,6.5M
+a3nyxabgsqlnqfkeg41m6tnpp,p248875,Man City,Jérémy Doku,Doku,Midfielder,6.5M
+a3nyxabgsqlnqfkeg41m6tnpp,p59859,Man City,İlkay Gündoğan,Gündoğan,Midfielder,6.3M
+a3nyxabgsqlnqfkeg41m6tnpp,p220566,Man City,Rodrigo 'Rodri' Hernandez Cascante,Rodrigo,Midfielder,6.3M
+a3nyxabgsqlnqfkeg41m6tnpp,p91651,Man City,Mateo Kovačić,Kovačić,Midfielder,5.8M
+a3nyxabgsqlnqfkeg41m6tnpp,p465694,Man City,Nico González Iglesias,N.Gonzalez,Midfielder,5.9M
+a3nyxabgsqlnqfkeg41m6tnpp,p575204,Man City,Claudio Echeverri,Echeverri,Midfielder,5.4M
+a3nyxabgsqlnqfkeg41m6tnpp,p433036,Man City,Tijjani Reijnders,Reijnders,Midfielder,5.0M
+a3nyxabgsqlnqfkeg41m6tnpp,p566164,Man City,Sverre Nypan,Nypan,Midfielder,5.0M
+a3nyxabgsqlnqfkeg41m6tnpp,p155405,Man City,Kalvin Phillips,Phillips,Midfielder,4.7M
+a3nyxabgsqlnqfkeg41m6tnpp,p223094,Man City,Erling Haaland,Haaland,Forward,14.7M
+a3nyxabgsqlnqfkeg41m6tnpp,p204936,Man City,Gianluigi Donnarumma,Donnarumma,Goalkeeper,5.6M
+a3nyxabgsqlnqfkeg41m6tnpp,p590039,Man City,Divine Mukasa,Mukasa,Midfielder,4.4M
+a3nyxabgsqlnqfkeg41m6tnpp,p566213,Man City,Stephen Mfuni,Mfuni,Defender,3.9M
+a3nyxabgsqlnqfkeg41m6tnpp,p616288,Man City,Ryan McAidoo,McAidoo,Midfielder,4.5M
+a3nyxabgsqlnqfkeg41m6tnpp,p516234,Man City,Charlie Gray,Gray,Midfielder,4.5M
+a3nyxabgsqlnqfkeg41m6tnpp,p580921,Man City,Reigan Heskey,Heskey,Midfielder,4.5M
+a3nyxabgsqlnqfkeg41m6tnpp,p494307,Man City,Max Alleyne,Alleyne,Defender,3.9M
+6eqit8ye8aomdsrrq0hk3v7gh,p446008,Man Utd,Bryan Mbeumo,Mbeumo,Midfielder,8.3M
+6eqit8ye8aomdsrrq0hk3v7gh,p451302,Man Utd,Altay Bayındır,Bayindir,Goalkeeper,4.7M
+6eqit8ye8aomdsrrq0hk3v7gh,p202641,Man Utd,André Onana,Onana,Goalkeeper,4.9M
+6eqit8ye8aomdsrrq0hk3v7gh,p588555,Man Utd,Elyh Harrison,Harrison,Goalkeeper,4.0M
+6eqit8ye8aomdsrrq0hk3v7gh,p21205,Man Utd,Tom Heaton,Heaton,Goalkeeper,3.8M
+6eqit8ye8aomdsrrq0hk3v7gh,p461537,Man Utd,Dermot Mee,Mee,Goalkeeper,3.9M
+6eqit8ye8aomdsrrq0hk3v7gh,p209365,Man Utd,Matthijs de Ligt,De Ligt,Defender,4.9M
+6eqit8ye8aomdsrrq0hk3v7gh,p221820,Man Utd,Lisandro Martínez,Martinez,Defender,4.8M
+6eqit8ye8aomdsrrq0hk3v7gh,p230001,Man Utd,Noussair Mazraoui,Mazraoui,Defender,4.9M
+6eqit8ye8aomdsrrq0hk3v7gh,p661712,Man Utd,Diego León Blanco,D.Leon,Defender,4.1M
+6eqit8ye8aomdsrrq0hk3v7gh,p216051,Man Utd,Diogo Dalot Teixeira,Dalot,Defender,4.5M
+6eqit8ye8aomdsrrq0hk3v7gh,p596777,Man Utd,Patrick Dorgu,Dorgu,Defender,4.1M
+6eqit8ye8aomdsrrq0hk3v7gh,p95658,Man Utd,Harry Maguire,Maguire,Defender,4.4M
+6eqit8ye8aomdsrrq0hk3v7gh,p106760,Man Utd,Luke Shaw,Shaw,Defender,4.5M
+6eqit8ye8aomdsrrq0hk3v7gh,p550864,Man Utd,Leny Yoro,Yoro,Defender,4.1M
+6eqit8ye8aomdsrrq0hk3v7gh,p577974,Man Utd,Harry Amass,Amass,Defender,4.0M
+6eqit8ye8aomdsrrq0hk3v7gh,p547676,Man Utd,Tyler Fredricson,Fredricson,Defender,3.7M
+6eqit8ye8aomdsrrq0hk3v7gh,p606745,Man Utd,Ayden Heaven,Heaven,Defender,3.7M
+6eqit8ye8aomdsrrq0hk3v7gh,p222690,Man Utd,Tyrell Malacia,Malacia,Defender,3.7M
+6eqit8ye8aomdsrrq0hk3v7gh,p141746,Man Utd,Bruno Borges Fernandes,B.Fernandes,Midfielder,10.4M
+6eqit8ye8aomdsrrq0hk3v7gh,p430871,Man Utd,Matheus Santos Carneiro da Cunha,Cunha,Midfielder,8.1M
+6eqit8ye8aomdsrrq0hk3v7gh,p176297,Man Utd,Marcus Rashford,Rashford,Midfielder,7.0M
+6eqit8ye8aomdsrrq0hk3v7gh,p493250,Man Utd,Amad Diallo,Amad,Midfielder,6.2M
+6eqit8ye8aomdsrrq0hk3v7gh,p467169,Man Utd,Antony dos Santos,Antony,Midfielder,5.9M
+6eqit8ye8aomdsrrq0hk3v7gh,p184341,Man Utd,Mason Mount,Mount,Midfielder,5.9M
+6eqit8ye8aomdsrrq0hk3v7gh,p61256,Man Utd,Carlos Henrique Casimiro,Casemiro,Midfielder,5.8M
+6eqit8ye8aomdsrrq0hk3v7gh,p516895,Man Utd,Kobbie Mainoo,Mainoo,Midfielder,4.7M
+6eqit8ye8aomdsrrq0hk3v7gh,p232112,Man Utd,Manuel Ugarte Ribeiro,Ugarte,Midfielder,4.7M
+6eqit8ye8aomdsrrq0hk3v7gh,p490881,Man Utd,Toby Collyer,Collyer,Midfielder,4.5M
+6eqit8ye8aomdsrrq0hk3v7gh,p556639,Man Utd,Jayce Fitzgerald,Fitzgerald,Midfielder,4.3M
+6eqit8ye8aomdsrrq0hk3v7gh,p547037,Man Utd,Jack Fletcher,J.Fletcher,Midfielder,4.3M
+6eqit8ye8aomdsrrq0hk3v7gh,p618873,Man Utd,Sékou Koné,Kone,Midfielder,4.3M
+6eqit8ye8aomdsrrq0hk3v7gh,p559684,Man Utd,Jack Moorhouse,Moorhouse,Midfielder,4.5M
+6eqit8ye8aomdsrrq0hk3v7gh,p497894,Man Utd,Rasmus Højlund,Højlund,Forward,6.3M
+6eqit8ye8aomdsrrq0hk3v7gh,p458249,Man Utd,Joshua Zirkzee,Zirkzee,Forward,5.8M
+6eqit8ye8aomdsrrq0hk3v7gh,p596047,Man Utd,Chido Obi,Obi,Forward,4.2M
+6eqit8ye8aomdsrrq0hk3v7gh,p575034,Man Utd,Ethan Wheatley,Wheatley,Forward,4.5M
+6eqit8ye8aomdsrrq0hk3v7gh,p485711,Man Utd,Benjamin Sesko,Šeško,Forward,7.2M
+6eqit8ye8aomdsrrq0hk3v7gh,p465247,Man Utd,Senne Lammens,Lammens,Goalkeeper,5.1M
+6eqit8ye8aomdsrrq0hk3v7gh,p576628,Man Utd,Shea Lacey,Lacey,Midfielder,4.5M
+6eqit8ye8aomdsrrq0hk3v7gh,p576620,Man Utd,Bendito Mantato,Bendito Mantato,Midfielder,4.5M
+6eqit8ye8aomdsrrq0hk3v7gh,p519913,Man Utd,Tyler Fletcher,Fletcher,Midfielder,4.4M
+6eqit8ye8aomdsrrq0hk3v7gh,p576637,Man Utd,Godwill Kukonki,Kukonki,Defender,4.0M
+6eqit8ye8aomdsrrq0hk3v7gh,p576634,Man Utd,Jim Thwaites,Thwaites,Midfielder,4.5M
+7vn2i2kd35zuetw6b38gw9jsz,p232653,Newcastle,Jacob Ramsey,J.Ramsey,Midfielder,5.3M
+7vn2i2kd35zuetw6b38gw9jsz,p216646,Newcastle,Yoane Wissa,Wissa,Forward,7.3M
+7vn2i2kd35zuetw6b38gw9jsz,p98747,Newcastle,Nick Pope,Pope,Goalkeeper,5.0M
+7vn2i2kd35zuetw6b38gw9jsz,p81441,Newcastle,Mark Gillespie,Gillespie,Goalkeeper,3.9M
+7vn2i2kd35zuetw6b38gw9jsz,p111452,Newcastle,Odysseas Vlachodimos,Odysseas,Goalkeeper,4.0M
+7vn2i2kd35zuetw6b38gw9jsz,p487838,Newcastle,Lewis Hall,Hall,Defender,5.3M
+7vn2i2kd35zuetw6b38gw9jsz,p119471,Newcastle,Fabian Schär,Schär,Defender,5.2M
+7vn2i2kd35zuetw6b38gw9jsz,p220237,Newcastle,Sven Botman,Botman,Defender,4.9M
+7vn2i2kd35zuetw6b38gw9jsz,p78916,Newcastle,Dan Burn,Burn,Defender,5.0M
+7vn2i2kd35zuetw6b38gw9jsz,p441191,Newcastle,Tino Livramento,Livramento,Defender,4.9M
+7vn2i2kd35zuetw6b38gw9jsz,p77794,Newcastle,Kieran Trippier,Trippier,Defender,4.9M
+7vn2i2kd35zuetw6b38gw9jsz,p111773,Newcastle,Emil Krafth,Krafth,Defender,4.3M
+7vn2i2kd35zuetw6b38gw9jsz,p101148,Newcastle,Jamaal Lascelles,Lascelles,Defender,4.3M
+7vn2i2kd35zuetw6b38gw9jsz,p545477,Newcastle,Alex Murphy,A.Murphy,Defender,3.8M
+7vn2i2kd35zuetw6b38gw9jsz,p441024,Newcastle,Harrison Ashby,Ashby,Defender,3.9M
+7vn2i2kd35zuetw6b38gw9jsz,p578512,Newcastle,Miodrag Pivaš,Pivas,Defender,3.8M
+7vn2i2kd35zuetw6b38gw9jsz,p169359,Newcastle,Matt Targett,Targett,Defender,4.0M
+7vn2i2kd35zuetw6b38gw9jsz,p232826,Newcastle,Anthony Gordon,Gordon,Midfielder,7.2M
+7vn2i2kd35zuetw6b38gw9jsz,p449434,Newcastle,Anthony Elanga,Elanga,Midfielder,6.5M
+7vn2i2kd35zuetw6b38gw9jsz,p201666,Newcastle,Harvey Barnes,Barnes,Midfielder,6.1M
+7vn2i2kd35zuetw6b38gw9jsz,p208706,Newcastle,Bruno Guimarães Rodriguez Moura,Bruno G.,Midfielder,6.9M
+7vn2i2kd35zuetw6b38gw9jsz,p114243,Newcastle,Jacob Murphy,J.Murphy,Midfielder,5.9M
+7vn2i2kd35zuetw6b38gw9jsz,p180974,Newcastle,Joelinton Cássio Apolinário de Lira,Joelinton,Midfielder,5.9M
+7vn2i2kd35zuetw6b38gw9jsz,p432422,Newcastle,Sandro Tonali,Tonali,Midfielder,5.3M
+7vn2i2kd35zuetw6b38gw9jsz,p640108,Newcastle,Antoñito Cordero Campillo,Antoñito C.,Midfielder,4.9M
+7vn2i2kd35zuetw6b38gw9jsz,p200089,Newcastle,Joe Willock,Willock,Midfielder,5.0M
+7vn2i2kd35zuetw6b38gw9jsz,p153127,Newcastle,Isaac Hayden,Hayden,Midfielder,4.5M
+7vn2i2kd35zuetw6b38gw9jsz,p564510,Newcastle,Garang Kuol,Kuol,Midfielder,4.4M
+7vn2i2kd35zuetw6b38gw9jsz,p547719,Newcastle,Lewis Miley,L.Miley,Midfielder,4.4M
+7vn2i2kd35zuetw6b38gw9jsz,p461484,Newcastle,Joe White,White,Midfielder,4.5M
+7vn2i2kd35zuetw6b38gw9jsz,p538207,Newcastle,William Osula,Osula,Forward,5.5M
+7vn2i2kd35zuetw6b38gw9jsz,p599303,Newcastle,Sean Neave,Neave,Forward,4.3M
+7vn2i2kd35zuetw6b38gw9jsz,p225321,Newcastle,Aaron Ramsdale,Ramsdale,Goalkeeper,4.8M
+7vn2i2kd35zuetw6b38gw9jsz,p465642,Newcastle,Malick Thiaw,Thiaw,Defender,4.9M
+7vn2i2kd35zuetw6b38gw9jsz,p623110,Newcastle,Seung-Soo Park,Seung soo,Midfielder,4.3M
+7vn2i2kd35zuetw6b38gw9jsz,p470313,Newcastle,Nick Woltemade,Woltemade,Forward,6.7M
+7vn2i2kd35zuetw6b38gw9jsz,p19236,Newcastle,John Ruddy,Ruddy,Goalkeeper,4.0M
+7vn2i2kd35zuetw6b38gw9jsz,p553746,Newcastle,Leo Shahar,Shahar,Defender,4.0M
+7vn2i2kd35zuetw6b38gw9jsz,p666607,Newcastle,Sam Alabi,Alabi,Midfielder,4.5M
+1qtaiy11gswx327s0vkibf70n,p206325,Nott'm Forest,Oleksandr Zinchenko,Zinchenko,Defender,4.9M
+1qtaiy11gswx327s0vkibf70n,p88248,Nott'm Forest,Stefan Ortega Moreno,Ortega Moreno,Goalkeeper,4.7M
+1qtaiy11gswx327s0vkibf70n,p432714,Nott'm Forest,James McAtee,McAtee,Midfielder,5.0M
+1qtaiy11gswx327s0vkibf70n,p85633,Nott'm Forest,Matz Sels,Sels,Goalkeeper,4.6M
+1qtaiy11gswx327s0vkibf70n,p475123,Nott'm Forest,Carlos Miguel dos Santos Pereira,C.Miguel,Goalkeeper,4.0M
+1qtaiy11gswx327s0vkibf70n,p224068,Nott'm Forest,Matt Turner,Turner,Goalkeeper,4.0M
+1qtaiy11gswx327s0vkibf70n,p227444,Nott'm Forest,Nikola Milenković,Milenković,Defender,5.1M
+1qtaiy11gswx327s0vkibf70n,p575476,Nott'm Forest,Murillo Costa dos Santos,Murillo,Defender,5.2M
+1qtaiy11gswx327s0vkibf70n,p159506,Nott'm Forest,Ola Aina,Aina,Defender,4.7M
+1qtaiy11gswx327s0vkibf70n,p215136,Nott'm Forest,Neco Williams,N.Williams,Defender,4.8M
+1qtaiy11gswx327s0vkibf70n,p451432,Nott'm Forest,David Mota Veiga Teixeira do Carmo,David Carmo,Defender,4.5M
+1qtaiy11gswx327s0vkibf70n,p575458,Nott'm Forest,Jair Paula da Cunha Filho,Jair Cunha,Defender,4.2M
+1qtaiy11gswx327s0vkibf70n,p485047,Nott'm Forest,Felipe Rodrigues da Silva,Morato,Defender,4.3M
+1qtaiy11gswx327s0vkibf70n,p204822,Nott'm Forest,Omar Richards,O.Richards,Defender,4.5M
+1qtaiy11gswx327s0vkibf70n,p549067,Nott'm Forest,Zach Abbott,Abbott,Defender,3.8M
+1qtaiy11gswx327s0vkibf70n,p90585,Nott'm Forest,Willy Boly,Boly,Defender,3.8M
+1qtaiy11gswx327s0vkibf70n,p222531,Nott'm Forest,Morgan Gibbs-White,Gibbs-White,Midfielder,7.6M
+1qtaiy11gswx327s0vkibf70n,p209046,Nott'm Forest,Callum Hudson-Odoi,Hudson-Odoi,Midfielder,5.7M
+1qtaiy11gswx327s0vkibf70n,p215379,Nott'm Forest,Elliot Anderson,Anderson,Midfielder,5.7M
+1qtaiy11gswx327s0vkibf70n,p510500,Nott'm Forest,João Pedro Ferreira da Silva,Jota,Midfielder,5.4M
+1qtaiy11gswx327s0vkibf70n,p250199,Nott'm Forest,Nicolás Domínguez,Dominguez,Midfielder,5.0M
+1qtaiy11gswx327s0vkibf70n,p243345,Nott'm Forest,Lewis O'Brien,O'Brien,Midfielder,5.0M
+1qtaiy11gswx327s0vkibf70n,p210462,Nott'm Forest,Ibrahim Sangaré,Sangaré,Midfielder,4.9M
+1qtaiy11gswx327s0vkibf70n,p204968,Nott'm Forest,Ryan Yates,Yates,Midfielder,4.7M
+1qtaiy11gswx327s0vkibf70n,p569014,Nott'm Forest,Eric da Silva Moreira,Da Silva Moreira,Midfielder,4.5M
+1qtaiy11gswx327s0vkibf70n,p495161,Nott'm Forest,Marko Stamenić,Stamenic,Midfielder,4.5M
+1qtaiy11gswx327s0vkibf70n,p60689,Nott'm Forest,Chris Wood,Wood,Forward,7.1M
+1qtaiy11gswx327s0vkibf70n,p482973,Nott'm Forest,Igor Jesus Maciel da Cruz,Igor Jesus,Forward,5.9M
+1qtaiy11gswx327s0vkibf70n,p210156,Nott'm Forest,Taiwo Awoniyi,Awoniyi,Forward,5.2M
+1qtaiy11gswx327s0vkibf70n,p456512,Nott'm Forest,Dan Ndoye,Ndoye,Midfielder,5.5M
+1qtaiy11gswx327s0vkibf70n,p107265,Nott'm Forest,Angus Gunn,Gunn,Goalkeeper,4.0M
+1qtaiy11gswx327s0vkibf70n,p503301,Nott'm Forest,Omari Hutchinson,Hutchinson,Midfielder,5.4M
+1qtaiy11gswx327s0vkibf70n,p465680,Nott'm Forest,Arnaud Kalimuendo,Kalimuendo,Forward,6.0M
+1qtaiy11gswx327s0vkibf70n,p221389,Nott'm Forest,John Victor Maciel Furtado,John,Goalkeeper,4.0M
+1qtaiy11gswx327s0vkibf70n,p500151,Nott'm Forest,Nicolò Savona,Savona,Defender,4.5M
+1qtaiy11gswx327s0vkibf70n,p560441,Nott'm Forest,Luis Eduardo Soares da Silva,Cuiabano,Defender,4.5M
+1qtaiy11gswx327s0vkibf70n,p476887,Nott'm Forest,Dilane Bakwa,Bakwa,Midfielder,5.9M
+1qtaiy11gswx327s0vkibf70n,p469130,Nott'm Forest,Lorenzo Lucca,Lucca,Forward,5.3M
+1qtaiy11gswx327s0vkibf70n,p470315,Nott'm Forest,Luca Netz,Netz,Defender,4.5M
+1qtaiy11gswx327s0vkibf70n,p568159,Nott'm Forest,Archie Whitehall,Whitehall,Midfielder,4.5M
+1qtaiy11gswx327s0vkibf70n,p590040,Nott'm Forest,Jimmy Sinclair,Sinclair,Midfielder,4.5M
+1qtaiy11gswx327s0vkibf70n,p687076,Nott'm Forest,Lamin Sillah,Sillah,Forward,4.5M
+1r3545b2dzan8yqa80gtmcjch,p232571,Sunderland,Anthony Patterson,Patterson,Goalkeeper,4.2M
+1r3545b2dzan8yqa80gtmcjch,p74854,Sunderland,Simon Moore,Moore,Goalkeeper,3.9M
+1r3545b2dzan8yqa80gtmcjch,p490000,Sunderland,Blondy Nna Noukeu,Nna Noukeu,Goalkeeper,3.9M
+1r3545b2dzan8yqa80gtmcjch,p223827,Sunderland,Daniel Ballard,Ballard,Defender,4.6M
+1r3545b2dzan8yqa80gtmcjch,p487676,Sunderland,Trai Hume,Hume,Defender,4.5M
+1r3545b2dzan8yqa80gtmcjch,p220684,Sunderland,Aji Alese,Alese,Defender,4.0M
+1r3545b2dzan8yqa80gtmcjch,p232820,Sunderland,Joe Anderson,Anderson,Defender,3.8M
+1r3545b2dzan8yqa80gtmcjch,p461195,Sunderland,Dennis Cirkin,Cirkin,Defender,4.0M
+1r3545b2dzan8yqa80gtmcjch,p477547,Sunderland,Leo Fuhr Hjelde,Hjelde,Defender,4.0M
+1r3545b2dzan8yqa80gtmcjch,p492066,Sunderland,Niall Huggins,Huggins,Defender,4.0M
+1r3545b2dzan8yqa80gtmcjch,p514613,Sunderland,Zak Johnson,Johnson,Defender,3.8M
+1r3545b2dzan8yqa80gtmcjch,p167512,Sunderland,Luke O'Nien,O'Nien,Defender,4.0M
+1r3545b2dzan8yqa80gtmcjch,p465702,Sunderland,Timothée Pembélé,Pembele,Defender,3.9M
+1r3545b2dzan8yqa80gtmcjch,p434399,Sunderland,Reinildo Mandava,Reinildo,Defender,3.8M
+1r3545b2dzan8yqa80gtmcjch,p519634,Sunderland,Jenson Seelt,Seelt,Defender,4.0M
+1r3545b2dzan8yqa80gtmcjch,p535818,Sunderland,Simon Adingra,Adingra,Midfielder,4.9M
+1r3545b2dzan8yqa80gtmcjch,p547027,Sunderland,Habib Diarra,Diarra,Midfielder,5.3M
+1r3545b2dzan8yqa80gtmcjch,p124165,Sunderland,Patrick Roberts,Roberts,Midfielder,5.4M
+1r3545b2dzan8yqa80gtmcjch,p626844,Sunderland,Milan Aleksić,Aleksić,Midfielder,4.9M
+1r3545b2dzan8yqa80gtmcjch,p484420,Sunderland,Enzo Le Fée,E.Le Fée,Midfielder,4.8M
+1r3545b2dzan8yqa80gtmcjch,p461199,Sunderland,Romaine Mundle,Mundle,Midfielder,4.9M
+1r3545b2dzan8yqa80gtmcjch,p223336,Sunderland,Dan Neil,Neil,Midfielder,4.8M
+1r3545b2dzan8yqa80gtmcjch,p215460,Sunderland,Ian Poveda-Ocampo,Poveda,Midfielder,4.7M
+1r3545b2dzan8yqa80gtmcjch,p554197,Sunderland,Chris Rigg,Rigg,Midfielder,4.7M
+1r3545b2dzan8yqa80gtmcjch,p577669,Sunderland,Noah Sadiki,Sadiki,Midfielder,4.9M
+1r3545b2dzan8yqa80gtmcjch,p549912,Sunderland,Chemsdine Talbi,Talbi,Midfielder,4.9M
+1r3545b2dzan8yqa80gtmcjch,p477851,Sunderland,Abdoullah Ba,Ba,Midfielder,4.3M
+1r3545b2dzan8yqa80gtmcjch,p171422,Sunderland,Alan Browne,Browne,Midfielder,4.5M
+1r3545b2dzan8yqa80gtmcjch,p458297,Sunderland,Pierre Ekwah Elimby,Ekwah,Midfielder,4.5M
+1r3545b2dzan8yqa80gtmcjch,p547410,Sunderland,Harrison Jones,H.Jones,Midfielder,4.3M
+1r3545b2dzan8yqa80gtmcjch,p493837,Sunderland,Jay Matete,Matete,Midfielder,4.3M
+1r3545b2dzan8yqa80gtmcjch,p500696,Sunderland,Nectarios Triantis,Triantis,Midfielder,4.4M
+1r3545b2dzan8yqa80gtmcjch,p437505,Sunderland,Wilson Isidor,Isidor,Forward,5.0M
+1r3545b2dzan8yqa80gtmcjch,p564406,Sunderland,Eliezer Mayenda Dossou,Mayenda,Forward,5.1M
+1r3545b2dzan8yqa80gtmcjch,p611975,Sunderland,Ahmed Abdullahi,Abdullahi,Forward,4.2M
+1r3545b2dzan8yqa80gtmcjch,p551153,Sunderland,Luís Hemir Silva Semedo,Luís Hemir,Forward,4.4M
+1r3545b2dzan8yqa80gtmcjch,p440955,Sunderland,Nazarii Rusyn,Rusyn,Forward,4.4M
+1r3545b2dzan8yqa80gtmcjch,p84450,Sunderland,Granit Xhaka,Xhaka,Midfielder,5.1M
+1r3545b2dzan8yqa80gtmcjch,p498016,Sunderland,Robin Roefs,Roefs,Goalkeeper,4.8M
+1r3545b2dzan8yqa80gtmcjch,p105717,Sunderland,Arthur Masuaku,Masuaku,Defender,3.9M
+1r3545b2dzan8yqa80gtmcjch,p201895,Sunderland,Omar Alderete,Alderete,Defender,4.1M
+1r3545b2dzan8yqa80gtmcjch,p200834,Sunderland,Nordi Mukiele,Mukiele,Defender,4.6M
+1r3545b2dzan8yqa80gtmcjch,p247955,Sunderland,Lutsharel Geertruida,Geertruida,Defender,4.5M
+1r3545b2dzan8yqa80gtmcjch,p441264,Sunderland,Brian Brobbey,Brobbey,Forward,5.3M
+1r3545b2dzan8yqa80gtmcjch,p110504,Sunderland,Bertrand Traoré,Traoré,Midfielder,5.5M
+1r3545b2dzan8yqa80gtmcjch,p232356,Sunderland,Jenson Jones,Jenson Jones,Defender,4.0M
+1r3545b2dzan8yqa80gtmcjch,p604211,Sunderland,Tymur Tutierov,Tutierov,Midfielder,4.5M
+1r3545b2dzan8yqa80gtmcjch,p699989,Sunderland,Djiamgone Jocelin Ta Bi,Jocelin.T,Midfielder,4.9M
+1r3545b2dzan8yqa80gtmcjch,p515046,Sunderland,Melker Ellborg,Ellborg,Goalkeeper,4.0M
+1r3545b2dzan8yqa80gtmcjch,p536661,Sunderland,Nilson Angulo,Angulo,Midfielder,5.0M
+1r3545b2dzan8yqa80gtmcjch,p570929,Sunderland,Jack Whittaker,Whittaker,Midfielder,4.5M
+1r3545b2dzan8yqa80gtmcjch,p571087,Sunderland,Jaydon Jones,Jones,Midfielder,4.5M
+22doj4sgsocqpxw45h607udje,p184254,Spurs,Guglielmo Vicario,Vicario,Goalkeeper,4.7M
+22doj4sgsocqpxw45h607udje,p214572,Spurs,Brandon Austin,Austin,Goalkeeper,3.9M
+22doj4sgsocqpxw45h607udje,p485055,Spurs,Antonín Kinský,Kinsky,Goalkeeper,3.9M
+22doj4sgsocqpxw45h607udje,p441164,Spurs,Pedro Porro Sauceda,Pedro Porro,Defender,5.2M
+22doj4sgsocqpxw45h607udje,p221632,Spurs,Cristian Romero,Romero,Defender,5.0M
+22doj4sgsocqpxw45h607udje,p135720,Spurs,Kevin Danso,Danso,Defender,4.2M
+22doj4sgsocqpxw45h607udje,p115556,Spurs,Ben Davies,Davies,Defender,4.3M
+22doj4sgsocqpxw45h607udje,p493125,Spurs,Radu Drăgușin,Dragusin,Defender,4.5M
+22doj4sgsocqpxw45h607udje,p232859,Spurs,Djed Spence,Spence,Defender,4.1M
+22doj4sgsocqpxw45h607udje,p487053,Spurs,Destiny Udogie,Udogie,Defender,4.3M
+22doj4sgsocqpxw45h607udje,p491279,Spurs,Micky van de Ven,Van de Ven,Defender,4.4M
+22doj4sgsocqpxw45h607udje,p548308,Spurs,Ashley Phillips,Phillips,Defender,4.0M
+22doj4sgsocqpxw45h607udje,p553299,Spurs,Takai Kōta,Takai,Defender,4.0M
+22doj4sgsocqpxw45h607udje,p610799,Spurs,Luka Vušković,Vuskovic,Defender,3.9M
+22doj4sgsocqpxw45h607udje,p85971,Spurs,Son Heung-min,Son,Midfielder,8.5M
+22doj4sgsocqpxw45h607udje,p172780,Spurs,James Maddison,Maddison,Midfielder,6.8M
+22doj4sgsocqpxw45h607udje,p460842,Spurs,Mohammed Kudus,Kudus,Midfielder,6.4M
+22doj4sgsocqpxw45h607udje,p445044,Spurs,Dejan Kulusevski,Kulusevski,Midfielder,6.4M
+22doj4sgsocqpxw45h607udje,p511499,Spurs,Mathys Tel,Tel,Midfielder,6.2M
+22doj4sgsocqpxw45h607udje,p202993,Spurs,Rodrigo Bentancur,Bentancur,Midfielder,5.2M
+22doj4sgsocqpxw45h607udje,p570526,Spurs,Lucas Bergvall,Bergvall,Midfielder,5.2M
+22doj4sgsocqpxw45h607udje,p227127,Spurs,Yves Bissouma,Bissouma,Midfielder,5.2M
+22doj4sgsocqpxw45h607udje,p550839,Spurs,Wilson Odobert,Odobert,Midfielder,5.3M
+22doj4sgsocqpxw45h607udje,p235674,Spurs,Manor Solomon,Solomon,Midfielder,5.4M
+22doj4sgsocqpxw45h607udje,p436234,Spurs,Bryan Gil Salvatierra,Bryan,Midfielder,4.9M
+22doj4sgsocqpxw45h607udje,p547701,Spurs,Archie Gray,Gray,Midfielder,4.8M
+22doj4sgsocqpxw45h607udje,p499721,Spurs,Mikey Moore,Moore,Midfielder,5.0M
+22doj4sgsocqpxw45h607udje,p482442,Spurs,Pape Matar Sarr,P.M.Sarr,Midfielder,4.5M
+22doj4sgsocqpxw45h607udje,p623095,Spurs,Yang Min-hyeok,Min-hyeok,Midfielder,4.5M
+22doj4sgsocqpxw45h607udje,p499726,Spurs,Callum Olusesi,Olusesi,Midfielder,4.3M
+22doj4sgsocqpxw45h607udje,p154566,Spurs,Dominic Solanke-Mitchell,Solanke,Forward,7.1M
+22doj4sgsocqpxw45h607udje,p212319,Spurs,Richarlison de Andrade,Richarlison,Forward,6.5M
+22doj4sgsocqpxw45h607udje,p552427,Spurs,Will Lankshear,Lankshear,Forward,4.5M
+22doj4sgsocqpxw45h607udje,p490145,Spurs,Dane Scarlett,Scarlett,Forward,4.3M
+22doj4sgsocqpxw45h607udje,p154296,Spurs,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,J.Palhinha,Midfielder,5.5M
+22doj4sgsocqpxw45h607udje,p493362,Spurs,Xavi Simons,Xavi,Midfielder,6.3M
+22doj4sgsocqpxw45h607udje,p247693,Spurs,Randal Kolo Muani,Kolo Muani,Forward,6.9M
+22doj4sgsocqpxw45h607udje,p640419,Spurs,Jun'ai Byfield,Byfield,Defender,4.0M
+22doj4sgsocqpxw45h607udje,p499716,Spurs,James Rowswell,Rowswell,Defender,4.0M
+22doj4sgsocqpxw45h607udje,p590035,Spurs,Yusuf Akhamrich,Akhamrich,Midfielder,4.5M
+22doj4sgsocqpxw45h607udje,p611917,Spurs,Lucá Williams-Barnett,Williams-Barnett,Midfielder,4.5M
+22doj4sgsocqpxw45h607udje,p232787,Spurs,Conor Gallagher,Gallagher,Midfielder,5.0M
+22doj4sgsocqpxw45h607udje,p616221,Spurs,João Victor de Souza Menezes,Souza,Defender,4.0M
+22doj4sgsocqpxw45h607udje,p536134,Spurs,Rio Kyerematen,Kyerematen,Midfielder,4.5M
+22doj4sgsocqpxw45h607udje,p613232,Spurs,James Wilson,Wilson,Forward,4.5M
+4txjdaqveermfryvbfrr4taf7,p159533,West Ham,Adama Traoré Diarra,Adama,Midfielder,5.1M
+4txjdaqveermfryvbfrr4taf7,p84182,West Ham,Alphonse Areola,Areola,Goalkeeper,4.2M
+4txjdaqveermfryvbfrr4taf7,p82143,West Ham,Wes Foderingham,Foderingham,Goalkeeper,4.0M
+4txjdaqveermfryvbfrr4taf7,p483364,West Ham,Krisztián Hegyi,Hegyi,Goalkeeper,3.9M
+4txjdaqveermfryvbfrr4taf7,p613804,West Ham,El Hadji Malick Diouf,Diouf,Defender,4.1M
+4txjdaqveermfryvbfrr4taf7,p109533,West Ham,Emerson Palmieri dos Santos,Emerson,Defender,4.4M
+4txjdaqveermfryvbfrr4taf7,p214048,West Ham,Maximilian Kilman,Kilman,Defender,4.0M
+4txjdaqveermfryvbfrr4taf7,p233963,West Ham,Konstantinos Mavropanos,Mavropanos,Defender,4.5M
+4txjdaqveermfryvbfrr4taf7,p210494,West Ham,Nayef Aguerd,N.Aguerd,Defender,4.4M
+4txjdaqveermfryvbfrr4taf7,p536109,West Ham,Ollie Scarles,Scarles,Defender,4.3M
+4txjdaqveermfryvbfrr4taf7,p462116,West Ham,Jean-Clair Todibo,Todibo,Defender,4.3M
+4txjdaqveermfryvbfrr4taf7,p214590,West Ham,Aaron Wan-Bissaka,Wan-Bissaka,Defender,4.1M
+4txjdaqveermfryvbfrr4taf7,p518438,West Ham,Kaelan Casey,Casey,Defender,4.0M
+4txjdaqveermfryvbfrr4taf7,p224024,West Ham,Lucas Tolentino Coelho de Lima,L.Paquetá,Midfielder,5.9M
+4txjdaqveermfryvbfrr4taf7,p215439,West Ham,Tomáš Souček,Souček,Midfielder,5.7M
+4txjdaqveermfryvbfrr4taf7,p450070,West Ham,Crysencio Summerville,Summerville,Midfielder,5.4M
+4txjdaqveermfryvbfrr4taf7,p213999,West Ham,Edson Álvarez Velázquez,Álvarez,Midfielder,4.9M
+4txjdaqveermfryvbfrr4taf7,p149519,West Ham,Maxwel Cornet,Cornet,Midfielder,4.9M
+4txjdaqveermfryvbfrr4taf7,p197024,West Ham,Guido Rodríguez,G.Rodriguez,Midfielder,4.8M
+4txjdaqveermfryvbfrr4taf7,p577114,West Ham,Luis Guilherme Lira dos Santos,L.Guilherme,Midfielder,4.9M
+4txjdaqveermfryvbfrr4taf7,p490885,West Ham,George Earthy,Earthy,Midfielder,4.5M
+4txjdaqveermfryvbfrr4taf7,p229384,West Ham,Andy Irving,Irving,Midfielder,4.3M
+4txjdaqveermfryvbfrr4taf7,p518442,West Ham,Lewis Orford,Orford,Midfielder,4.4M
+4txjdaqveermfryvbfrr4taf7,p490142,West Ham,Freddie Potts,Potts,Midfielder,4.3M
+4txjdaqveermfryvbfrr4taf7,p178186,West Ham,Jarrod Bowen,Bowen,Forward,7.8M
+4txjdaqveermfryvbfrr4taf7,p91889,West Ham,Niclas Füllkrug,Füllkrug,Forward,5.6M
+4txjdaqveermfryvbfrr4taf7,p565431,West Ham,Callum Marshall,Marshall,Forward,4.3M
+4txjdaqveermfryvbfrr4taf7,p158534,West Ham,Kyle Walker-Peters,Walker-Peters,Defender,4.2M
+4txjdaqveermfryvbfrr4taf7,p75115,West Ham,Callum Wilson,Wilson,Forward,5.8M
+4txjdaqveermfryvbfrr4taf7,p467189,West Ham,Mads Hermansen,Hermansen,Goalkeeper,4.2M
+4txjdaqveermfryvbfrr4taf7,p551226,West Ham,Mateus Gonçalo Espanha Fernandes,M.Fernandes,Midfielder,5.5M
+4txjdaqveermfryvbfrr4taf7,p564940,West Ham,Soungoutou Magassa,S.Magassa,Midfielder,5.0M
+4txjdaqveermfryvbfrr4taf7,p37096,West Ham,Lukasz Fabianski,Fabianski,Goalkeeper,4.5M
+4txjdaqveermfryvbfrr4taf7,p602903,West Ham,Ezra Mayers,Mayers,Defender,4.0M
+4txjdaqveermfryvbfrr4taf7,p643473,West Ham,Airidas Golambeckis,Golambeckis,Defender,4.0M
+4txjdaqveermfryvbfrr4taf7,p630699,West Ham,Mohamadou Kanté,Mohamadou Kanté,Midfielder,4.5M
+4txjdaqveermfryvbfrr4taf7,p530335,West Ham,Pablo Felipe Pereira de Jesus,Pablo,Forward,5.4M
+4txjdaqveermfryvbfrr4taf7,p247670,West Ham,Valentín Castellanos,Taty,Forward,5.5M
+4txjdaqveermfryvbfrr4taf7,p572702,West Ham,Keiber Lamadrid,Lamadrid,Midfielder,5.0M
+4txjdaqveermfryvbfrr4taf7,p220362,West Ham,Axel Disasi,Disasi,Defender,4.5M
+4txjdaqveermfryvbfrr4taf7,p553742,West Ham,Finlay Herrick,Herrick,Goalkeeper,4.0M
+b9si1jn1lfxfund69e9ogcu2n,p101982,Wolves,Sam Johnstone,Johnstone,Goalkeeper,4.4M
+b9si1jn1lfxfund69e9ogcu2n,p149065,Wolves,José Malheiro de Sá,José Sá,Goalkeeper,4.2M
+b9si1jn1lfxfund69e9ogcu2n,p79602,Wolves,Daniel Bentley,Bentley,Goalkeeper,3.9M
+b9si1jn1lfxfund69e9ogcu2n,p516939,Wolves,Emmanuel Agbadou,Agbadou,Defender,4.2M
+b9si1jn1lfxfund69e9ogcu2n,p87835,Wolves,Matt Doherty,Doherty,Defender,4.4M
+b9si1jn1lfxfund69e9ogcu2n,p490721,Wolves,Hugo Bueno López,H.Bueno,Defender,4.3M
+b9si1jn1lfxfund69e9ogcu2n,p501837,Wolves,Yerson Mosquera Valdelamar,Mosquera,Defender,4.3M
+b9si1jn1lfxfund69e9ogcu2n,p483081,Wolves,Rodrigo Martins Gomes,R.Gomes,Defender,4.4M
+b9si1jn1lfxfund69e9ogcu2n,p231480,Wolves,Santiago Ignacio Bueno,S.Bueno,Defender,4.4M
+b9si1jn1lfxfund69e9ogcu2n,p510362,Wolves,Toti Gomes,Toti,Defender,4.2M
+b9si1jn1lfxfund69e9ogcu2n,p441271,Wolves,Ki-Jana Hoever,Hoever,Defender,3.8M
+b9si1jn1lfxfund69e9ogcu2n,p560248,Wolves,Bastien Meupiyou Menadjou,Meupiyou,Defender,4.0M
+b9si1jn1lfxfund69e9ogcu2n,p641221,Wolves,Pedro Cardoso de Lima,Pedro Lima,Defender,4.0M
+b9si1jn1lfxfund69e9ogcu2n,p517179,Wolves,Alfie Pond,Pond,Defender,3.9M
+b9si1jn1lfxfund69e9ogcu2n,p184754,Wolves,Hwang Hee-chan,Hee Chan,Midfielder,5.6M
+b9si1jn1lfxfund69e9ogcu2n,p509291,Wolves,André Trindade da Costa Neto,André,Midfielder,5.2M
+b9si1jn1lfxfund69e9ogcu2n,p231057,Wolves,Jean-Ricner Bellegarde,Bellegarde,Midfielder,5.1M
+b9si1jn1lfxfund69e9ogcu2n,p643135,Wolves,Fer López González,Fer López,Midfielder,5.1M
+b9si1jn1lfxfund69e9ogcu2n,p448089,Wolves,João Victor Gomes da Silva,J.Gomes,Midfielder,5.3M
+b9si1jn1lfxfund69e9ogcu2n,p181284,Wolves,Gonçalo Manuel Ganchinho Guedes,Guedes,Midfielder,5.5M
+b9si1jn1lfxfund69e9ogcu2n,p433312,Wolves,Marshall Munetsi,Munetsi,Midfielder,5.3M
+b9si1jn1lfxfund69e9ogcu2n,p476502,Wolves,Boubacar Traoré,B.Traore,Midfielder,5.0M
+b9si1jn1lfxfund69e9ogcu2n,p497606,Wolves,Tawanda Chirewa,Chirewa,Midfielder,4.3M
+b9si1jn1lfxfund69e9ogcu2n,p596054,Wolves,Tom Edozie,Edozie,Midfielder,4.3M
+b9si1jn1lfxfund69e9ogcu2n,p593001,Wolves,Enso González Medina,Gonzalez,Midfielder,4.3M
+b9si1jn1lfxfund69e9ogcu2n,p240299,Wolves,Joe Hodge,Hodge,Midfielder,4.5M
+b9si1jn1lfxfund69e9ogcu2n,p449988,Wolves,Fábio Soares Silva,Fábio Silva,Forward,4.9M
+b9si1jn1lfxfund69e9ogcu2n,p429414,Wolves,Saša Kalajdžić,Kalajdžić,Forward,4.9M
+b9si1jn1lfxfund69e9ogcu2n,p589507,Wolves,Leon Chiwome,Chiwome,Forward,4.4M
+b9si1jn1lfxfund69e9ogcu2n,p531363,Wolves,Nathan Fraser,Fraser,Forward,4.2M
+b9si1jn1lfxfund69e9ogcu2n,p230376,Wolves,Jhon Arias,J.Arias,Midfielder,4.9M
+b9si1jn1lfxfund69e9ogcu2n,p497949,Wolves,David Møller Wolfe,Møller Wolfe,Defender,4.2M
+b9si1jn1lfxfund69e9ogcu2n,p523705,Wolves,Jackson Tchatchoua,Tchatchoua,Defender,4.4M
+b9si1jn1lfxfund69e9ogcu2n,p431248,Wolves,Ladislav Krejcí,Krejčí,Defender,4.5M
+b9si1jn1lfxfund69e9ogcu2n,p488213,Wolves,Tolu Arokodare,Tolu,Forward,5.1M
+b9si1jn1lfxfund69e9ogcu2n,p647671,Wolves,Mateus Mané,Mané,Forward,4.2M
+b9si1jn1lfxfund69e9ogcu2n,p601956,Wolves,Saheed Olagunju,Olagunju,Defender,4.0M
+b9si1jn1lfxfund69e9ogcu2n,p605319,Wolves,Luke Rawlings,Rawlings,Midfielder,4.5M
+b9si1jn1lfxfund69e9ogcu2n,p514362,Wolves,Temple Ojinnaka,Ojinnaka,Midfielder,4.5M
+b9si1jn1lfxfund69e9ogcu2n,p589121,Wolves,Ethan Sutherland,Sutherland,Midfielder,4.5M
+b9si1jn1lfxfund69e9ogcu2n,p685628,Wolves,Jerome Abbey,Abbey,Midfielder,4.5M
+b9si1jn1lfxfund69e9ogcu2n,p209041,Wolves,Angel Gomes,Angel,Midfielder,4.6M
+b9si1jn1lfxfund69e9ogcu2n,p155511,Wolves,Adam Armstrong,Armstrong,Forward,5.1M
+b9si1jn1lfxfund69e9ogcu2n,p491460,Wolves,Alfie Brooks,Brooks,Goalkeeper,4.0M
+b9si1jn1lfxfund69e9ogcu2n,p627888,Wolves,Josh Gracey,Gracey,Goalkeeper,4.0M

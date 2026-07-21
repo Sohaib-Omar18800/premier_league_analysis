@@ -1,0 +1,606 @@
+player_name,matches_played,mins,yellows,reds,fouls,pens,player_id,club_id,club_name
+Igor Thiago,38,3284,7,0,73,0,p502500,7yx5dqhhphyvfisohikodajhv,Brentford
+João Gomes,35,2833,10,0,69,0,p448089,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Elliot Anderson,38,3334,8,0,57,1,p215379,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Antoine Semenyo,37,3200,7,0,56,1,p437730,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Moisés Caicedo,33,2802,11,1,54,1,p486672,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Sasa Lukic,26,1734,9,0,53,0,p212314,hzqh7z0mdl3v7gwete66syxp,Fulham
+Jørgen Strand Larsen,36,2316,4,0,52,0,p247412,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Zian Flemming,29,1776,5,0,50,0,p431639,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Kevin Schade,35,2757,6,1,50,0,p513418,7yx5dqhhphyvfisohikodajhv,Brentford
+Ethan Ampadu,35,3123,10,0,50,1,p199598,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Luke Shaw,38,3231,9,0,49,0,p106760,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Mateus Fernandes,36,3024,7,0,49,0,p551226,4txjdaqveermfryvbfrr4taf7,West Ham
+Crysencio Summerville,31,2480,6,0,49,0,p450070,4txjdaqveermfryvbfrr4taf7,West Ham
+Diego Gómez,32,2136,9,0,48,1,p514254,e5p0ehyguld7egzhiedpdnc3w,Brighton
+André,35,2766,12,0,47,0,p509291,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Thierno Barry,38,1915,3,0,47,0,p586309,ehd2iemqmschhj2ec0vayztzz,Everton
+Joelinton,27,1953,10,0,47,0,p180974,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Raúl Jiménez,36,2199,5,0,46,0,p102057,hzqh7z0mdl3v7gwete66syxp,Fulham
+Casemiro,34,2588,9,1,46,0,p61256,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Morgan Rogers,37,3285,7,0,46,1,p244850,b496gs285it6bheuikox6z9mj,Aston Villa
+Bruno Guimarães,29,2455,6,0,45,0,p208706,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Marc Cucurella,34,2710,8,1,45,0,p179268,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Dominic Calvert-Lewin,35,2726,3,0,45,0,p177815,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Nico O'Reilly,34,2648,5,0,45,0,p472769,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Alex Scott,37,2859,5,0,45,1,p503139,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Cody Gakpo,36,2747,3,0,42,0,p243298,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Igor Jesus,37,2314,2,0,42,0,p482973,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Ibrahim Sangaré,28,2080,5,0,42,2,p210462,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Dominik Szoboszlai,36,3233,8,1,41,0,p424876,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Emiliano Buendía,36,1759,6,0,41,0,p195546,b496gs285it6bheuikox6z9mj,Aston Villa
+Matty Cash,35,3020,9,0,41,0,p199796,b496gs285it6bheuikox6z9mj,Aston Villa
+Florentino,31,2112,6,0,40,2,p216055,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Randal Kolo Muani,30,1670,3,0,40,0,p247693,22doj4sgsocqpxw45h607udje,Spurs
+Adrien Truffert,38,3380,5,0,39,0,p494521,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+James Garner,38,3414,12,0,39,0,p232928,ehd2iemqmschhj2ec0vayztzz,Everton
+Jayden Bogle,34,2802,6,0,39,0,p226182,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Ryan Gravenberch,36,2996,5,0,38,0,p441266,c8h9bw1l82s06h77xxrelzhur,Liverpool
+João Pedro,35,2674,5,0,38,0,p475168,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Jurriën Timber,30,2457,5,0,38,0,p445122,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Bernardo Silva,38,2886,10,0,37,0,p165809,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Tomás Soucek,35,2198,3,1,37,0,p215439,4txjdaqveermfryvbfrr4taf7,West Ham
+Yehor Yarmoliuk,37,2665,7,0,37,0,p508395,7yx5dqhhphyvfisohikodajhv,Brentford
+Dan Burn,29,2199,9,1,36,1,p78916,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Enzo Fernández,36,3121,10,0,36,0,p448047,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Anton Stach,29,2378,3,0,36,1,p466525,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Daniel Muñoz,29,2403,7,0,35,0,p247348,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Viktor Gyökeres,36,2230,5,0,35,0,p224117,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Adam Wharton,34,2562,4,1,35,1,p496221,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Sander Berge,35,2911,5,0,35,1,p207189,hzqh7z0mdl3v7gwete66syxp,Fulham
+Alexis Mac Allister,37,2662,7,0,35,0,p243016,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Ollie Watkins,37,2852,4,0,35,0,p178301,b496gs285it6bheuikox6z9mj,Aston Villa
+Tyler Adams,25,1778,8,0,35,0,p200785,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Nordi Mukiele,32,2787,5,0,35,0,p200834,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Álex Jiménez,31,2323,10,0,35,1,p551483,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Hugo Ekitiké,28,1810,0,0,35,0,p510663,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Yerson Mosquera,27,2142,11,0,34,2,p501837,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Maxence Lacroix,35,3087,4,1,34,2,p437499,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Marcos Senesi,37,3290,8,0,34,0,p221466,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Omar Alderete,33,2802,6,0,34,0,p201895,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Jack Hinshelwood,27,1750,0,0,33,0,p532529,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Ladislav Krejcí,28,2361,3,1,33,0,p431248,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Martín Zubimendi,38,3001,4,0,33,0,p481655,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Bukayo Saka,31,2225,2,0,33,0,p223340,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Ryan Sessegnon,27,1822,0,0,33,2,p184349,hzqh7z0mdl3v7gwete66syxp,Fulham
+Ibrahima Konaté,36,3100,7,0,33,1,p204716,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Beto,37,1565,3,0,33,0,p486385,ehd2iemqmschhj2ec0vayztzz,Everton
+Yankuba Minteh,34,2398,3,0,32,0,p592031,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Kyle Walker,36,3097,9,0,32,0,p58621,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Brian Brobbey,31,1931,6,0,32,1,p441264,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Noah Sadiki,33,2894,9,0,32,0,p577669,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Reinildo Mandava,25,1969,7,1,32,1,p434399,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Kiernan Dewsbury-Hall,31,2635,6,0,32,1,p215413,ehd2iemqmschhj2ec0vayztzz,Everton
+Pedro Porro,34,2798,10,0,32,0,p441164,22doj4sgsocqpxw45h607udje,Spurs
+James Tarkowski,37,3330,8,0,32,1,p17761,ehd2iemqmschhj2ec0vayztzz,Everton
+Valentín Castellanos,18,1395,6,0,32,0,p247670,4txjdaqveermfryvbfrr4taf7,West Ham
+Cristian Romero,23,1872,9,2,32,0,p221632,22doj4sgsocqpxw45h607udje,Spurs
+Carlos Baleba,31,1662,5,0,31,1,p535301,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Josh Laurent,33,1759,7,1,31,1,p167887,64bxxwu2mv2qqlv0monbkj1om,Burnley
+John McGinn,30,2157,5,0,31,0,p122806,b496gs285it6bheuikox6z9mj,Aston Villa
+Trai Hume,38,3037,9,0,31,1,p487676,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Enzo Le Fée,36,2934,5,0,31,0,p484420,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Kaoru Mitoma,25,1721,5,0,31,0,p451340,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Joachim Andersen,33,2877,7,1,31,0,p174874,hzqh7z0mdl3v7gwete66syxp,Fulham
+Gabriel Gudmundsson,32,2637,4,1,31,0,p243526,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Danny Welbeck,37,2263,5,0,30,0,p50175,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Georginio Rutter,32,1790,2,0,30,0,p463067,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Mats Wieffer,26,1908,8,0,30,0,p467779,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Santiago Bueno,29,2553,4,0,30,0,p231480,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Yéremy Pino,34,2091,4,0,30,0,p488024,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Daichi Kamada,28,1908,3,0,30,0,p209400,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Nico González,25,1567,6,0,30,0,p465694,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Neco Williams,37,3206,6,1,30,1,p215136,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Marcus Tavernier,34,2738,6,0,30,0,p201658,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Iliman Ndiaye,32,2786,2,0,30,0,p440993,ehd2iemqmschhj2ec0vayztzz,Everton
+Amine Adli,31,1082,2,0,29,0,p489888,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Tim Iroegbunam,29,1485,9,0,29,0,p490094,ehd2iemqmschhj2ec0vayztzz,Everton
+Vitalii Mykolenko,33,2960,6,0,29,0,p224967,ehd2iemqmschhj2ec0vayztzz,Everton
+Pape Matar Sarr,26,1391,3,0,29,0,p482442,22doj4sgsocqpxw45h607udje,Spurs
+Dan Ballard,29,2148,4,1,29,0,p223827,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Lesley Ugochukwu,35,2350,1,1,28,1,p503714,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Hwang Hee-Chan,26,1452,5,0,28,0,p184754,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Jaidon Anthony,37,2735,4,0,28,1,p444180,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Calvin Bassey,30,2532,5,0,28,1,p232892,hzqh7z0mdl3v7gwete66syxp,Fulham
+João Palhinha,33,2197,8,0,28,0,p154296,22doj4sgsocqpxw45h607udje,Spurs
+Micky van de Ven,35,3043,9,1,28,1,p491279,22doj4sgsocqpxw45h607udje,Spurs
+Djed Spence,30,2056,4,0,28,0,p232859,22doj4sgsocqpxw45h607udje,Spurs
+El Hadji Malick Diouf,32,2711,6,0,28,2,p613804,4txjdaqveermfryvbfrr4taf7,West Ham
+Lucas Paquetá,18,1521,5,1,28,1,p224024,4txjdaqveermfryvbfrr4taf7,West Ham
+Jan Paul van Hecke,36,3211,9,0,27,1,p469142,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Matheus Cunha,33,2503,4,0,27,0,p430871,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Kenny Tete,22,1794,2,0,27,0,p167074,hzqh7z0mdl3v7gwete66syxp,Fulham
+Dango Ouattara,32,2279,5,0,27,0,p533463,7yx5dqhhphyvfisohikodajhv,Brentford
+Junior Kroupi,33,1683,5,0,27,0,p560262,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Wesley Fofana,25,1726,5,2,27,0,p444463,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Reece James,29,1961,4,0,27,0,p225796,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Pascal Struijk,34,2937,5,0,27,0,p222694,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Declan Rice,36,3099,3,0,26,0,p204480,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Riccardo Calafiori,26,1707,5,0,26,0,p466075,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Michael Kayode,37,3264,8,0,26,2,p607464,7yx5dqhhphyvfisohikodajhv,Brentford
+Morgan Gibbs-White,37,3110,1,0,26,0,p222531,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Evanilson,36,2759,2,0,26,0,p444102,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Conor Gallagher,16,1190,2,0,26,0,p232787,22doj4sgsocqpxw45h607udje,Spurs
+Bruno Fernandes,35,3066,5,0,25,1,p141746,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Mateus Mané,27,1790,0,0,25,1,p647671,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Jefferson Lerma,31,1724,7,0,25,0,p152551,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Youri Tielemans,25,1862,0,0,25,0,p166989,b496gs285it6bheuikox6z9mj,Aston Villa
+Liam Delap,28,1102,4,0,25,0,p463034,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Marc Guéhi,35,3150,6,0,25,0,p209036,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Diogo Dalot,34,2616,5,0,25,0,p216051,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Jhon Arias,23,1121,1,0,25,0,p230376,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Manuel Ugarte,22,881,1,0,24,0,p232112,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Hannibal Mejbri,27,1231,10,0,24,1,p465527,64bxxwu2mv2qqlv0monbkj1om,Burnley
+William Osula,24,811,0,0,24,0,p538207,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Malick Thiaw,35,2964,4,0,24,1,p465642,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Lucas Bergvall,23,966,2,0,24,0,p570526,22doj4sgsocqpxw45h607udje,Spurs
+Erling Haaland,35,2958,2,0,24,0,p223094,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Sandro Tonali,35,2543,4,0,24,0,p432422,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Yasin Ayari,29,1924,1,0,24,0,p509416,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Bryan Mbeumo,33,2621,4,0,23,0,p446008,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Amad Diallo,32,2344,2,0,23,0,p493250,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Patrick Dorgu,26,1445,5,0,23,0,p596777,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Will Hughes,31,1568,7,0,23,1,p108413,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Tyrick Mitchell,38,3253,6,0,23,0,p244723,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Kristoffer Ajer,27,1807,4,0,23,1,p191866,7yx5dqhhphyvfisohikodajhv,Brentford
+Jérémy Doku,30,1784,0,0,23,0,p248875,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Omari Hutchinson,31,1684,1,0,23,0,p503301,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Granit Xhaka,34,2903,8,0,23,0,p84450,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Richarlison,32,1957,5,0,23,0,p212319,22doj4sgsocqpxw45h607udje,Spurs
+Jake O'Brien,37,3124,6,1,23,1,p512462,ehd2iemqmschhj2ec0vayztzz,Everton
+Aaron Wan-Bissaka,25,2084,4,0,23,0,p214590,4txjdaqveermfryvbfrr4taf7,West Ham
+Pablo,14,826,0,0,23,0,p530335,4txjdaqveermfryvbfrr4taf7,West Ham
+Murillo,25,2133,5,0,23,0,p575476,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Mohammed Kudus,19,1545,3,0,23,0,p460842,22doj4sgsocqpxw45h607udje,Spurs
+Ferdi Kadioglu,37,3134,6,0,22,0,p231416,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Mikel Merino,22,1027,1,0,22,0,p195384,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Kieran Trippier,21,1592,3,0,22,0,p77794,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Milos Kerkez,34,2260,4,0,22,0,p544877,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Florian Wirtz,33,2388,1,0,22,0,p494595,c8h9bw1l82s06h77xxrelzhur,Liverpool
+William Saliba,31,2615,2,0,22,0,p462424,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Lyle Foster,26,1372,4,0,22,0,p435973,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Jean-Philippe Mateta,32,2222,2,0,21,0,p231747,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Gabriel Magalhães,32,2751,4,0,21,0,p226597,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Rodrigo Muniz,21,997,2,0,21,0,p244042,hzqh7z0mdl3v7gwete66syxp,Fulham
+Nikola Milenkovic,38,3375,6,0,21,0,p227444,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Kevin Danso,24,1491,8,0,21,0,p135720,22doj4sgsocqpxw45h607udje,Spurs
+Idrissa Gueye,25,2101,1,1,21,0,p80801,ehd2iemqmschhj2ec0vayztzz,Everton
+Xavi Simons,28,1757,5,1,21,0,p493362,22doj4sgsocqpxw45h607udje,Spurs
+Brennan Johnson,34,1722,6,0,20,0,p242898,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Nick Woltemade,33,1912,0,0,20,0,p470313,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Vitaly Janelt,25,1437,8,0,20,0,p204580,7yx5dqhhphyvfisohikodajhv,Brentford
+Nathan Collins,35,2972,7,0,20,1,p432830,7yx5dqhhphyvfisohikodajhv,Brentford
+Mathias Jensen,36,2252,3,0,20,0,p207283,7yx5dqhhphyvfisohikodajhv,Brentford
+Amadou Onana,25,1764,3,0,20,0,p449871,b496gs285it6bheuikox6z9mj,Aston Villa
+Habib Diarra,20,1407,6,0,20,0,p547027,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Trevoh Chalobah,34,2782,3,1,20,0,p180736,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Malo Gusto,34,2267,3,1,20,1,p482609,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Merlin Röhl,16,677,0,0,20,0,p513466,ehd2iemqmschhj2ec0vayztzz,Everton
+Brenden Aaronson,37,2465,3,0,20,1,p427637,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Jean-Ricner Bellegarde,26,1251,5,0,20,0,p231057,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Mikkel Damsgaard,33,2057,0,0,19,0,p440089,7yx5dqhhphyvfisohikodajhv,Brentford
+Virgil van Dijk,38,3420,4,0,19,1,p97032,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Tijjani Reijnders,28,1636,2,0,19,0,p433036,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Adam Smith,22,1076,3,0,19,0,p54469,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Rodrigo Bentancur,26,1892,7,0,19,1,p202993,22doj4sgsocqpxw45h607udje,Spurs
+Mathys Tel,31,1342,1,0,19,1,p511499,22doj4sgsocqpxw45h607udje,Spurs
+Jaka Bijol,25,1893,4,0,19,1,p434752,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Jarrod Bowen,38,3405,5,0,19,0,p178186,4txjdaqveermfryvbfrr4taf7,West Ham
+Marshall Munetsi,13,873,2,0,19,0,p433312,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Maxim De Cuyper,30,1414,2,0,18,1,p465730,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Hugo Bueno,35,2364,3,0,18,1,p490721,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Piero Hincapié,25,1792,2,0,18,0,p448104,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Timothy Castagne,30,1842,4,0,18,0,p166477,hzqh7z0mdl3v7gwete66syxp,Fulham
+Phil Foden,33,2084,4,0,18,0,p209244,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Justin Kluivert,20,951,5,0,18,0,p222683,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Lukas Nmecha,31,1073,0,0,18,0,p174594,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Chris Richards,33,2826,4,0,18,0,p427623,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Noah Okafor,28,1568,3,0,18,0,p435997,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Conor Bradley,15,932,5,0,18,0,p492777,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Pascal Groß,19,1636,2,0,17,0,p60307,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Leny Yoro,32,1739,1,0,17,1,p550864,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Tolu Arokodare,33,1407,1,0,17,0,p488213,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Cristhian Mosquera,20,989,4,0,17,0,p500040,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Harvey Barnes,37,1961,1,0,17,0,p201666,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Lewis Hall,30,2179,4,0,17,0,p487838,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Curtis Jones,34,1929,2,0,17,0,p206915,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Ian Maatsen,30,1599,2,0,17,0,p441302,b496gs285it6bheuikox6z9mj,Aston Villa
+Rayan Aït-Nouri,17,976,2,0,17,0,p448514,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Matheus Nunes,34,2865,5,0,17,1,p465351,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Lamare Bogarde,28,1047,5,0,17,0,p515597,b496gs285it6bheuikox6z9mj,Aston Villa
+Rayan Cherki,33,1786,1,0,17,0,p466052,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+James Hill,29,2104,5,0,17,0,p463981,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Destiny Udogie,20,1340,4,0,17,0,p487053,22doj4sgsocqpxw45h607udje,Spurs
+Soungoutou Magassa,22,979,4,0,17,1,p564940,4txjdaqveermfryvbfrr4taf7,West Ham
+Joe Rodon,35,2953,3,0,17,0,p214225,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Ryan Christie,26,986,3,1,17,1,p158499,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Benjamin Sesko,30,1635,2,0,17,0,p485711,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Simon Adingra,14,658,2,0,17,0,p535818,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Boubacar Kamara,18,1418,5,0,17,0,p226944,b496gs285it6bheuikox6z9mj,Aston Villa
+Mason Mount,23,1018,2,0,16,0,p184341,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Harry Maguire,23,1655,3,1,16,2,p95658,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Eberechi Eze,33,1900,1,0,16,0,p232413,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Jacob Ramsey,28,1444,3,1,16,1,p232653,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Joe Willock,24,980,3,0,16,0,p200089,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Josko Gvardiol,18,1374,2,0,16,1,p477424,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Morato,21,1342,5,0,16,0,p485047,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Nicolás Domínguez,27,1175,3,0,16,0,p250199,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Dan Ndoye,24,1176,1,0,16,0,p456512,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Pedro Neto,34,2643,2,1,16,0,p247632,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Michael Keane,33,2590,1,1,16,0,p106611,ehd2iemqmschhj2ec0vayztzz,Everton
+Maximilian Kilman,21,1559,4,0,16,2,p214048,4txjdaqveermfryvbfrr4taf7,West Ham
+Konstantinos Mavropanos,31,2528,2,0,16,0,p233963,4txjdaqveermfryvbfrr4taf7,West Ham
+Matt Doherty,11,791,4,0,16,1,p87835,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Ilia Gruev,23,1322,3,0,16,0,p486520,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Josh Cullen,18,1519,2,0,16,1,p172567,64bxxwu2mv2qqlv0monbkj1om,Burnley
+James Milner,20,778,2,0,15,0,p15157,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Lewis Dunk,33,2837,10,0,15,1,p83299,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Lucas Pires,20,1406,1,1,15,0,p549329,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Noni Madueke,26,1217,0,0,15,0,p248857,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Evann Guessand,21,916,0,0,15,0,p485337,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Antonee Robinson,22,1492,5,0,15,0,p169528,hzqh7z0mdl3v7gwete66syxp,Fulham
+Sepp van den Berg,32,2761,2,0,15,0,p444765,7yx5dqhhphyvfisohikodajhv,Brentford
+Keane Lewis-Potter,36,1968,1,0,15,0,p249231,7yx5dqhhphyvfisohikodajhv,Brentford
+Rúben Dias,26,2140,3,0,15,0,p171314,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Jorrel Hato,22,1142,7,0,15,0,p551210,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Lutsharel Geertruida,28,1685,2,0,15,0,p247955,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Freddie Potts,22,1167,1,0,15,0,p490142,4txjdaqveermfryvbfrr4taf7,West Ham
+Rico Henry,25,1328,2,0,15,1,p194010,7yx5dqhhphyvfisohikodajhv,Brentford
+Fabian Schär,16,1091,1,0,15,0,p119471,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Bashir Humphreys,20,1578,6,0,14,0,p461188,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Kevin,26,1037,1,0,14,0,p560552,hzqh7z0mdl3v7gwete66syxp,Fulham
+Joe Gomez,21,599,4,0,14,0,p171287,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Lucas Digne,31,1852,3,0,14,0,p101188,b496gs285it6bheuikox6z9mj,Aston Villa
+Wilson Isidor,32,1158,1,0,14,0,p437505,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Abdukodir Khusanov,21,1429,2,0,14,0,p578153,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Rodri,21,1513,3,0,14,0,p220566,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Armando Broja,24,849,0,0,14,0,p440323,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Kobbie Mainoo,28,1653,2,0,13,0,p516895,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Loum Tchaouna,29,1270,2,0,13,0,p469272,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Adam Armstrong,14,1146,3,0,13,0,p155511,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Axel Tuanzebe,14,1202,1,0,13,1,p180804,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Harry Wilson,36,2691,7,0,13,0,p153682,hzqh7z0mdl3v7gwete66syxp,Fulham
+Anthony Gordon,26,1814,3,1,13,0,p232826,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Sven Botman,25,1838,2,0,13,1,p220237,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Josh King,32,1304,4,0,13,0,p577725,hzqh7z0mdl3v7gwete66syxp,Fulham
+Jordan Henderson,32,1922,6,0,13,0,p56979,7yx5dqhhphyvfisohikodajhv,Brentford
+Douglas Luiz,21,923,3,0,13,1,p230046,b496gs285it6bheuikox6z9mj,Aston Villa
+Ryan Yates,22,604,3,0,13,0,p204968,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Cole Palmer,26,1965,5,0,13,0,p244851,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Andrey Santos,27,1255,4,0,13,0,p532605,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Ao Tanaka,28,1314,1,0,13,0,p248056,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+James Justin,29,1896,4,0,13,0,p220627,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Leandro Trossard,31,2006,2,0,13,0,p116216,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Quilindschy Hartman,21,1830,1,0,13,0,p494960,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Maxime Estève,34,2937,1,0,13,0,p477717,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Sean Longstaff,23,1006,2,0,13,0,p180135,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Ola Aina,18,1590,3,0,13,0,p159506,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Jack Grealish,20,1631,3,1,13,0,p114283,ehd2iemqmschhj2ec0vayztzz,Everton
+Noussair Mazraoui,20,984,3,0,12,0,p230001,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Ismaïla Sarr,28,2176,2,0,12,0,p232185,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Jaydee Canvot,20,1334,3,0,12,1,p651426,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Dominic Solanke,15,1000,1,0,12,0,p154566,22doj4sgsocqpxw45h607udje,Spurs
+Archie Gray,24,1479,5,0,12,0,p547701,22doj4sgsocqpxw45h607udje,Spurs
+Kyle Walker-Peters,23,1380,2,0,12,0,p158534,4txjdaqveermfryvbfrr4taf7,West Ham
+Callum Wilson,32,1243,1,0,12,0,p75115,4txjdaqveermfryvbfrr4taf7,West Ham
+Estêvão,22,845,4,0,12,0,p624773,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Callum Hudson-Odoi,30,1844,0,0,12,0,p209046,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Nicolò Savona,14,1026,2,0,12,0,p500151,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Toti Gomes,19,1427,2,1,11,0,p510362,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Justin Devenny,21,788,0,0,11,0,p489706,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Federico Chiesa,26,318,3,0,11,0,p223541,c8h9bw1l82s06h77xxrelzhur,Liverpool
+David Brooks,31,1199,7,0,11,0,p111317,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Nilson Angulo,8,406,1,0,11,0,p536661,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Bertrand Traoré,12,638,1,0,11,0,p110504,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Dwight McNeil,22,1168,1,0,11,0,p433154,ehd2iemqmschhj2ec0vayztzz,Everton
+Tyler Dibling,14,350,2,0,11,0,p496661,ehd2iemqmschhj2ec0vayztzz,Everton
+Ezri Konsa,34,3036,0,1,11,0,p199798,b496gs285it6bheuikox6z9mj,Aston Villa
+Brajan Gruda,18,715,2,0,11,0,p513433,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Niclas Füllkrug,8,408,0,0,11,0,p91889,4txjdaqveermfryvbfrr4taf7,West Ham
+Joël Veltman,24,1050,5,0,10,0,p111478,e5p0ehyguld7egzhiedpdnc3w,Brighton
+David Møller Wolfe,22,1049,1,0,10,0,p497949,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Gabriel Martinelli,30,1073,3,0,10,0,p444145,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Myles Lewis-Skelly,20,698,3,0,10,0,p499169,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Emile Smith Rowe,37,1928,1,0,10,0,p209289,hzqh7z0mdl3v7gwete66syxp,Fulham
+Jorge Cuenca,15,938,6,0,10,0,p246301,hzqh7z0mdl3v7gwete66syxp,Fulham
+Tom Cairney,24,763,3,0,10,0,p76357,hzqh7z0mdl3v7gwete66syxp,Fulham
+Mohamed Salah,27,2148,1,0,10,0,p118748,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Tyrone Mings,17,1323,1,0,10,0,p149484,b496gs285it6bheuikox6z9mj,Aston Villa
+Omar Marmoush,21,699,3,0,10,0,p438234,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Taiwo Awoniyi,17,481,2,0,10,0,p210156,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Charly Alcaraz,20,685,4,0,10,0,p502697,ehd2iemqmschhj2ec0vayztzz,Everton
+Marc Guiu,10,266,1,0,10,0,p499309,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Emmanuel Agbadou,14,1101,1,1,10,0,p516939,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Joshua Zirkzee,24,608,3,0,9,0,p458249,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Lisandro Martínez,18,1231,0,1,9,0,p221820,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Gabriel Jesus,14,421,3,0,9,0,p205651,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Martin Ødegaard,24,1370,0,0,9,0,p184029,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Jacob Murphy,33,1618,2,0,9,1,p114243,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Issa Diop,13,814,2,0,9,0,p219924,hzqh7z0mdl3v7gwete66syxp,Fulham
+Oscar Bobb,23,1037,1,0,9,0,p477555,hzqh7z0mdl3v7gwete66syxp,Fulham
+Ross Barkley,21,852,1,0,9,0,p88894,b496gs285it6bheuikox6z9mj,Aston Villa
+Savinho,24,821,2,0,9,0,p510281,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Rayan,15,1119,1,0,9,1,p499604,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Alejandro Garnacho,24,1268,2,0,9,0,p493105,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Radu Dragusin,10,515,0,0,9,0,p493125,22doj4sgsocqpxw45h607udje,Spurs
+Tyrique George,15,353,2,0,9,0,p550615,ehd2iemqmschhj2ec0vayztzz,Everton
+Dilane Bakwa,14,552,1,0,9,0,p476887,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+James Ward-Prowse,18,1096,1,0,8,0,p101178,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Jackson Tchatchoua,31,1837,3,0,8,0,p523705,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Kai Havertz,12,583,1,0,8,0,p219847,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Alex Iwobi,29,2434,3,0,8,0,p153133,hzqh7z0mdl3v7gwete66syxp,Fulham
+Anthony Elanga,32,1313,0,0,8,0,p449434,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Jeremie Frimpong,21,1039,1,0,8,0,p216094,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Lewis Cook,18,872,1,1,8,0,p155408,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Bafodé Diakité,18,1275,1,0,8,1,p242882,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Chris Rigg,18,766,1,0,8,0,p554197,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Yves Bissouma,11,605,4,0,8,0,p227127,22doj4sgsocqpxw45h607udje,Spurs
+Jean-Clair Todibo,23,1817,5,1,8,0,p462116,4txjdaqveermfryvbfrr4taf7,West Ham
+Roméo Lavia,12,377,0,0,8,0,p514356,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Ayden Heaven,17,923,2,0,7,0,p606745,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Charalampos Kostoulas,21,353,2,0,7,0,p647850,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Olivier Boscagli,12,800,2,0,7,0,p204120,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Marcus Edwards,23,1064,0,0,7,0,p174592,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Angel Gomes,12,464,1,0,7,0,p209041,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Aaron Hickey,21,685,1,0,7,0,p472713,7yx5dqhhphyvfisohikodajhv,Brentford
+Pau Torres,21,1676,1,0,7,0,p244954,b496gs285it6bheuikox6z9mj,Aston Villa
+Sebastiaan Bornauw,12,432,1,0,7,0,p437738,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Wilfried Gnonto,23,524,3,0,7,0,p492859,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Ollie Scarles,13,659,2,0,7,0,p536109,4txjdaqveermfryvbfrr4taf7,West Ham
+Adama Traoré,24,377,1,0,7,0,p159533,4txjdaqveermfryvbfrr4taf7,West Ham
+Tino Livramento,17,1328,1,0,7,0,p441191,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Romaine Mundle,14,400,1,0,7,0,p461199,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Eddie Nketiah,12,416,2,0,7,0,p205533,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Rodrigo Gomes,22,960,0,0,6,0,p483081,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Yoane Wissa,19,521,3,0,6,0,p216646,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Leon Bailey,13,452,1,0,6,0,p215711,b496gs285it6bheuikox6z9mj,Aston Villa
+Chris Wood,15,906,0,0,6,0,p60689,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Enes Ünal,23,214,1,0,6,0,p168636,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Eliezer Mayenda,20,756,0,0,6,0,p564406,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Luke O'Nien,12,564,1,1,6,0,p167512,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Harrison Armstrong,13,528,0,0,6,0,p609873,ehd2iemqmschhj2ec0vayztzz,Everton
+Tosin Adarabioyo,16,789,2,0,6,0,p109646,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Benoît Badiashile,8,471,2,0,6,0,p242880,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Jamie Gittens,16,490,0,0,6,0,p463936,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Fer López,9,229,1,0,6,0,p643135,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Matthijs de Ligt,13,1170,0,0,6,0,p209365,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Hjalmar Ekdal,19,1539,0,0,5,0,p478969,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Pedro Lima,9,259,0,0,5,0,p641221,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Chadi Riad,9,554,2,0,5,0,p515621,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Alexander Isak,14,703,0,0,5,0,p219168,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Rico Lewis,11,402,2,0,5,0,p477064,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Luca Netz,7,355,0,0,5,0,p470315,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Axel Disasi,14,1255,1,0,5,0,p220362,4txjdaqveermfryvbfrr4taf7,West Ham
+Chemsdine Talbi,28,1561,0,0,5,0,p549912,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Samuel Chukwueze,23,1075,0,0,5,0,p218328,hzqh7z0mdl3v7gwete66syxp,Fulham
+Ben White,12,704,0,0,5,0,p198869,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Lewis Miley,23,1493,0,0,5,0,p547719,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Nathaniel Clyne,10,596,1,0,4,0,p57328,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Rio Ngumoha,19,551,0,0,4,0,p611922,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Andy Robertson,24,1172,0,0,4,0,p122798,c8h9bw1l82s06h77xxrelzhur,Liverpool
+James McAtee,14,289,1,0,4,0,p432714,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Dennis Cirkin,8,320,2,0,4,0,p461195,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Joël Piroe,16,246,0,0,4,0,p235826,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Mohamadou Kanté,11,67,2,0,4,0,p630699,4txjdaqveermfryvbfrr4taf7,West Ham
+Joe Worrall,11,497,0,0,4,0,p208912,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Jonah Kusi-Asare,7,49,1,0,4,0,p631786,hzqh7z0mdl3v7gwete66syxp,Fulham
+Borna Sosa,7,99,1,0,4,0,p218364,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Christantus Uche,14,159,0,0,4,0,p660392,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Oliver Sonne,7,165,0,0,4,0,p519895,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Diego Coppola,5,194,2,0,4,0,p550090,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Stefanos Tzimas,9,133,0,0,4,0,p608181,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Christian Nørgaard,7,101,0,0,3,0,p128295,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Nathan Aké,18,688,1,0,3,0,p126184,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Ben Gannon-Doak,8,105,0,0,3,0,p496208,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Zach Abbott,3,165,0,0,3,1,p549067,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Dário Essugo,3,26,2,0,3,0,p491007,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Souza,4,144,1,0,3,0,p616221,22doj4sgsocqpxw45h607udje,Spurs
+Jadon Sancho,23,873,0,0,3,0,p209243,b496gs285it6bheuikox6z9mj,Aston Villa
+Jarrad Branthwaite,10,681,1,0,3,0,p480455,ehd2iemqmschhj2ec0vayztzz,Everton
+Tawanda Chirewa,2,25,0,0,3,0,p497606,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Tom Watson,6,57,1,0,3,0,p549074,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Ki-Jana Hoever,8,428,0,0,3,0,p441271,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Frank Onyeka,6,88,0,0,3,0,p428580,7yx5dqhhphyvfisohikodajhv,Brentford
+Arthur Masuaku,3,127,1,0,3,0,p105717,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Shea Lacey,3,40,0,0,2,0,p576628,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Matt O'Riley,6,203,0,0,2,0,p219249,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Ashley Barnes,7,40,1,0,2,0,p44699,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Max Dowman,6,153,0,0,2,0,p616077,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Harrison Reed,7,90,0,0,2,0,p153366,hzqh7z0mdl3v7gwete66syxp,Fulham
+Wataru Endo,8,171,1,0,2,0,p158983,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Romelle Donovan,4,38,0,0,2,0,p606689,7yx5dqhhphyvfisohikodajhv,Brentford
+Victor Lindelöf,17,944,0,0,2,0,p184667,b496gs285it6bheuikox6z9mj,Aston Villa
+Josh Acheampong,17,663,1,0,2,0,p577016,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Nathan Patterson,7,240,0,0,2,0,p243571,ehd2iemqmschhj2ec0vayztzz,Everton
+Tammy Abraham,12,279,0,0,2,0,p173879,b496gs285it6bheuikox6z9mj,Aston Villa
+Jack Fletcher,3,107,0,0,2,0,p547037,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Wilson Odobert,24,980,0,0,2,0,p550839,22doj4sgsocqpxw45h607udje,Spurs
+Guido Rodríguez,6,177,1,0,2,0,p197024,4txjdaqveermfryvbfrr4taf7,West Ham
+Ben Davies,3,138,1,0,2,0,p115556,22doj4sgsocqpxw45h607udje,Spurs
+Julio Soler,3,34,0,0,2,0,p575901,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Donyell Malen,21,645,0,0,2,0,p204646,b496gs285it6bheuikox6z9mj,Aston Villa
+Arnaud Kalimuendo,9,89,0,0,2,0,p465680,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Romain Esse,4,40,0,0,2,0,p606921,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Ethan Nwaneri,6,165,0,0,2,0,p499175,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Zeki Amdouni,4,69,0,0,1,0,p492831,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Jacob Bruun Larsen,28,1023,0,0,1,0,p179458,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Kaye Furo,1,1,0,0,1,0,p593174,7yx5dqhhphyvfisohikodajhv,Brentford
+Trey Nyoni,6,21,0,0,1,0,p591386,c8h9bw1l82s06h77xxrelzhur,Liverpool
+George Hemmings,2,25,0,0,1,0,p577285,b496gs285it6bheuikox6z9mj,Aston Villa
+Andrés García,6,83,0,0,1,0,p606798,b496gs285it6bheuikox6z9mj,Aston Villa
+Alex Tóth,9,137,1,0,1,0,p614574,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Levi Colwill,3,225,0,0,1,0,p460028,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+James Maddison,3,34,0,0,1,0,p172780,22doj4sgsocqpxw45h607udje,Spurs
+Daniel James,19,553,0,0,1,0,p200617,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Sam Byram,2,8,0,0,1,0,p113564,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Facundo Buonanotte,4,81,1,0,1,0,p536916,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Lorenzo Lucca,4,127,0,0,1,0,p469130,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Igor Julio,4,103,0,0,1,0,p223434,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Kaden Rodney,1,3,0,0,1,0,p530318,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Dane Scarlett,2,7,0,0,1,0,p490145,22doj4sgsocqpxw45h607udje,Spurs
+Divine Mukasa,2,25,0,0,1,0,p590039,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Joél Drakes-Thomas,2,7,0,0,1,0,p672492,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Jack Harrison,11,263,0,0,1,1,p221399,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Myles Peart-Harris,1,1,0,0,1,0,p450539,7yx5dqhhphyvfisohikodajhv,Brentford
+Jaydon Banel,1,9,0,0,1,0,p551206,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Oleksandr Zinchenko,5,353,0,0,1,0,p206325,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Andy Irving,7,157,0,0,1,0,p229384,4txjdaqveermfryvbfrr4taf7,West Ham
+Emil Krafth,1,45,0,0,1,0,p111773,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Jenson Seelt,2,134,0,0,1,0,p519634,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Solly March,4,38,0,0,0,0,p109345,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Tyler Fletcher,2,17,0,0,0,0,p519913,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Tyrell Malacia,3,15,0,0,0,0,p222690,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Connor Roberts,0,0,0,0,0,0,p192290,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Jerome Abbey,1,16,0,0,0,0,p685628,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Ethan Sutherland,0,0,0,0,0,0,p589121,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Tom Edozie,3,12,0,0,0,0,p596054,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Rio Cardines,1,90,0,0,0,0,p590014,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Alex Murphy,2,7,0,0,0,0,p545477,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Sean Neave,1,13,0,0,0,0,p599303,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Josh Dasilva,2,2,0,0,0,0,p183656,7yx5dqhhphyvfisohikodajhv,Brentford
+Reiss Nelson,10,118,0,0,0,0,p200641,7yx5dqhhphyvfisohikodajhv,Brentford
+Ethan Pinnock,4,321,1,0,0,0,p231065,7yx5dqhhphyvfisohikodajhv,Brentford
+John Stones,9,439,0,0,0,0,p97299,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Max Alleyne,2,135,0,0,0,0,p494307,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Mateo Kovacic,6,126,0,0,0,0,p91651,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Bradley Burrowes,1,16,0,0,0,0,p645618,b496gs285it6bheuikox6z9mj,Aston Villa
+Lamin Sillah,0,0,0,0,0,0,p687076,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Jair Cunha,9,516,0,0,0,0,p575458,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Jesse Derry,1,44,0,0,0,0,p619734,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Djiamgone Jocelin Ta Bi,1,39,0,0,0,0,p699989,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Séamus Coleman,5,20,0,0,0,0,p59949,ehd2iemqmschhj2ec0vayztzz,Everton
+Adam Aznou,0,0,0,0,0,0,p499300,ehd2iemqmschhj2ec0vayztzz,Everton
+Alfie Cresswell,0,0,0,0,0,0,p592740,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Rhys Chadwick,0,0,0,0,0,0,p577978,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Keiber Lamadrid,0,0,0,0,0,0,p572702,4txjdaqveermfryvbfrr4taf7,West Ham
+Ryan Kavuma-McQueen,0,0,0,0,0,0,p616286,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Shumaira Mheuka,1,1,0,0,0,0,p567119,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Mamadou Sarr,3,100,0,0,0,0,p574458,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Jayden Lienou,0,0,0,0,0,0,p643970,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Will Wright,0,0,0,0,0,0,p677945,c8h9bw1l82s06h77xxrelzhur,Liverpool
+James McConnell,0,0,0,0,0,0,p491501,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Talla Ndiaye,0,0,0,0,0,0,p718875,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Jimmy Sinclair,0,0,0,0,0,0,p590040,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Archie Whitehall,0,0,0,0,0,0,p568159,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Eric da Silva Moreira,0,0,0,0,0,0,p569014,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Kieran Morrison,0,0,0,0,0,0,p596042,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Mathis Eboué,0,0,0,0,0,0,p671606,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Ollie Shield,0,0,0,0,0,0,p494556,7yx5dqhhphyvfisohikodajhv,Brentford
+Saheed Olagunju,0,0,0,0,0,0,p601956,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Harrison Jones,0,0,0,0,0,0,p547410,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Mike Trésor,6,37,0,0,0,0,p437748,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Jim Thwaites,0,0,0,0,0,0,p576634,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Luka Bentt,0,0,0,0,0,0,p559610,7yx5dqhhphyvfisohikodajhv,Brentford
+Joshua Stephenson,0,0,0,0,0,0,p649240,7yx5dqhhphyvfisohikodajhv,Brentford
+Jenson Jones,0,0,0,0,0,0,p232356,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Riley Owen,0,0,0,0,0,0,p547671,7yx5dqhhphyvfisohikodajhv,Brentford
+Marli Salmon,0,0,0,0,0,0,p616065,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Conor McManus,0,0,0,0,0,0,p587433,7yx5dqhhphyvfisohikodajhv,Brentford
+Calvin Ramsay,0,0,0,0,0,0,p489580,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Veljko Milosavljevic,7,367,0,0,0,0,p620487,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Tyler Fredricson,1,2,0,0,0,0,p547676,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Callum Olusesi,1,14,0,0,0,0,p499726,22doj4sgsocqpxw45h607udje,Spurs
+James Rowswell,1,1,0,0,0,0,p499716,22doj4sgsocqpxw45h607udje,Spurs
+James Wilson,0,0,0,0,0,0,p613232,22doj4sgsocqpxw45h607udje,Spurs
+Harvey Elliott,5,110,0,0,0,0,p444884,b496gs285it6bheuikox6z9mj,Aston Villa
+Ezra Mayers,6,113,0,0,0,0,p602903,4txjdaqveermfryvbfrr4taf7,West Ham
+Jack Whittaker,0,0,0,0,0,0,p570929,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Harry Howell,3,93,0,0,0,0,p597320,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Jaydon Jones,0,0,0,0,0,0,p571087,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Rio Kyerematen,0,0,0,0,0,0,p536134,22doj4sgsocqpxw45h607udje,Spurs
+Godwill Kukonki,0,0,0,0,0,0,p576637,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Leo Shahar,0,0,0,0,0,0,p553746,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Alysson Edward,3,47,0,0,0,0,p653481,b496gs285it6bheuikox6z9mj,Aston Villa
+Kian McMahon-Brown,0,0,0,0,0,0,p644593,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Milan Aleksic,0,0,0,0,0,0,p626844,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Jack Moorhouse,0,0,0,0,0,0,p559684,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Lucá Williams-Barnett,0,0,0,0,0,0,p611917,22doj4sgsocqpxw45h607udje,Spurs
+Luke Rawlings,0,0,0,0,0,0,p605319,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Jun'ai Byfield,1,1,0,0,0,0,p640419,22doj4sgsocqpxw45h607udje,Spurs
+Malcom DaCosta,0,0,0,0,0,0,p678552,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Ryan McAidoo,0,0,0,0,0,0,p616288,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Zach Marsh,0,0,0,0,0,0,p576980,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Amara Nallo,0,0,0,0,0,0,p611926,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Remy Rees-Dottin,0,0,0,0,0,0,p606774,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Danny Imray,0,0,0,0,0,0,p502988,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Dominic Sadi,0,0,0,0,0,0,p550596,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Charlie Stevens,0,0,0,0,0,0,p658013,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Reece Welch,0,0,0,0,0,0,p474907,ehd2iemqmschhj2ec0vayztzz,Everton
+Jamaldeen Jimoh-Aloba,1,8,0,0,0,0,p559962,b496gs285it6bheuikox6z9mj,Aston Villa
+Elijah Campbell,0,0,0,0,0,0,p491745,ehd2iemqmschhj2ec0vayztzz,Everton
+Sam Amissah,0,0,0,0,0,0,p591385,hzqh7z0mdl3v7gwete66syxp,Fulham
+Dan Neil,3,13,0,0,0,0,p223336,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Stephen Mfuni,0,0,0,0,0,0,p566213,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Tymur Tutierov,0,0,0,0,0,0,p604211,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Leo Hjelde,0,0,0,0,0,0,p477547,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Ben Casey,0,0,0,0,0,0,p631106,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+George King,0,0,0,0,0,0,p591384,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Dean Benamar,0,0,0,0,0,0,p643426,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Temple Ojinnaka,0,0,0,0,0,0,p514362,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Seth Ridgeon,0,0,0,0,0,0,p619536,hzqh7z0mdl3v7gwete66syxp,Fulham
+Charlie Tasker,0,0,0,0,0,0,p547720,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Reigan Heskey,0,0,0,0,0,0,p580921,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+George Earthy,1,8,0,0,0,0,p490885,4txjdaqveermfryvbfrr4taf7,West Ham
+Bendito Mantato,1,15,0,0,0,0,p576620,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Sam Chambers,0,0,0,0,0,0,p565863,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Oliver Pimlott,0,0,0,0,0,0,p647960,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Enock Agyei,0,0,0,0,0,0,p578614,64bxxwu2mv2qqlv0monbkj1om,Burnley
+George Brierley,0,0,0,0,0,0,p704232,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Airidas Golambeckis,0,0,0,0,0,0,p643473,4txjdaqveermfryvbfrr4taf7,West Ham
+Enso González,0,0,0,0,0,0,p593001,b9si1jn1lfxfund69e9ogcu2n,Wolves
+TJ Carroll,0,0,0,0,0,0,p618027,b496gs285it6bheuikox6z9mj,Aston Villa
+Yunus Konak,0,0,0,0,0,0,p628204,7yx5dqhhphyvfisohikodajhv,Brentford
+Wellity Lucky,0,0,0,0,0,0,p519440,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Leon Routh,0,0,0,0,0,0,p664015,b496gs285it6bheuikox6z9mj,Aston Villa
+Chido Obi,0,0,0,0,0,0,p596047,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Sam Alabi,0,0,0,0,0,0,p666607,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Julián Araujo,0,0,0,0,0,0,p436893,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Braiden Graham,0,0,0,0,0,0,p629068,ehd2iemqmschhj2ec0vayztzz,Everton
+Callum Bates,0,0,0,0,0,0,p547801,ehd2iemqmschhj2ec0vayztzz,Everton
+Kota Takai,0,0,0,0,0,0,p553299,22doj4sgsocqpxw45h607udje,Spurs
+Gustavo Nunes,0,0,0,0,0,0,p626464,7yx5dqhhphyvfisohikodajhv,Brentford
+Freddie Simmonds,0,0,0,0,0,0,p604988,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Joe Knight,1,1,0,0,0,0,p567121,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Nehemiah Oriola,1,1,0,0,0,0,p556637,e5p0ehyguld7egzhiedpdnc3w,Brighton
+Charlie Gray,0,0,0,0,0,0,p516234,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Alfie Pond,0,0,0,0,0,0,p517179,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Willy Boly,0,0,0,0,0,0,p90585,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Callum Marshall,2,58,0,0,0,0,p565431,4txjdaqveermfryvbfrr4taf7,West Ham
+Benjamin Arthur,0,0,0,0,0,0,p622536,7yx5dqhhphyvfisohikodajhv,Brentford
+Luis Guilherme,5,121,0,0,0,0,p577114,4txjdaqveermfryvbfrr4taf7,West Ham
+Jamaal Lascelles,2,19,0,0,0,0,p101148,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Fábio Carvalho,6,100,0,0,0,0,p244858,7yx5dqhhphyvfisohikodajhv,Brentford
+Andre Harriman-Annous,0,0,0,0,0,0,p646243,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Yusuf Akhamrich,0,0,0,0,0,0,p590035,22doj4sgsocqpxw45h607udje,Spurs
+Ben Broggio,0,0,0,0,0,0,p577731,b496gs285it6bheuikox6z9mj,Aston Villa
+Landon Emenalo,0,0,0,0,0,0,p611912,9q0arba2kbnywth8bkxlhgmdr,Chelsea
+Diego León,0,0,0,0,0,0,p661712,6eqit8ye8aomdsrrq0hk3v7gh,Man Utd
+Antoni Milambo,1,45,0,0,0,0,p543295,7yx5dqhhphyvfisohikodajhv,Brentford
+Harry Gray,0,0,0,0,0,0,p600882,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Travis Patterson,0,0,0,0,0,0,p534836,b496gs285it6bheuikox6z9mj,Aston Villa
+Triston Rowe,0,0,0,0,0,0,p569577,b496gs285it6bheuikox6z9mj,Aston Villa
+Manuel Akanji,0,0,0,0,0,0,p211975,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Ilkay Gündogan,0,0,0,0,0,0,p59859,a3nyxabgsqlnqfkeg41m6tnpp,Man City
+Aaron Ramsey,0,0,0,0,0,0,p447715,64bxxwu2mv2qqlv0monbkj1om,Burnley
+Patrick Roberts,1,27,0,0,0,0,p124165,1r3545b2dzan8yqa80gtmcjch,Sunderland
+Manor Solomon,0,0,0,0,0,0,p235674,22doj4sgsocqpxw45h607udje,Spurs
+Romain Faivre,0,0,0,0,0,0,p441240,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Sasa Kalajdzic,1,14,0,0,0,0,p429414,b9si1jn1lfxfund69e9ogcu2n,Wolves
+Tyler Onyango,0,0,0,0,0,0,p461446,ehd2iemqmschhj2ec0vayztzz,Everton
+Giovanni Leoni,0,0,0,0,0,0,p647681,c8h9bw1l82s06h77xxrelzhur,Liverpool
+Odsonne Édouard,1,2,0,0,0,0,p199670,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Youssef Chermiti,0,0,0,0,0,0,p491012,ehd2iemqmschhj2ec0vayztzz,Everton
+Jakub Kiwior,0,0,0,0,0,0,p440854,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal
+Luka Vuskovic,0,0,0,0,0,0,p610799,22doj4sgsocqpxw45h607udje,Spurs
+Nayef Aguerd,2,180,0,0,0,0,p210494,4txjdaqveermfryvbfrr4taf7,West Ham
+Largie Ramazani,0,0,0,0,0,0,p433952,48gk2hpqtsl6p9sx9kjhaydq4,Leeds
+Mads Roerslev,0,0,0,0,0,0,p226956,7yx5dqhhphyvfisohikodajhv,Brentford
+Jota Silva,1,11,0,0,0,0,p510500,1qtaiy11gswx327s0vkibf70n,Nott'm Forest
+Jesurun Rak-Sakyi,0,0,0,0,0,0,p450542,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace
+Andreas Pereira,0,0,0,0,0,0,p156689,hzqh7z0mdl3v7gwete66syxp,Fulham
+Edson Álvarez,0,0,0,0,0,0,p213999,4txjdaqveermfryvbfrr4taf7,West Ham
+Samuel Iling-Junior,0,0,0,0,0,0,p469247,b496gs285it6bheuikox6z9mj,Aston Villa
+Park Seung-Soo,0,0,0,0,0,0,p623110,7vn2i2kd35zuetw6b38gw9jsz,Newcastle
+Ben Winterburn,1,6,0,0,0,0,p606775,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Hamed Traoré,1,16,0,0,0,0,p424044,1pse9ta7a45pi2w2grjim70ge,Bournemouth
+Philip Billing,0,0,0,0,0,0,p168991,1pse9ta7a45pi2w2grjim70ge,Bournemouth
